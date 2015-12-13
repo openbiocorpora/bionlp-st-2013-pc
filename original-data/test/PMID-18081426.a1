@@ -1,0 +1,33 @@
+T1	Gene_or_gene_product 0 4	Bub1
+T2	Gene_or_gene_product 20 24	Sgo1
+T3	Cellular_component 45 55	chromosome
+T4	Cellular_component 122 133	chromosomes
+T5	Cellular_component 309 316	spindle
+T6	Cellular_component 386 396	chromosome
+T7	Cellular_component 442 454	kinetochores
+T8	Cellular_component 495 515	spindle microtubules
+T9	Gene_or_gene_product 517 521	Bub1
+T10	Cellular_component 556 563	spindle
+T11	Gene_or_gene_product 594 598	Bub1
+T12	Cellular_component 629 640	microtubule
+T13	Gene_or_gene_product 708 712	Bub1
+T14	Gene_or_gene_product 803 808	Bub1p
+T15	Cellular_component 825 832	spindle
+T16	Gene_or_gene_product 935 939	bub1
+T17	Cellular_component 1005 1016	microtubule
+T18	Cellular_component 1038 1049	kinetochore
+T19	Cellular_component 1050 1061	microtubule
+T20	Gene_or_gene_product 1082 1086	bub1
+T21	Cellular_component 1116 1127	microtubule
+T22	Gene_or_gene_product 1151 1155	bub1
+T23	Cellular_component 1188 1198	chromosome
+T24	Simple_chemical 1233 1243	nocodazole
+T25	Gene_or_gene_product 1252 1256	bub1
+T26	Gene_or_gene_product 1281 1286	Sgo1p
+T27	Gene_or_gene_product 1321 1325	Bub1
+T28	Gene_or_gene_product 1344 1349	Sgo1p
+T29	Cellular_component 1376 1386	chromosome
+T30	Simple_chemical 1407 1417	nocodazole
+T31	Gene_or_gene_product 1445 1449	Bub1
+T32	Gene_or_gene_product 1461 1466	Sgo1p
+T33	Cellular_component 1517 1534	sister chromatids

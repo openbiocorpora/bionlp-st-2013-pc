@@ -1,0 +1,15 @@
+T1	Gene_or_gene_product 6 20	gastric lipase
+T2	Simple_chemical 67 72	lipid
+T3	Gene_or_gene_product 85 91	lipase
+T4	Gene_or_gene_product 109 123	gastric lipase
+T5	Simple_chemical 217 232	triacylglycerol
+T6	Simple_chemical 253 258	water
+T7	Gene_or_gene_product 391 398	trypsin
+T8	Simple_chemical 440 448	lysine-4
+T9	Simple_chemical 453 462	leucine-5
+T10	Simple_chemical 527 542	triacylglycerol
+T11	Simple_chemical 570 582	fat globules
+T12	Simple_chemical 643 651	lysine-4
+T13	Gene_or_gene_product 691 705	gastric lipase
+T14	Simple_chemical 709 714	lipid
+T15	Simple_chemical 715 720	water

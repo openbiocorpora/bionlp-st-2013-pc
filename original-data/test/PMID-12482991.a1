@@ -1,0 +1,67 @@
+T1	Gene_or_gene_product 0 8	betaTrCP
+T2	Complex 33 43	NF-kappaB1
+T3	Gene_or_gene_product 44 48	p105
+T4	Gene_or_gene_product 77 81	p105
+T5	Simple_chemical 82 93	serines 927
+T6	Simple_chemical 98 101	932
+T7	Complex 104 114	NF-kappaB1
+T8	Gene_or_gene_product 115 119	p105
+T9	Complex 153 163	NF-kappaB1
+T10	Gene_or_gene_product 164 167	p50
+T11	Cellular_component 177 188	cytoplasmic
+T12	Complex 202 211	NF-kappaB
+T13	Gene_or_gene_product 253 280	tumor necrosis factor alpha
+T14	Gene_or_gene_product 282 291	TNF-alpha
+T15	Complex 298 312	IkappaB kinase
+T16	Complex 314 317	IKK
+T17	Complex 350 360	NF-kappaB1
+T18	Gene_or_gene_product 361 365	p105
+T19	Simple_chemical 369 379	serine 927
+T20	Gene_or_gene_product 438 447	TNF-alpha
+T21	Gene_or_gene_product 459 463	p105
+T22	Gene_or_gene_product 507 510	Rel
+T23	Complex 511 520	NF-kappaB
+T24	Cellular_component 554 561	nucleus
+T25	Simple_chemical 602 612	Serine 927
+T26	Simple_chemical 643 646	Asp
+T27	Simple_chemical 647 655	Ser(927)
+T28	Simple_chemical 656 659	Gly
+T29	Simple_chemical 660 663	Val
+T30	Simple_chemical 664 667	Glu
+T31	Simple_chemical 668 671	Thr
+T32	Simple_chemical 672 680	Ser(932)
+T33	Complex 700 703	IKK
+T34	Gene_or_gene_product 723 735	IkappaBalpha
+T35	Gene_or_gene_product 752 761	TNF-alpha
+T36	Gene_or_gene_product 770 774	p105
+T37	Simple_chemical 847 857	serine 932
+T38	Gene_or_gene_product 876 880	IKK1
+T39	Gene_or_gene_product 890 894	IKK2
+T40	Complex 959 962	IKK
+T41	Gene_or_gene_product 988 997	TNF-alpha
+T42	Gene_or_gene_product 1030 1034	p105
+T43	Simple_chemical 1035 1046	serines 927
+T44	Simple_chemical 1051 1054	932
+T45	Gene_or_gene_product 1078 1082	IKK1
+T46	Gene_or_gene_product 1087 1091	IKK2
+T47	Gene_or_gene_product 1117 1147	glutathione S-transferase-p105
+T48	Complex 1209 1212	IKK
+T49	Gene_or_gene_product 1222 1226	p105
+T50	Gene_or_gene_product 1272 1280	betaTrCP
+T51	Gene_or_gene_product 1318 1327	ubiquitin
+T52	Gene_or_gene_product 1356 1364	betaTrCP
+T53	Gene_or_gene_product 1392 1401	TNF-alpha
+T54	Gene_or_gene_product 1410 1414	p105
+T55	Gene_or_gene_product 1500 1508	betaTrCP
+T56	Gene_or_gene_product 1515 1519	p105
+T57	Simple_chemical 1547 1558	serines 927
+T58	Simple_chemical 1563 1566	932
+T59	Gene_or_gene_product 1611 1619	betaTrCP
+T60	Complex 1637 1640	IKK
+T61	Gene_or_gene_product 1668 1672	p105
+T62	Gene_or_gene_product 1709 1721	IkappaBalpha
+T63	Gene_or_gene_product 1753 1757	p105
+T64	Gene_or_gene_product 1773 1781	betaTrCP
+T65	Gene_or_gene_product 1838 1842	p105
+T66	Gene_or_gene_product 1861 1870	TNF-alpha
+T67	Gene_or_gene_product 1904 1916	IkappaBalpha

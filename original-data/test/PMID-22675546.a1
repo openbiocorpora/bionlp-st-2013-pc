@@ -1,0 +1,42 @@
+T1	Gene_or_gene_product 0 8	E3-14.7K
+T2	Complex 25 39	TNF-receptor 1
+T3	Gene_or_gene_product 51 54	TNF
+T4	Gene_or_gene_product 99 109	optineurin
+T5	Cellular_component 164 177	intracellular
+T6	Gene_or_gene_product 212 220	E3-14.7K
+T7	Gene_or_gene_product 222 227	14.7K
+T8	Gene_or_gene_product 264 285	tumor necrosis factor
+T9	Gene_or_gene_product 287 290	TNF
+T10	Complex 333 347	TNF-receptor 1
+T11	Complex 349 354	TNFR1
+T12	Gene_or_gene_product 456 461	14.7K
+T13	Complex 498 503	TNFR1
+T14	Gene_or_gene_product 632 637	14.7K
+T15	Gene_or_gene_product 646 651	14.7K
+T16	Gene_or_gene_product 672 682	optineurin
+T17	Complex 686 691	TNFR1
+T18	Gene_or_gene_product 736 746	optineurin
+T19	Cellular_component 791 798	vesicle
+T20	Complex 830 851	nuclear factor kappaB
+T21	Complex 853 862	NF-kappaB
+T22	Gene_or_gene_product 939 949	optineurin
+T23	Gene_or_gene_product 953 958	14.7K
+T24	Complex 999 1004	TNFR1
+T25	Gene_or_gene_product 1049 1052	TNF
+T26	Gene_or_gene_product 1124 1129	14.7K
+T27	Gene_or_gene_product 1134 1144	optineurin
+T28	Gene_or_gene_product 1179 1184	14.7K
+T29	Gene_or_gene_product 1213 1216	TNF
+T30	Gene_or_gene_product 1263 1273	optineurin
+T31	Gene_or_gene_product 1308 1313	14.7K
+T32	Gene_or_gene_product 1428 1431	TNF
+T33	Gene_or_gene_product 1498 1503	14.7K
+T34	Gene_or_gene_product 1585 1588	TNF
+T35	Gene_or_gene_product 1654 1664	optineurin
+T36	Gene_or_gene_product 1668 1673	14.7K
+T37	Gene_or_gene_product 1761 1768	caspase
+T38	Gene_or_gene_product 1814 1824	optineurin
+T39	Cellular_component 1895 1907	cell surface
+T40	Complex 1941 1946	TNFR1
+T41	Gene_or_gene_product 1978 1983	14.7K
+T42	Gene_or_gene_product 2012 2015	TNF

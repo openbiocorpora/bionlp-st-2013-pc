@@ -1,0 +1,30 @@
+T1	Gene_or_gene_product 16 46	glycogen synthase kinase-3beta
+T2	Complex 68 77	NF-kappaB
+T3	Gene_or_gene_product 91 131	Glycogen synthase kinase-3 (GSK-3)-alpha
+T4	Gene_or_gene_product 136 141	-beta
+T5	Simple_chemical 170 176	serine
+T6	Gene_or_gene_product 224 227	Wnt
+T7	Gene_or_gene_product 352 357	GSK-3
+T8	Gene_or_gene_product 475 484	GSK-3beta
+T9	Gene_or_gene_product 617 639	tumour necrosis factor
+T10	Gene_or_gene_product 641 644	TNF
+T11	Complex 756 765	NF-kappaB
+T12	Gene_or_gene_product 767 776	GSK-3beta
+T13	Gene_or_gene_product 825 828	TNF
+T14	Gene_or_gene_product 843 852	TNF-alpha
+T15	Gene_or_gene_product 880 889	GSK-3beta
+T16	Gene_or_gene_product 931 940	TNF-alpha
+T17	Complex 960 969	NF-kappaB
+T18	Simple_chemical 980 987	Lithium
+T19	Gene_or_gene_product 1014 1019	GSK-3
+T20	Gene_or_gene_product 1068 1071	TNF
+T21	Complex 1105 1114	NF-kappaB
+T22	Complex 1143 1152	NF-kappaB
+T23	Gene_or_gene_product 1180 1188	I-kappaB
+T24	Complex 1210 1219	NF-kappaB
+T25	Cellular_component 1227 1234	nucleus
+T26	Gene_or_gene_product 1267 1276	GSK-3beta
+T27	Complex 1294 1303	NF-kappaB
+T28	Gene_or_gene_product 1320 1329	GSK-3beta
+T29	Gene_or_gene_product 1381 1390	GSK-3beta
+T30	Complex 1403 1412	NF-kappaB

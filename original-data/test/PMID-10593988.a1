@@ -1,0 +1,24 @@
+T1	Gene_or_gene_product 6 42	inositol polyphosphate 5-phosphatase
+T2	Cellular_component 56 72	membrane ruffles
+T3	Gene_or_gene_product 98 134	inositol polyphosphate 5-phosphatase
+T4	Gene_or_gene_product 201 214	5-phosphatase
+T5	Simple_chemical 298 305	proline
+T6	Gene_or_gene_product 428 439	14-3-3 zeta
+T7	Simple_chemical 517 526	phosphate
+T8	Simple_chemical 550 578	inositol 1,4,5-trisphosphate
+T9	Simple_chemical 580 615	inositol 1,3,4, 5-tetrakisphosphate
+T10	Simple_chemical 621 658	phosphatidylinositol 4,5-bisphosphate
+T11	Gene_or_gene_product 705 726	type II 5-phosphatase
+T12	Gene_or_gene_product 728 732	OCRL
+T13	Gene_or_gene_product 734 746	synaptojanin
+T14	Gene_or_gene_product 751 765	synaptojanin 2
+T15	Gene_or_gene_product 789 803	5-phosphatases
+T16	Gene_or_gene_product 814 817	Myc
+T17	Gene_or_gene_product 891 894	Myc
+T18	Cellular_component 941 959	ruffling membranes
+T19	Cellular_component 971 980	cytoplasm
+T20	Simple_chemical 1099 1106	proline
+T21	Cellular_component 1196 1214	ruffling membranes
+T22	Simple_chemical 1256 1264	inositol
+T23	Simple_chemical 1269 1304	phosphatidylinositol polyphosphates
+T24	Cellular_component 1308 1324	membrane ruffles

@@ -1,0 +1,46 @@
+T1	Gene_or_gene_product 22 25	p18
+T2	Gene_or_gene_product 29 36	p16INK4
+T3	Gene_or_gene_product 37 41	MTS1
+T4	Gene_or_gene_product 47 55	p14INK4B
+T5	Gene_or_gene_product 56 60	MTS2
+T6	Gene_or_gene_product 69 73	CDK6
+T7	Gene_or_gene_product 111 114	pRb
+T8	Gene_or_gene_product 130 161	D-type cyclin-dependent kinases
+T9	Gene_or_gene_product 162 166	CDK4
+T10	Gene_or_gene_product 171 175	CDK6
+T11	Gene_or_gene_product 225 228	p14
+T12	Gene_or_gene_product 230 233	p15
+T13	Gene_or_gene_product 235 238	p16
+T14	Gene_or_gene_product 240 243	p18
+T15	Gene_or_gene_product 249 252	p20
+T16	Gene_or_gene_product 308 312	MTS2
+T17	Gene_or_gene_product 347 351	CDK4
+T18	Gene_or_gene_product 357 361	CDK6
+T19	Gene_or_gene_product 373 376	p14
+T20	Gene_or_gene_product 437 441	CDK6
+T21	Gene_or_gene_product 512 515	p18
+T22	Complex 542 555	cyclin D-CDK4
+T23	Gene_or_gene_product 567 570	p16
+T24	Gene_or_gene_product 572 577	INK4A
+T25	Gene_or_gene_product 578 582	MTS1
+T26	Gene_or_gene_product 588 591	p14
+T27	Gene_or_gene_product 593 597	MTS2
+T28	Gene_or_gene_product 598 603	INK4B
+T29	Gene_or_gene_product 633 636	p18
+T30	Gene_or_gene_product 661 665	CDK6
+T31	Gene_or_gene_product 679 683	CDK4
+T32	Gene_or_gene_product 745 749	CDKs
+T33	Gene_or_gene_product 763 766	p18
+T34	Complex 799 812	cyclin D-CDK6
+T35	Gene_or_gene_product 832 835	p21
+T36	Gene_or_gene_product 836 839	p27
+T37	Gene_or_gene_product 850 853	CDK
+T38	Complex 898 909	cyclin-CDKs
+T39	Gene_or_gene_product 936 939	p14
+T40	Gene_or_gene_product 941 944	p16
+T41	Gene_or_gene_product 950 953	p18
+T42	Gene_or_gene_product 985 989	CDK4
+T43	Gene_or_gene_product 997 1001	CDK6
+T44	Gene_or_gene_product 1025 1028	p18
+T45	Gene_or_gene_product 1032 1035	p16
+T46	Gene_or_gene_product 1112 1115	pRb

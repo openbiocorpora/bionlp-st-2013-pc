@@ -1,0 +1,20 @@
+T1	Gene_or_gene_product 76 83	p21WAF1
+T6	Gene_or_gene_product 626 649	cyclin-dependent kinase
+T7	Gene_or_gene_product 651 654	CDK
+T8	Gene_or_gene_product 666 669	p21
+T9	Gene_or_gene_product 670 674	WAF1
+T10	Gene_or_gene_product 754 757	p21
+T11	Gene_or_gene_product 758 762	WAF1
+T14	Gene_or_gene_product 836 839	p21
+T15	Gene_or_gene_product 840 844	WAF1
+T20	Gene_or_gene_product 930 952	CDK2-associated kinase
+T21	Gene_or_gene_product 966 974	cyclin E
+T24	Gene_or_gene_product 1111 1119	cyclin A
+T25	Gene_or_gene_product 1124 1127	E2F
+T26	Gene_or_gene_product 1337 1340	p21
+T27	Gene_or_gene_product 1341 1345	WAF1
+T28	Gene_or_gene_product 1448 1451	p21
+T29	Gene_or_gene_product 1452 1456	WAF1
+T34	Complex 866 889	p21(WAF1)/cyclin E/CDK2
+T17	Complex 803 816	cyclin E/CDK2
+T2	Complex 1072 1085	cyclin E/CDK2

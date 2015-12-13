@@ -1,0 +1,22 @@
+T1	Gene_or_gene_product 10 37	L-threonine 3-dehydrogenase
+T2	Simple_chemical 84 95	L-threonine
+T3	Simple_chemical 145 156	L-threonine
+T4	Simple_chemical 199 210	L-threonine
+T5	Simple_chemical 215 237	2-amino-3-ketobutyrate
+T6	Simple_chemical 241 248	glycine
+T7	Gene_or_gene_product 250 275	L-threonine dehydrogenase
+T8	Gene_or_gene_product 277 289	EC 1.1.1.103
+T9	Simple_chemical 354 365	L-threonine
+T10	Simple_chemical 368 372	NAD+
+T11	Simple_chemical 375 397	2-amino-3-ketobutyrate
+T12	Simple_chemical 400 404	NADH
+T13	Gene_or_gene_product 429 454	L-threonine dehydrogenase
+T14	Gene_or_gene_product 462 465	TDH
+T15	Gene_or_gene_product 563 566	TDH
+T16	Gene_or_gene_product 700 703	TDH
+T17	Simple_chemical 1146 1158	arginine-214
+T18	Simple_chemical 1273 1277	NAD+
+T19	Simple_chemical 1363 1374	L-threonine
+T20	Gene_or_gene_product 1376 1379	TDH
+T21	Gene_or_gene_product 1445 1472	L-threonine 3-dehydrogenase
+T22	Simple_chemical 1569 1581	arginine-214

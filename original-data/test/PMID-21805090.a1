@@ -1,0 +1,29 @@
+T1	Gene_or_gene_product 4 7	Ran
+T2	Gene_or_gene_product 24 30	RanBPM
+T3	Complex 47 56	NF-kappaB
+T4	Gene_or_gene_product 85 90	TRAF6
+T5	Gene_or_gene_product 93 145	Ran-binding protein in microtubule-organizing center
+T6	Gene_or_gene_product 147 153	RanBPM
+T7	Gene_or_gene_product 194 206	neurotrophin
+T8	Gene_or_gene_product 217 223	p75NTR
+T9	Gene_or_gene_product 228 232	TrkA
+T10	Gene_or_gene_product 244 250	p75NTR
+T11	Gene_or_gene_product 255 259	TrkA
+T12	Gene_or_gene_product 283 288	TRAF6
+T13	Gene_or_gene_product 298 304	RanBPM
+T14	Gene_or_gene_product 329 334	TRAF6
+T15	Gene_or_gene_product 416 443	glutathione-S: -transferase
+T16	Gene_or_gene_product 481 487	RanBPM
+T17	Gene_or_gene_product 501 506	TRAF6
+T18	Gene_or_gene_product 582 588	RanBPM
+T19	Gene_or_gene_product 593 598	TRAF6
+T20	Gene_or_gene_product 794 800	RanBPM
+T21	Gene_or_gene_product 805 810	TRAF6
+T22	Gene_or_gene_product 891 897	RanBPM
+T23	Gene_or_gene_product 909 914	TRAF6
+T24	Gene_or_gene_product 938 943	TRAF6
+T25	Complex 954 963	NF-kappaB
+T26	Gene_or_gene_product 990 996	RanBPM
+T27	Gene_or_gene_product 1016 1021	TRAF6
+T28	Gene_or_gene_product 1047 1053	RanBPM
+T29	Gene_or_gene_product 1103 1108	TRAF6

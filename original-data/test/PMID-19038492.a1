@@ -1,0 +1,27 @@
+T1	Gene_or_gene_product 53 60	p27Kip1
+T2	Simple_chemical 75 85	serine 276
+T3	Gene_or_gene_product 109 112	p65
+T4	Complex 124 133	NF-kappaB
+T5	Gene_or_gene_product 159 162	p65
+T6	Complex 174 183	NF-kappaB
+T7	Gene_or_gene_product 274 277	p65
+T8	Simple_chemical 281 291	serine 276
+T9	Gene_or_gene_product 349 353	IL-6
+T10	Gene_or_gene_product 355 359	IL-8
+T11	Gene_or_gene_product 361 369	Gro-beta
+T12	Gene_or_gene_product 375 381	ICAM-1
+T13	Simple_chemical 434 444	serine 276
+T14	Gene_or_gene_product 541 544	p65
+T15	Gene_or_gene_product 552 557	S276A
+T16	Gene_or_gene_product 568 571	p65
+T17	Simple_chemical 644 654	serine 276
+T18	Gene_or_gene_product 827 832	S276A
+T19	Gene_or_gene_product 873 876	p27
+T20	Gene_or_gene_product 952 955	p27
+T21	Gene_or_gene_product 961 965	cdk2
+T22	Gene_or_gene_product 985 989	cdk2
+T23	Complex 1029 1038	NF-kappaB
+T24	Gene_or_gene_product 1143 1148	S276A
+T25	Complex 1205 1214	NF-kappaB
+T26	Simple_chemical 1308 1318	serine 276
+T27	Gene_or_gene_product 1323 1326	p27

@@ -1,0 +1,34 @@
+T1	Gene_or_gene_product 77 82	Ace2p
+T2	Gene_or_gene_product 87 92	Swi5p
+T3	Gene_or_gene_product 127 132	Ace2p
+T4	Gene_or_gene_product 137 142	Swi5p
+T5	Cellular_component 248 257	cell wall
+T6	Gene_or_gene_product 332 337	Ace2p
+T7	Gene_or_gene_product 341 346	Swi5p
+T8	Gene_or_gene_product 384 389	Ace2p
+T9	Gene_or_gene_product 428 432	CTS1
+T10	Gene_or_gene_product 434 441	YHR143W
+T11	Gene_or_gene_product 443 448	SCW11
+T12	Gene_or_gene_product 453 460	YER124C
+T13	Gene_or_gene_product 502 507	Swi5p
+T14	Gene_or_gene_product 514 519	Cts1p
+T15	Gene_or_gene_product 524 530	Scw11p
+T16	Gene_or_gene_product 544 549	Ace2p
+T17	Cellular_component 578 587	cell wall
+T18	Gene_or_gene_product 600 607	Yhr143p
+T19	Cellular_component 628 637	cell wall
+T20	Gene_or_gene_product 719 726	YER124C
+T21	Cellular_component 802 811	cell wall
+T22	Gene_or_gene_product 827 831	PIR1
+T23	Gene_or_gene_product 833 840	YPL158C
+T24	Gene_or_gene_product 845 852	YNL046W
+T25	Gene_or_gene_product 869 874	Swi5p
+T26	Gene_or_gene_product 909 916	YBR158W
+T27	Gene_or_gene_product 918 925	YNL078W
+T28	Gene_or_gene_product 930 937	YOR264W
+T29	Gene_or_gene_product 961 965	ace2
+T30	Gene_or_gene_product 970 974	swi5
+T31	Gene_or_gene_product 1016 1021	Ace2p
+T32	Gene_or_gene_product 1026 1031	Swi5p
+T33	Gene_or_gene_product 1215 1220	Ace2p
+T34	Gene_or_gene_product 1269 1274	Swi5p

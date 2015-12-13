@@ -1,0 +1,44 @@
+T1	Gene_or_gene_product 0 4	Acm1
+T2	Gene_or_gene_product 36 40	CDH1
+T3	Complex 51 87	anaphase-promoting complex/cyclosome
+T4	Gene_or_gene_product 107 111	Cdh1
+T5	Complex 136 172	anaphase-promoting complex/cyclosome
+T6	Complex 174 179	APC/C
+T7	Gene_or_gene_product 357 361	Cdh1
+T8	Gene_or_gene_product 429 435	14-3-3
+T9	Gene_or_gene_product 445 449	Bmh1
+T10	Gene_or_gene_product 454 458	Bmh2
+T11	Gene_or_gene_product 515 519	Acm1
+T12	Gene_or_gene_product 521 542	APC/CCdh1 modulator 1
+T13	Gene_or_gene_product 560 564	Cdh1
+T14	Gene_or_gene_product 570 574	Bmh1
+T15	Gene_or_gene_product 579 583	Bmh2
+T16	Gene_or_gene_product 593 597	Acm1
+T17	Gene_or_gene_product 607 611	Acm1
+T18	Gene_or_gene_product 697 701	acm1
+T19	Gene_or_gene_product 716 720	Cdh1
+T20	Cellular_component 741 749	bud neck
+T21	Gene_or_gene_product 787 791	Clb2
+T22	Gene_or_gene_product 796 800	Hsl1
+T23	Gene_or_gene_product 865 869	Acm1
+T24	Complex 883 892	APC/CCdh1
+T25	Gene_or_gene_product 925 932	cyclins
+T26	Gene_or_gene_product 959 963	Acm1
+T27	Gene_or_gene_product 1025 1029	Cdh1
+T28	Gene_or_gene_product 1057 1061	Cdh1
+T29	Gene_or_gene_product 1137 1141	Acm1
+T30	Gene_or_gene_product 1155 1159	sic1
+T31	Gene_or_gene_product 1179 1183	ACM1
+T32	Cellular_component 1232 1235	bud
+T33	Gene_or_gene_product 1281 1285	Cdh1
+T34	Cellular_component 1292 1295	bud
+T35	Gene_or_gene_product 1379 1383	acm1
+T36	Gene_or_gene_product 1393 1397	hsl1
+T37	Cellular_component 1441 1444	bud
+T38	Cellular_component 1483 1486	bud
+T39	Gene_or_gene_product 1519 1523	Cdh1
+T40	Complex 1604 1609	APC/C
+T41	Gene_or_gene_product 1680 1684	Acm1
+T42	Gene_or_gene_product 1689 1693	Bmh1
+T43	Gene_or_gene_product 1694 1698	Bmh2
+T44	Complex 1737 1746	APC/CCdh1

@@ -1,0 +1,40 @@
+T1	Gene_or_gene_product 23 27	MEKK
+T2	Gene_or_gene_product 28 34	Ste11p
+T3	Gene_or_gene_product 42 45	PAK
+T4	Gene_or_gene_product 58 64	Ste20p
+T5	Gene_or_gene_product 81 91	MAP kinase
+T6	Cellular_component 161 173	cell surface
+T7	Cellular_component 181 188	nucleus
+T8	Gene_or_gene_product 197 235	mitogen-activated protein (MAP) kinase
+T9	Gene_or_gene_product 260 270	MAP kinase
+T10	Gene_or_gene_product 299 302	MEK
+T11	Gene_or_gene_product 335 338	Raf
+T12	Gene_or_gene_product 340 343	Mos
+T13	Gene_or_gene_product 394 399	MEKKs
+T14	Gene_or_gene_product 426 431	MEKKs
+T15	Gene_or_gene_product 486 490	MEKK
+T16	Gene_or_gene_product 491 497	Ste11p
+T17	Gene_or_gene_product 520 530	MAP kinase
+T18	Gene_or_gene_product 653 681	p21-activated protein kinase
+T19	Gene_or_gene_product 683 686	PAK
+T20	Gene_or_gene_product 688 694	Ste20p
+T21	Gene_or_gene_product 717 723	Ste11p
+T22	Gene_or_gene_product 729 735	Ste20p
+T23	Gene_or_gene_product 768 774	Ste11p
+T24	Gene_or_gene_product 794 800	Ste20p
+T25	Gene_or_gene_product 816 822	Ste11p
+T26	Simple_chemical 826 832	Ser302
+T27	Simple_chemical 840 846	Ser306
+T28	Simple_chemical 851 857	Thr307
+T29	Gene_or_gene_product 899 904	MEKKs
+T30	Gene_or_gene_product 989 995	Ste11p
+T31	Simple_chemical 1031 1044	aspartic acid
+T32	Gene_or_gene_product 1103 1109	Ste11p
+T33	Gene_or_gene_product 1123 1129	Ste20p
+T34	Gene_or_gene_product 1190 1196	Ste11p
+T35	Gene_or_gene_product 1292 1298	Ste11p
+T36	Simple_chemical 1458 1464	Thr596
+T37	Gene_or_gene_product 1636 1642	Ste11p
+T38	Gene_or_gene_product 1646 1652	Ste20p
+T39	Gene_or_gene_product 1727 1732	Ste11
+T40	Gene_or_gene_product 1820 1825	MEKKs

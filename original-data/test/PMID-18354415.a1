@@ -1,0 +1,12 @@
+T1	Gene_or_gene_product 4 7	Cdk
+T2	Gene_or_gene_product 18 21	p27
+T3	Gene_or_gene_product 102 125	cyclin-dependent kinase
+T4	Gene_or_gene_product 127 130	Cdk
+T5	Gene_or_gene_product 142 145	p27
+T6	Gene_or_gene_product 161 165	KIP1
+T7	Gene_or_gene_product 397 400	p27
+T8	Gene_or_gene_product 428 431	p27
+T9	Complex 461 471	cyclin-Cdk
+T10	Gene_or_gene_product 508 517	ubiquitin
+T11	Gene_or_gene_product 552 555	p27
+T12	Gene_or_gene_product 703 706	p27

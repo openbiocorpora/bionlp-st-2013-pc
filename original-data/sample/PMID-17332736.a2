@@ -1,0 +1,71 @@
+*	Equiv T7 T8
+*	Equiv T13 T14
+*	Equiv T19 T20
+*	Equiv T21 T22
+*	Equiv T29 T30
+*	Equiv T31 T32
+*	Equiv T5 T6
+*	Equiv T3 T4
+T45	Pathway 485 495	cell cycle
+E1	Pathway:T45 
+T46	Pathway 685 695	cell cycle
+E2	Pathway:T46 
+T47	Pathway 1137 1147	cell cycle
+E3	Pathway:T47 
+T48	Gene_expression 87 97	expression
+E4	Gene_expression:T48 Theme:T2
+T49	Positive_regulation 29 37	required
+E5	Positive_regulation:T49 Cause:T1 Theme:E4
+*	Equiv T9 T10
+T51	Positive_regulation 589 598	increased
+E6	Positive_regulation:T51 Cause:T39 Theme:T16
+E7	Positive_regulation:T51 Cause:T39 Theme:T17
+T53	Transcription 798 811	transcription
+E8	Transcription:T53 Theme:T19
+T54	Translation 816 834	protein expression
+E9	Translation:T54 Theme:T19
+T55	Positive_regulation 775 782	induced
+E10	Positive_regulation:T55 Cause:T41 Theme:E8
+E11	Positive_regulation:T55 Cause:T41 Theme:E9
+T56	Negative_regulation 750 761	attenuating
+E12	Negative_regulation:T56 Cause:T52 Theme:E8
+E13	Negative_regulation:T56 Cause:T52 Theme:E9
+T23	Phosphorylation 1015 1030	phosphorylation
+E14	Phosphorylation:T23 Theme:T26
+T24	Binding 1048 1055	binding
+E15	Binding:T24 Theme:T27
+T59	Binding 893 900	binding
+E16	Binding:T59 Theme:T21 Theme2:T58
+T60	Positive_regulation 885 892	induced
+E17	Positive_regulation:T60 Cause:T42 Theme:E16
+T61	Negative_regulation 861 871	attenuated
+E18	Negative_regulation:T61 Cause:T57 Theme:E16
+T62	Positive_regulation 977 984	induced
+E19	Positive_regulation:T62 Cause:T43 Theme:T25
+T63	Negative_regulation 952 963	attenuating
+E20	Negative_regulation:T63 Cause:T57 Theme:T25
+E21	Negative_regulation:T63 Cause:T57 Theme:E14
+E22	Negative_regulation:T63 Cause:T57 Theme:E15
+T64	Transcription 1181 1194	transcription
+E23	Transcription:T64 Theme:T29
+T65	Gene_expression 1199 1209	expression
+E24	Gene_expression:T65 Theme:T29
+T66	Binding 1221 1228	binding
+E25	Binding:T66 Theme:T31 Theme2:T67
+T33	Positive_regulation 1103 1111	required
+E26	Positive_regulation:T33 Cause:T28 Theme:E23
+E27	Positive_regulation:T33 Cause:T28 Theme:E24
+E28	Positive_regulation:T33 Cause:T28 Theme:E25
+E29	Positive_regulation:T33 Cause:T28 Theme:T35
+E30	Positive_regulation:T33 Cause:T28 Theme:T36
+T34	Positive_regulation 349 358	increased
+E31	Positive_regulation:T34 Theme:T9
+E32	Positive_regulation:T34 Theme:T11
+T68	Positive_regulation 55 62	induced
+E33	Positive_regulation:T68 Cause:T37 Theme:E4
+T69	Positive_regulation 1129 1136	induced
+E34	Positive_regulation:T69 Cause:T44 Theme:E23
+E35	Positive_regulation:T69 Cause:T44 Theme:E24
+E36	Positive_regulation:T69 Cause:T44 Theme:E25
+E37	Positive_regulation:T69 Cause:T44 Theme:T35
+E38	Positive_regulation:T69 Cause:T44 Theme:T36

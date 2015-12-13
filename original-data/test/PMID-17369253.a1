@@ -1,0 +1,44 @@
+T1	Complex 4 16	Rtt109-Vps75
+T2	Gene_or_gene_product 17 42	histone acetyltransferase
+T3	Gene_or_gene_product 78 88	histone H3
+T4	Simple_chemical 106 115	lysine 56
+T5	Gene_or_gene_product 119 129	histone H3
+T6	Gene_or_gene_product 131 133	H3
+T7	Simple_chemical 134 140	Lys-56
+T8	Gene_or_gene_product 350 375	histone acetyltransferase
+T9	Gene_or_gene_product 377 380	HAT
+T10	Gene_or_gene_product 382 388	Rtt109
+T11	Gene_or_gene_product 404 407	HAT
+T12	Gene_or_gene_product 436 438	H3
+T13	Simple_chemical 439 445	Lys-56
+T14	Gene_or_gene_product 482 488	Rtt109
+T15	Gene_or_gene_product 510 515	Vps75
+T16	Complex 542 554	Rtt109-Vps75
+T17	Gene_or_gene_product 622 624	H3
+T18	Gene_or_gene_product 636 638	H3
+T19	Gene_or_gene_product 639 641	H4
+T20	Gene_or_gene_product 642 645	H2A
+T21	Gene_or_gene_product 646 649	H2B
+T22	Gene_or_gene_product 655 663	histones
+T23	Gene_or_gene_product 678 686	histones
+T24	Complex 729 741	Rtt109-Vps75
+T25	Gene_or_gene_product 742 745	HAT
+T26	Cellular_component 796 807	nucleosomal
+T27	Gene_or_gene_product 808 810	H3
+T28	Gene_or_gene_product 828 830	H3
+T29	Simple_chemical 831 837	Lys-56
+T30	Complex 900 912	Rtt109-Vps75
+T31	Cellular_component 936 947	nucleosomal
+T32	Gene_or_gene_product 948 950	H3
+T33	Gene_or_gene_product 999 1005	Rtt109
+T34	Complex 1019 1024	H3/H4
+T35	Gene_or_gene_product 1047 1055	histones
+T36	Complex 1126 1131	H3/H4
+T37	Complex 1147 1159	Rtt109-Vps75
+T38	Gene_or_gene_product 1188 1191	HAT
+T39	Complex 1221 1226	H3/H4
+T40	Complex 1261 1266	H3/H4
+T41	Gene_or_gene_product 1319 1321	H3
+T42	Complex 1329 1341	Rtt109-Vps75
+T43	Gene_or_gene_product 1407 1409	H3
+T44	Simple_chemical 1410 1416	Lys-56

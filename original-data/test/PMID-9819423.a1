@@ -1,0 +1,13 @@
+T1	Gene_or_gene_product 54 58	polo
+T2	Gene_or_gene_product 71 76	cdc5p
+T3	Gene_or_gene_product 177 181	Polo
+T4	Gene_or_gene_product 228 233	Cdc5p
+T5	Gene_or_gene_product 276 280	Polo
+T6	Gene_or_gene_product 334 339	Cdc5p
+T7	Cellular_component 359 365	nuclei
+T8	Gene_or_gene_product 494 499	Cdc5p
+T9	Complex 559 585	anaphase-promoting complex
+T10	Complex 587 590	APC
+T11	Gene_or_gene_product 617 622	Cdc5p
+T12	Complex 775 778	APC
+T13	Gene_or_gene_product 839 844	Cdc5p

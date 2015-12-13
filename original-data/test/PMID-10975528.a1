@@ -1,0 +1,14 @@
+T1	Gene_or_gene_product 13 17	PAK1
+T2	Gene_or_gene_product 96 117	p21-activated kinases
+T3	Gene_or_gene_product 119 123	PAKs
+T4	Simple_chemical 153 156	GTP
+T5	Gene_or_gene_product 175 180	Cdc42
+T6	Gene_or_gene_product 184 187	Rac
+T7	Cellular_component 198 210	cytoskeletal
+T8	Gene_or_gene_product 211 216	actin
+T9	Gene_or_gene_product 239 249	MAP-kinase
+T10	Gene_or_gene_product 395 399	PAK1
+T11	Complex 506 516	PAK1 dimer
+T12	Gene_or_gene_product 689 693	PAK1
+T13	Gene_or_gene_product 860 892	Wiskott-Aldrich syndrome protein
+T14	Gene_or_gene_product 894 898	WASP

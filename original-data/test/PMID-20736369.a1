@@ -1,0 +1,25 @@
+T1	Complex 106 115	NF-kappaB
+T2	Gene_or_gene_product 367 372	Bcl-2
+T3	Gene_or_gene_product 377 382	Mcl-1
+T4	Gene_or_gene_product 499 504	Mcl-1
+T5	Gene_or_gene_product 892 897	Bcl-2
+T6	Gene_or_gene_product 899 904	Mcl-1
+T7	Gene_or_gene_product 910 918	Bcl-X(L)
+T8	Gene_or_gene_product 954 958	CD38
+T9	Gene_or_gene_product 963 968	CD49d
+T10	Gene_or_gene_product 1043 1047	CD38
+T11	Gene_or_gene_product 1049 1054	CD49d
+T12	Gene_or_gene_product 1065 1070	Bcl-2
+T13	Complex 1116 1125	NF-kappaB
+T14	Complex 1139 1148	NF-kappaB
+T15	Complex 1223 1232	NF-kappaB
+T16	Gene_or_gene_product 1241 1246	Rel A
+T17	Gene_or_gene_product 1332 1336	CD38
+T18	Gene_or_gene_product 1338 1343	CD49d
+T19	Gene_or_gene_product 1345 1349	BCL2
+T20	Gene_or_gene_product 1351 1355	MCL1
+T21	Gene_or_gene_product 1361 1366	BCLXL
+T22	Gene_or_gene_product 1421 1426	Rel A
+T23	Complex 1647 1656	NF-kappaB
+T24	Complex 1787 1796	NF-kappaB
+T25	Gene_or_gene_product 1834 1839	Bcl-2

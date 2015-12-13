@@ -1,0 +1,29 @@
+T1	Gene_or_gene_product 10 13	p21
+T4	Gene_or_gene_product 118 121	Cip
+T5	Gene_or_gene_product 122 125	Kip
+T6	Gene_or_gene_product 141 144	p21
+T7	Gene_or_gene_product 148 171	cyclin-dependent kinase
+T8	Gene_or_gene_product 173 176	CDK
+T9	Gene_or_gene_product 219 247	retinoic acid receptor alpha
+T10	Gene_or_gene_product 249 257	RARalpha
+T11	Gene_or_gene_product 283 291	RARalpha
+T12	Gene_or_gene_product 317 320	p21
+T13	Gene_or_gene_product 540 543	p21
+T15	Gene_or_gene_product 562 571	caspase-3
+T16	Gene_or_gene_product 625 628	p21
+T17	Gene_or_gene_product 658 661	p21
+T20	Gene_or_gene_product 718 726	cyclin E
+T21	Gene_or_gene_product 731 735	CDK2
+T22	Gene_or_gene_product 760 764	CDK2
+T23	Gene_or_gene_product 907 910	p21
+T26	Gene_or_gene_product 970 974	CDK2
+T29	Simple_chemical 264 277	retinoic acid
+T30	Simple_chemical 279 281	RA
+T31	Simple_chemical 337 339	RA
+T33	Simple_chemical 432 434	RA
+T34	Simple_chemical 547 549	RA
+T35	Simple_chemical 873 875	RA
+T36	Simple_chemical 896 898	RA
+T28	Complex 52 65	cyclin E/CDK2
+T42	Complex 685 698	cyclin E/CDK2
+T45	Complex 948 961	cyclin E/CDK2

@@ -1,0 +1,37 @@
+T1	Gene_or_gene_product 51 54	CDK
+T2	Simple_chemical 79 87	tyrosine
+T3	Gene_or_gene_product 153 157	Wee1
+T4	Simple_chemical 178 186	tyrosine
+T5	Gene_or_gene_product 206 230	cyclin-dependent kinases
+T6	Gene_or_gene_product 232 236	CDKs
+T7	Gene_or_gene_product 489 505	cyclins (B type)
+T8	Gene_or_gene_product 519 522	CDK
+T9	Simple_chemical 639 647	tyrosine
+T10	Complex 667 677	cyclin/CDK
+T11	Complex 770 780	cyclin/CDK
+T12	Simple_chemical 842 850	tyrosine
+T13	Complex 934 944	cyclin/CDK
+T14	Simple_chemical 985 993	tyrosine
+T15	Gene_or_gene_product 1020 1027	Clb5,6p
+T16	Gene_or_gene_product 1059 1066	Clb3,4p
+T17	Cellular_component 1078 1085	spindle
+T18	Cellular_component 1149 1156	nuclear
+T19	Complex 1194 1206	Clb5p/Cdc28p
+T20	Complex 1315 1327	Clb2p/Cdc28p
+T21	Gene_or_gene_product 1366 1379	CDK inhibitor
+T22	Gene_or_gene_product 1381 1384	CKI
+T23	Gene_or_gene_product 1386 1391	Sic1p
+T24	Complex 1407 1419	Clb5p/Cdc28p
+T25	Simple_chemical 1435 1443	tyrosine
+T26	Gene_or_gene_product 1541 1546	Sic1p
+T27	Gene_or_gene_product 1594 1597	CKI
+T28	Gene_or_gene_product 1598 1601	p27
+T29	Gene_or_gene_product 1602 1606	Kip1
+T30	Complex 1627 1640	Cyclin A/Cdk2
+T31	Gene_or_gene_product 1656 1660	Wee1
+T32	Gene_or_gene_product 1701 1705	CKIs
+T33	Gene_or_gene_product 1710 1714	Wee1
+T34	Gene_or_gene_product 1792 1795	CKI
+T35	Complex 1868 1880	B cyclin/CDK
+T36	Gene_or_gene_product 1954 1957	CDK
+T37	Simple_chemical 1958 1966	tyrosine

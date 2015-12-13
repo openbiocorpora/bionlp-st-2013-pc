@@ -1,0 +1,27 @@
+T1	Complex 4 20	I kappa B kinase
+T2	Complex 22 25	IKK
+T3	Complex 31 41	NF-kappa B
+T4	Complex 88 98	NF-kappa B
+T5	Complex 223 233	NF-kappa B
+T6	Cellular_component 263 272	cytoplasm
+T7	Gene_or_gene_product 323 333	I kappa Bs
+T8	Complex 440 456	I kappa B kinase
+T9	Complex 458 461	IKK
+T10	Gene_or_gene_product 568 578	I kappa Bs
+T11	Gene_or_gene_product 595 605	I kappa Bs
+T12	Gene_or_gene_product 638 647	ubiquitin
+T13	Cellular_component 742 756	26S proteasome
+T14	Complex 758 768	NF-kappa B
+T15	Cellular_component 831 838	nucleus
+T16	Complex 929 932	IKK
+T17	Gene_or_gene_product 984 993	IKK alpha
+T18	Gene_or_gene_product 998 1006	IKK beta
+T19	Gene_or_gene_product 1034 1043	IKK gamma
+T20	Complex 1072 1082	NF-kappa B
+T21	Gene_or_gene_product 1152 1161	IKK gamma
+T22	Complex 1187 1190	IKK
+T23	Complex 1218 1221	IKK
+T24	Complex 1225 1235	NF-kappa B
+T25	Gene_or_gene_product 1317 1325	IKK beta
+T26	Complex 1343 1353	NF-kappa B
+T27	Gene_or_gene_product 1435 1444	IKK alpha

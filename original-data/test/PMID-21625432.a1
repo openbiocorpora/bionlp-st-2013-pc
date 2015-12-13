@@ -1,0 +1,52 @@
+T1	Complex 22 31	NF-kappaB
+T2	Gene_or_gene_product 36 40	E2F1
+T3	Gene_or_gene_product 117 148	Pyruvate dehydrogenase kinase 4
+T4	Gene_or_gene_product 150 154	PDK4
+T5	Complex 170 191	nuclear factor-kappaB
+T6	Complex 193 202	NF-kappaB
+T7	Gene_or_gene_product 366 397	estrogen-related receptor-alpha
+T8	Gene_or_gene_product 399 407	ERRalpha
+T9	Gene_or_gene_product 413 455	peroxisome proliferator-activated receptor
+T10	Gene_or_gene_product 457 461	PPAR
+T11	Gene_or_gene_product 472 476	PDK4
+T12	Gene_or_gene_product 535 563	PPARgamma coactivator-1alpha
+T13	Gene_or_gene_product 565 575	PGC-1alpha
+T14	Complex 578 587	NF-kappaB
+T15	Gene_or_gene_product 629 637	ERRalpha
+T16	Gene_or_gene_product 642 650	PPARbeta
+T17	Gene_or_gene_product 651 656	delta
+T18	Gene_or_gene_product 704 714	PGC-1alpha
+T19	Gene_or_gene_product 719 723	PDK4
+T20	Simple_chemical 752 759	glucose
+T21	Complex 801 810	NF-kappaB
+T22	Simple_chemical 821 833	parthenolide
+T23	Gene_or_gene_product 880 884	PDK4
+T24	Gene_or_gene_product 904 912	ERRalpha
+T25	Gene_or_gene_product 917 925	PPARbeta
+T26	Gene_or_gene_product 926 931	delta
+T27	Gene_or_gene_product 1023 1027	PDK4
+T28	Gene_or_gene_product 1106 1110	E2F1
+T29	Gene_or_gene_product 1166 1170	PDK4
+T30	Complex 1194 1203	NF-kappaB
+T31	Gene_or_gene_product 1251 1255	E2F1
+T32	Complex 1337 1346	NF-kappaB
+T33	Gene_or_gene_product 1364 1368	PDK4
+T34	Gene_or_gene_product 1416 1420	E2F1
+T35	Gene_or_gene_product 1478 1482	PDK4
+T36	Gene_or_gene_product 1549 1552	p65
+T37	Complex 1564 1573	NF-kappaB
+T38	Gene_or_gene_product 1578 1582	E2F1
+T39	Cellular_component 1584 1593	Chromatin
+T40	Gene_or_gene_product 1641 1644	p65
+T41	Cellular_component 1668 1675	nucleus
+T42	Gene_or_gene_product 1705 1709	E2F1
+T43	Gene_or_gene_product 1717 1721	PDK4
+T44	Gene_or_gene_product 1750 1754	E2F1
+T45	Complex 1804 1813	NF-kappaB
+T46	Simple_chemical 1824 1836	parthenolide
+T47	Gene_or_gene_product 1865 1869	E2F1
+T48	Gene_or_gene_product 1877 1881	E2F1
+T49	Gene_or_gene_product 1905 1916	interleukin
+T50	Complex 1998 2007	NF-kappaB
+T51	Gene_or_gene_product 2050 2054	E2F1
+T52	Gene_or_gene_product 2065 2069	PDK4

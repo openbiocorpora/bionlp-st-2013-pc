@@ -1,0 +1,52 @@
+T1	Gene_or_gene_product 14 40	matrix metalloproteinase-9
+T2	Gene_or_gene_product 81 110	phosphatidylinositol-3 kinase
+T3	Gene_or_gene_product 111 114	Akt
+T4	Gene_or_gene_product 115 123	IKKalpha
+T5	Complex 124 133	NF-kappaB
+T6	Gene_or_gene_product 144 170	Matrix metalloproteinase-9
+T7	Gene_or_gene_product 172 177	MMP-9
+T8	Simple_chemical 370 388	lipopolysaccharide
+T9	Simple_chemical 390 393	LPS
+T10	Gene_or_gene_product 398 425	tumor necrosis factor alpha
+T11	Gene_or_gene_product 430 478	granulocyte macrophage-colony stimulating factor
+T12	Gene_or_gene_product 530 535	MMP-9
+T13	Simple_chemical 556 559	LPS
+T14	Gene_or_gene_product 596 601	MMP-9
+T15	Gene_or_gene_product 623 652	phosphatidylinositol-3 kinase
+T16	Gene_or_gene_product 654 659	PI-3K
+T17	Gene_or_gene_product 661 664	Akt
+T18	Gene_or_gene_product 665 707	inhibitor of kappaB (IkappaB) kinase-alpha
+T19	Gene_or_gene_product 709 717	IKKalpha
+T20	Complex 719 745	nuclear factor (NF)-kappaB
+T21	Gene_or_gene_product 773 776	Akt
+T22	Gene_or_gene_product 801 806	MMP-9
+T23	Simple_chemical 881 889	LY294002
+T24	Simple_chemical 893 903	wortmannin
+T25	Gene_or_gene_product 919 924	PI-3K
+T26	Simple_chemical 937 940	LPS
+T27	Gene_or_gene_product 949 952	Akt
+T28	Gene_or_gene_product 966 971	MMP-9
+T29	Gene_or_gene_product 1018 1021	Akt
+T30	Gene_or_gene_product 1034 1039	MMP-9
+T31	Gene_or_gene_product 1088 1093	MMP-9
+T32	Simple_chemical 1097 1101	SH-5
+T33	Gene_or_gene_product 1127 1130	Akt
+T34	Gene_or_gene_product 1155 1158	Akt
+T35	Gene_or_gene_product 1169 1174	MMP-9
+T36	Complex 1204 1213	NF-kappaB
+T37	Gene_or_gene_product 1279 1287	IKKalpha
+T38	Gene_or_gene_product 1292 1295	Akt
+T39	Simple_chemical 1311 1315	SH-5
+T40	Gene_or_gene_product 1351 1358	IkappaB
+T41	Complex 1364 1373	NF-kappaB
+T42	Complex 1396 1405	NF-kappaB
+T43	Gene_or_gene_product 1406 1409	p65
+T44	Complex 1423 1432	NF-kappaB
+T45	Gene_or_gene_product 1450 1455	MMP-9
+T46	Gene_or_gene_product 1502 1507	MMP-9
+T47	Simple_chemical 1545 1556	lactacystin
+T48	Simple_chemical 1561 1567	MG-132
+T49	Gene_or_gene_product 1624 1631	IkappaB
+T50	Complex 1637 1646	NF-kappaB
+T51	Gene_or_gene_product 1685 1688	Akt
+T52	Gene_or_gene_product 1764 1769	MMP-9

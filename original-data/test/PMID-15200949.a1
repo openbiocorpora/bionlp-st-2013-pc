@@ -1,0 +1,10 @@
+T1	Complex 32 42	cyclin-Cdk
+T2	Gene_or_gene_product 120 123	Cdk
+T3	Gene_or_gene_product 125 148	cyclin-dependent kinase
+T4	Complex 198 204	cyclin
+T5	Gene_or_gene_product 230 233	Cdk
+T6	Gene_or_gene_product 255 258	Cdk
+T7	Complex 523 533	cyclin-Cdk
+T8	Gene_or_gene_product 862 865	Cdk
+T9	Complex 917 923	cyclin
+T10	Gene_or_gene_product 945 948	Cdk

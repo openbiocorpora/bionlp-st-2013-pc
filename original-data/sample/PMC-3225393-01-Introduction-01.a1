@@ -1,0 +1,38 @@
+T1	Simple_chemical 125 132	glucose
+T3	Gene_or_gene_product 442 457	Pyruvate kinase
+T4	Gene_or_gene_product 459 461	PK
+T8	Simple_chemical 547 555	pyruvate
+T9	Simple_chemical 560 563	ATP
+T10	Simple_chemical 569 588	phosphoenolpyruvate
+T11	Simple_chemical 590 593	PEP
+T12	Simple_chemical 599 602	ADP
+T13	Gene_or_gene_product 619 621	PK
+T14	Gene_or_gene_product 634 636	M1
+T15	Gene_or_gene_product 638 640	M2
+T16	Gene_or_gene_product 642 643	L
+T17	Gene_or_gene_product 648 649	R
+T18	Gene_or_gene_product 655 657	M1
+T20	Gene_or_gene_product 704 706	M2
+T21	Gene_or_gene_product 716 720	PKM2
+T22	Gene_or_gene_product 743 745	M1
+T23	Gene_or_gene_product 881 885	PKM1
+T25	Gene_or_gene_product 932 936	PKM2
+T27	Gene_or_gene_product 951 955	PKM1
+T29	Gene_or_gene_product 1078 1082	PKM2
+T31	Gene_or_gene_product 1175 1179	PKM2
+T32	Gene_or_gene_product 1196 1200	PKM1
+T34	Simple_chemical 1258 1283	fructose-1,6-bisphosphate
+T35	Simple_chemical 1285 1288	FBP
+T37	Simple_chemical 1318 1333	phosphotyrosine
+T39	Gene_or_gene_product 1409 1413	PKM2
+T41	Simple_chemical 1450 1457	glucose
+T42	Simple_chemical 1461 1469	pyruvate
+T44	Gene_or_gene_product 1493 1514	lactate dehydrogenase
+T45	Gene_or_gene_product 1516 1519	LDH
+T47	Simple_chemical 1568 1586	tricarboxylic acid
+T48	Simple_chemical 1588 1591	TCA
+T49	Simple_chemical 1524 1531	lactate
+T53	Gene_or_gene_product 1723 1727	PKM2
+T54	Simple_chemical 251 258	glucose
+T56	Simple_chemical 285 292	lactate
+T58	Simple_chemical 323 329	oxygen

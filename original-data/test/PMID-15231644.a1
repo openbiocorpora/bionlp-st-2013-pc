@@ -1,0 +1,25 @@
+T1	Gene_or_gene_product 39 43	E2F4
+T2	Gene_or_gene_product 77 81	p130
+T3	Gene_or_gene_product 116 130	retinoblastoma
+T4	Gene_or_gene_product 132 135	pRb
+T5	Gene_or_gene_product 138 142	p107
+T6	Gene_or_gene_product 148 152	p130
+T7	Gene_or_gene_product 181 184	E2F
+T8	Gene_or_gene_product 235 239	E2F4
+T9	Cellular_component 288 294	nuclei
+T10	Gene_or_gene_product 388 392	E2F4
+T11	Gene_or_gene_product 422 426	E2F4
+T12	Gene_or_gene_product 438 442	p130
+T13	Complex 464 473	E2F4/p107
+T14	Complex 477 486	E2F5/p130
+T15	Complex 514 523	E2F4/p130
+T16	Complex 667 676	E2F4/p130
+T17	Gene_or_gene_product 728 732	p130
+T18	Gene_or_gene_product 738 763	cyclin-dependent kinase 2
+T19	Gene_or_gene_product 768 772	p130
+T20	Gene_or_gene_product 806 810	E2F4
+T21	Gene_or_gene_product 851 855	p130
+T22	Gene_or_gene_product 856 860	E2F4
+T23	Gene_or_gene_product 936 945	caspase-3
+T24	Cellular_component 1018 1025	nuclear
+T25	Complex 1044 1053	E2F4/p130

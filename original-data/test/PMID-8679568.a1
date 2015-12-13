@@ -1,0 +1,39 @@
+T1	Gene_or_gene_product 33 68	(R)-3-hydroxybutyrate dehydrogenase
+T2	Gene_or_gene_product 97 132	(R)-3-Hydroxybutyrate dehydrogenase
+T3	Gene_or_gene_product 134 137	BDH
+T4	Simple_chemical 144 149	lipid
+T5	Cellular_component 160 173	mitochondrial
+T6	Simple_chemical 212 231	phosphatidylcholine
+T7	Simple_chemical 233 235	PC
+T8	Simple_chemical 251 253	PC
+T9	Simple_chemical 295 301	NAD(H)
+T10	Gene_or_gene_product 313 316	BDH
+T11	Simple_chemical 368 373	lipid
+T12	Cellular_component 398 407	membranes
+T13	Gene_or_gene_product 445 448	BDH
+T14	Simple_chemical 500 505	lipid
+T15	Gene_or_gene_product 765 768	BDH
+T16	Gene_or_gene_product 883 886	BDH
+T17	Simple_chemical 919 921	PC
+T18	Simple_chemical 955 960	lipid
+T19	Gene_or_gene_product 991 994	BDH
+T20	Gene_or_gene_product 1048 1064	phospholipase A2
+T21	Simple_chemical 1113 1115	PC
+T22	Simple_chemical 1140 1144	NAD+
+T23	Simple_chemical 1149 1170	(R)-3-hydroxybutyrate
+T24	Simple_chemical 1172 1177	R-HOB
+T25	Gene_or_gene_product 1192 1195	BDH
+T26	Gene_or_gene_product 1247 1250	BDH
+T27	Cellular_component 1254 1266	mitochondria
+T28	Simple_chemical 1278 1284	Cys242
+T29	Simple_chemical 1295 1303	cysteine
+T30	Simple_chemical 1335 1341	serine
+T31	Simple_chemical 1414 1419	R-HOB
+T32	Simple_chemical 1451 1455	NAD+
+T33	Simple_chemical 1479 1485	Cys242
+T34	Gene_or_gene_product 1508 1524	Carboxypeptidase
+T35	Simple_chemical 1616 1621	lipid
+T36	Gene_or_gene_product 1850 1853	BDH
+T37	Gene_or_gene_product 1995 1998	BDH
+T38	Gene_or_gene_product 2048 2051	BDH
+T39	Gene_or_gene_product 2115 2118	BDH

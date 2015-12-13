@@ -1,0 +1,40 @@
+T1	Gene_or_gene_product 19 32	TNFR-receptor
+T2	Gene_or_gene_product 51 56	TRAF1
+T3	Gene_or_gene_product 62 80	I-kappa B kinase-2
+T4	Gene_or_gene_product 85 90	TRAF2
+T5	Complex 127 137	NF-kappa B
+T6	Gene_or_gene_product 162 180	I-kappa B kinase 2
+T7	Gene_or_gene_product 182 186	IKK2
+T8	Gene_or_gene_product 190 198	IKK-beta
+T9	Complex 263 273	NF-kappa B
+T10	Complex 380 390	NF-kappa B
+T11	Gene_or_gene_product 436 440	IKK2
+T12	Complex 510 520	NF-kappa B
+T13	Gene_or_gene_product 606 610	IKK2
+T14	Simple_chemical 638 653	amino acids 466
+T15	Simple_chemical 654 657	756
+T16	Simple_chemical 732 745	amino acids 1
+T17	Simple_chemical 746 749	228
+T18	Gene_or_gene_product 758 770	TNF-receptor
+T19	Gene_or_gene_product 789 794	TRAF1
+T20	Gene_or_gene_product 940 944	IKK2
+T21	Gene_or_gene_product 945 950	TRAF1
+T22	Gene_or_gene_product 1006 1011	TRAF1
+T23	Gene_or_gene_product 1016 1021	TRAF2
+T24	Complex 1067 1077	NF-kappa B
+T25	Gene_or_gene_product 1149 1154	TRAF1
+T26	Gene_or_gene_product 1203 1207	IKK2
+T27	Complex 1212 1222	NF-kappa B
+T28	Gene_or_gene_product 1262 1267	TRAF1
+T29	Gene_or_gene_product 1272 1277	TRAF2
+T30	Gene_or_gene_product 1311 1316	TRAF1
+T31	Gene_or_gene_product 1381 1386	TRAF2
+T32	Gene_or_gene_product 1462 1467	TRAF1
+T33	Complex 1503 1513	NF-kappa B
+T34	Gene_or_gene_product 1577 1582	TRAF2
+T35	Gene_or_gene_product 1617 1621	IKK2
+T36	Gene_or_gene_product 1623 1628	TRAF1
+T37	Gene_or_gene_product 1633 1638	TRAF2
+T38	Complex 1674 1684	NF-kappa B
+T39	Gene_or_gene_product 1701 1706	TRAF1
+T40	Complex 1713 1723	NF-kappa B

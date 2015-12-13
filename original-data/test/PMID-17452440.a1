@@ -1,0 +1,39 @@
+T1	Gene_or_gene_product 10 14	DET1
+T2	Gene_or_gene_product 25 30	Cul4A
+T3	Gene_or_gene_product 75 104	ubiquitin-conjugating enzymes
+T4	Gene_or_gene_product 107 111	DET1
+T5	Gene_or_gene_product 113 127	de-etiolated 1
+T6	Complex 240 243	CDD
+T7	Gene_or_gene_product 263 267	DDB1
+T8	Gene_or_gene_product 272 298	COP10 ubiquitin E2 variant
+T9	Gene_or_gene_product 306 310	DET1
+T10	Gene_or_gene_product 352 356	DDB1
+T11	Gene_or_gene_product 362 367	Cul4A
+T12	Complex 454 464	Cul4A-DDB1
+T13	Gene_or_gene_product 465 474	ubiquitin
+T14	Gene_or_gene_product 492 496	DET1
+T15	Gene_or_gene_product 546 552	cullin
+T16	Gene_or_gene_product 637 641	DET1
+T17	Complex 655 661	DDD-E2
+T18	Gene_or_gene_product 687 691	DDB1
+T19	Gene_or_gene_product 693 697	DDA1
+T20	Gene_or_gene_product 699 722	DET1, DDB1 associated 1
+T21	Gene_or_gene_product 745 750	UBE2E
+T22	Gene_or_gene_product 770 799	ubiquitin-conjugating enzymes
+T23	Complex 801 807	DDD-E2
+T24	Gene_or_gene_product 841 861	ubiquitin E3 ligases
+T25	Gene_or_gene_product 880 892	E2 component
+T26	Gene_or_gene_product 913 922	ubiquitin
+T27	Complex 959 962	DDD
+T28	Complex 989 995	DDD-E2
+T29	Complex 1026 1029	CDD
+T30	Gene_or_gene_product 1050 1057	UBE2E-3
+T31	Gene_or_gene_product 1088 1093	UbcH5
+T32	Gene_or_gene_product 1094 1099	Cul4A
+T33	Complex 1114 1117	DDD
+T34	Gene_or_gene_product 1145 1150	Cul4A
+T35	Gene_or_gene_product 1165 1174	ubiquitin
+T36	Gene_or_gene_product 1218 1222	DET1
+T37	Gene_or_gene_product 1243 1247	CDT1
+T38	Complex 1325 1337	DET1 complex
+T39	Gene_or_gene_product 1348 1353	Cul4A

@@ -1,0 +1,20 @@
+T1	Gene_or_gene_product 36 39	E2F
+T2	Gene_or_gene_product 44 47	pRB
+T3	Gene_or_gene_product 75 78	E2F
+T4	Gene_or_gene_product 128 131	E2F
+T5	Gene_or_gene_product 267 270	pRB
+T6	Gene_or_gene_product 363 366	E2F
+T7	Gene_or_gene_product 406 409	E2F
+T8	Gene_or_gene_product 464 471	histone
+T9	Gene_or_gene_product 610 613	E2F
+T10	Gene_or_gene_product 618 621	pRB
+T11	Gene_or_gene_product 850 855	E2F-4
+T12	Gene_or_gene_product 860 864	p130
+T13	Gene_or_gene_product 883 890	histone
+T14	Gene_or_gene_product 961 966	E2F-1
+T15	Gene_or_gene_product 971 976	E2F-3
+T16	Gene_or_gene_product 1009 1020	histones H3
+T17	Gene_or_gene_product 1025 1027	H4
+T18	Gene_or_gene_product 1106 1109	E2F
+T19	Complex 1154 1170	E2F heterodimers
+T20	Gene_or_gene_product 1265 1273	histones

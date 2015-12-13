@@ -1,0 +1,43 @@
+T1	Gene_or_gene_product 34 37	tax
+T2	Complex 48 64	I-kappa B kinase
+T3	Complex 79 95	I-kappa B kinase
+T4	Gene_or_gene_product 107 146	serine/threonine protein phosphatase 2A
+T5	Complex 149 165	I-kappa B kinase
+T6	Complex 167 170	IKK
+T7	Simple_chemical 177 183	serine
+T8	Simple_chemical 184 193	threonine
+T9	Gene_or_gene_product 221 236	I-kappa B alpha
+T10	Gene_or_gene_product 241 255	I-kappa B beta
+T11	Cellular_component 300 310	proteasome
+T12	Complex 333 336	IKK
+T13	Gene_or_gene_product 388 393	alpha
+T14	Gene_or_gene_product 398 402	beta
+T15	Gene_or_gene_product 421 426	gamma
+T16	Simple_chemical 466 472	serine
+T17	Gene_or_gene_product 599 602	Tax
+T18	Gene_or_gene_product 645 654	IKK gamma
+T19	Complex 669 672	IKK
+T20	Complex 736 739	IKK
+T21	Gene_or_gene_product 746 785	serine/threonine protein phosphatase 2A
+T22	Gene_or_gene_product 787 791	PP2A
+T23	Gene_or_gene_product 844 847	Tax
+T24	Gene_or_gene_product 849 858	IKK gamma
+T25	Gene_or_gene_product 864 868	PP2A
+T26	Gene_or_gene_product 910 914	PP2A
+T27	Complex 937 940	IKK
+T28	Gene_or_gene_product 955 958	Tax
+T29	Gene_or_gene_product 999 1002	Tax
+T30	Gene_or_gene_product 1028 1032	PP2A
+T31	Complex 1047 1050	IKK
+T32	Gene_or_gene_product 1097 1106	IKK gamma
+T33	Gene_or_gene_product 1108 1112	PP2A
+T34	Gene_or_gene_product 1135 1138	Tax
+T35	Complex 1166 1176	NF-kappa B
+T36	Gene_or_gene_product 1211 1220	IKK gamma
+T37	Gene_or_gene_product 1232 1236	PP2A
+T38	Complex 1282 1285	IKK
+T39	Gene_or_gene_product 1305 1309	PP2A
+T40	Gene_or_gene_product 1313 1316	Tax
+T41	Complex 1335 1351	IKK x PP2A x Tax
+T42	Complex 1390 1393	IKK
+T43	Complex 1398 1408	NF-kappa B

@@ -1,0 +1,19 @@
+T1	Gene_or_gene_product 36 42	HDAC-1
+T2	Gene_or_gene_product 76 86	histone H4
+T3	Gene_or_gene_product 93 95	Rb
+T4	Gene_or_gene_product 96 99	E2F
+T5	Gene_or_gene_product 143 146	E2F
+T6	Gene_or_gene_product 225 227	Rb
+T7	Gene_or_gene_product 476 479	E2F
+T8	Gene_or_gene_product 519 547	class I histone deacetylases
+T9	Gene_or_gene_product 549 554	HDACs
+T10	Gene_or_gene_product 618 621	E2F
+T11	Simple_chemical 726 738	formaldehyde
+T12	Cellular_component 752 761	chromatin
+T13	Gene_or_gene_product 809 813	HDAC
+T14	Gene_or_gene_product 864 883	histone deacetylase
+T15	Gene_or_gene_product 885 891	HDAC-1
+T16	Gene_or_gene_product 915 918	E2F
+T17	Gene_or_gene_product 1074 1080	HDAC-1
+T18	Gene_or_gene_product 1097 1107	histone H4
+T19	Simple_chemical 1132 1139	lysines

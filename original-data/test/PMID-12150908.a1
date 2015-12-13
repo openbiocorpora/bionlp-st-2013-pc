@@ -1,0 +1,14 @@
+T1	Gene_or_gene_product 23 27	met4
+T2	Gene_or_gene_product 52 61	ubiquitin
+T3	Gene_or_gene_product 129 138	ubiquitin
+T4	Cellular_component 235 245	proteasome
+T5	Gene_or_gene_product 323 327	Met4
+T6	Complex 348 358	SCF(Met30)
+T7	Gene_or_gene_product 359 368	ubiquitin
+T8	Gene_or_gene_product 418 422	Met4
+T9	Gene_or_gene_product 468 472	Met4
+T10	Simple_chemical 526 536	methionine
+T11	Gene_or_gene_product 568 572	Met4
+T12	Gene_or_gene_product 668 672	Met4
+T13	Simple_chemical 785 805	S-adenosylmethionine
+T14	Gene_or_gene_product 906 910	Met4

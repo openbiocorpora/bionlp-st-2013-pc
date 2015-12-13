@@ -1,0 +1,20 @@
+T1	Simple_chemical 86 93	proline
+T2	Simple_chemical 98 112	hydroxyproline
+T3	Simple_chemical 163 170	proline
+T4	Simple_chemical 175 189	hydroxyproline
+T5	Gene_or_gene_product 206 221	proline oxidase
+T6	Gene_or_gene_product 226 248	hydroxyproline oxidase
+T7	Simple_chemical 259 290	delta 1-pyrroline-5-carboxylate
+T8	Simple_chemical 295 336	delta 1-pyrroline-3-hydroxy-5-carboxylate
+T9	Simple_chemical 388 419	delta 1-pyrroline-5-carboxylate
+T10	Simple_chemical 423 432	glutamate
+T11	Simple_chemical 437 478	delta 1-pyrroline-3-hydroxy-5-carboxylate
+T12	Simple_chemical 482 505	gamma-hydroxy-glutamate
+T13	Simple_chemical 562 569	proline
+T14	Simple_chemical 574 588	hydroxyproline
+T15	Gene_or_gene_product 679 734	delta 1-pyrroline-3-hydroxy-5-carboxylate dehydrogenase
+T16	Gene_or_gene_product 762 816	delta1-pyrroline-3-hydroxy-5-carboxylate dehydrogenase
+T17	Gene_or_gene_product 839 884	delta 1-pyrroline-5-carboxylate dehydrogenase
+T18	Gene_or_gene_product 1251 1296	delta 1-pyrroline-5-carboxylate dehydrogenase
+T19	Simple_chemical 1329 1360	delta 1-pyrroline-5-carboxylate
+T20	Simple_chemical 1365 1406	delta 1-pyrroline-3-hydroxy-5-carboxylate

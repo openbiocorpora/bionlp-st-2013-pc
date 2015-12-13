@@ -1,0 +1,29 @@
+T1	Gene_or_gene_product 0 3	ATM
+T2	Gene_or_gene_product 39 42	p53
+T3	Gene_or_gene_product 313 316	ATM
+T4	Gene_or_gene_product 322 332	AT mutated
+T5	Gene_or_gene_product 366 396	phosphatidyl-inositol 3-kinase
+T6	Gene_or_gene_product 398 409	PI-3 kinase
+T7	Gene_or_gene_product 424 427	ATM
+T8	Simple_chemical 444 451	proline
+T9	Simple_chemical 470 477	leucine
+T10	Simple_chemical 551 558	proline
+T11	Gene_or_gene_product 615 620	c-Abl
+T12	Gene_or_gene_product 678 681	ATM
+T13	Gene_or_gene_product 854 857	p53
+T14	Gene_or_gene_product 929 932	ATM
+T15	Gene_or_gene_product 937 940	p53
+T16	Gene_or_gene_product 966 969	ATM
+T17	Gene_or_gene_product 1057 1068	PI-3 kinase
+T18	Gene_or_gene_product 1089 1092	ATM
+T19	Gene_or_gene_product 1116 1119	p53
+T20	Simple_chemical 1123 1132	serine 15
+T21	Gene_or_gene_product 1189 1192	ATM
+T22	Gene_or_gene_product 1272 1275	p53
+T23	Gene_or_gene_product 1299 1302	ATM
+T24	Gene_or_gene_product 1384 1387	p53
+T25	Simple_chemical 1391 1400	serine 15
+T26	Gene_or_gene_product 1433 1436	ATM
+T27	Gene_or_gene_product 1446 1449	p53
+T28	Simple_chemical 1486 1495	serine 15
+T29	Gene_or_gene_product 1573 1576	p53

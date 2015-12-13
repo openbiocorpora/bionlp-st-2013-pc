@@ -1,0 +1,21 @@
+T1	Gene_or_gene_product 20 51	purine nucleoside phosphorylase
+T2	Simple_chemical 67 74	inosine
+T3	Simple_chemical 79 82	ddI
+T4	Gene_or_gene_product 91 122	purine nucleoside phosphorylase
+T5	Gene_or_gene_product 124 127	PNP
+T6	Simple_chemical 182 188	purine
+T7	Gene_or_gene_product 210 213	PNP
+T8	Gene_or_gene_product 330 333	PNP
+T9	Simple_chemical 357 380	6-oxopurine nucleosides
+T10	Simple_chemical 418 443	6-aminopurine nucleosides
+T11	Simple_chemical 474 481	inosine
+T12	Simple_chemical 515 524	adenosine
+T13	Simple_chemical 526 545	Adenine nucleosides
+T14	Simple_chemical 550 561	nucleotides
+T15	Gene_or_gene_product 580 599	adenosine deaminase
+T16	Gene_or_gene_product 604 617	AMP deaminase
+T17	Simple_chemical 641 648	inosine
+T18	Gene_or_gene_product 749 752	PNP
+T19	Simple_chemical 769 776	inosine
+T20	Simple_chemical 781 805	2('),3(')-dideoxyinosine
+T21	Simple_chemical 937 943	purine

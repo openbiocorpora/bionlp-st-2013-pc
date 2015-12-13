@@ -1,0 +1,36 @@
+T1	Complex 0 11	NF-{kappa}B
+T2	Cellular_component 36 43	nucleus
+T3	Gene_or_gene_product 47 64	importin {alpha}3
+T4	Gene_or_gene_product 69 86	importin {alpha}4
+T5	Complex 89 98	NF-kappaB
+T6	Cellular_component 141 150	cytoplasm
+T7	Cellular_component 226 233	nucleus
+T8	Gene_or_gene_product 249 264	importin alpha3
+T9	Gene_or_gene_product 269 284	importin alpha4
+T10	Gene_or_gene_product 297 311	importin alpha
+T11	Gene_or_gene_product 331 340	TNF-alpha
+T12	Complex 352 369	NF-kappaB p50/p65
+T13	Cellular_component 405 412	nucleus
+T14	Gene_or_gene_product 414 429	Importin alpha3
+T15	Gene_or_gene_product 434 440	alpha4
+T16	Gene_or_gene_product 474 488	importin alpha
+T17	Gene_or_gene_product 510 525	importin alpha3
+T18	Cellular_component 548 555	nuclear
+T19	Complex 566 579	NF-kappaB p50
+T20	Gene_or_gene_product 614 629	Importin alpha3
+T21	Cellular_component 684 691	nuclear
+T22	Complex 723 732	NF-kappaB
+T23	Gene_or_gene_product 733 736	p50
+T24	Gene_or_gene_product 741 744	p65
+T25	Gene_or_gene_product 755 769	Importin alpha
+T26	Complex 930 939	NF-kappaB
+T27	Gene_or_gene_product 940 943	p50
+T28	Gene_or_gene_product 972 975	p65
+T29	Gene_or_gene_product 1014 1029	importin alpha3
+T30	Complex 1089 1098	NF-kappaB
+T31	Complex 1112 1121	NF-kappaB
+T32	Gene_or_gene_product 1131 1145	importin alpha
+T33	Gene_or_gene_product 1170 1182	IkappaBalpha
+T34	Cellular_component 1224 1231	nuclear
+T35	Complex 1242 1251	NF-kappaB
+T36	Gene_or_gene_product 1306 1320	importin alpha

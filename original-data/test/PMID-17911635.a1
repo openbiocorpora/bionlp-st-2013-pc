@@ -1,0 +1,61 @@
+T1	Gene_or_gene_product 0 11	Adiponectin
+T2	Gene_or_gene_product 21 25	IL-6
+T3	Gene_or_gene_product 73 80	AdipoR1
+T4	Complex 91 95	AMPK
+T5	Gene_or_gene_product 97 100	p38
+T6	Complex 106 116	NF-kappa B
+T7	Gene_or_gene_product 199 210	adiponectin
+T8	Gene_or_gene_product 370 374	IL-6
+T9	Gene_or_gene_product 396 407	adiponectin
+T10	Gene_or_gene_product 595 602	AdipoR1
+T11	Gene_or_gene_product 607 614	AdipoR2
+T12	Gene_or_gene_product 631 642	adiponectin
+T13	Gene_or_gene_product 653 664	Adiponectin
+T14	Gene_or_gene_product 719 723	IL-6
+T15	Gene_or_gene_product 736 747	Adiponectin
+T16	Gene_or_gene_product 757 761	IL-6
+T17	Gene_or_gene_product 791 798	AdipoR1
+T18	Gene_or_gene_product 803 847	5'-AMP-activated protein kinase (AMPK)alpha1
+T19	Complex 890 894	AMPK
+T20	Gene_or_gene_product 906 910	araA
+T21	Simple_chemical 915 925	compound C
+T22	Gene_or_gene_product 928 931	p38
+T23	Simple_chemical 943 951	SB203580
+T24	Complex 954 963	NF-kappaB
+T25	Gene_or_gene_product 975 982	IkappaB
+T26	Complex 1007 1016	NF-kappaB
+T27	Gene_or_gene_product 1077 1088	adiponectin
+T28	Gene_or_gene_product 1090 1101	Adiponectin
+T29	Complex 1155 1159	AMPK
+T30	Gene_or_gene_product 1164 1167	p38
+T31	Gene_or_gene_product 1210 1221	adiponectin
+T32	Gene_or_gene_product 1232 1252	IkappaB kinase alpha
+T33	Gene_or_gene_product 1253 1257	beta
+T34	Gene_or_gene_product 1259 1268	IKK alpha
+T35	Gene_or_gene_product 1269 1273	beta
+T36	Gene_or_gene_product 1276 1288	IkappaBalpha
+T37	Gene_or_gene_product 1306 1318	IkappaBalpha
+T38	Gene_or_gene_product 1332 1335	p65
+T39	Simple_chemical 1355 1364	Ser (276)
+T40	Gene_or_gene_product 1366 1369	p65
+T41	Gene_or_gene_product 1374 1377	p50
+T42	Cellular_component 1401 1408	cytosol
+T43	Cellular_component 1416 1423	nucleus
+T44	Complex 1429 1435	kappaB
+T45	Gene_or_gene_product 1457 1468	Adiponectin
+T46	Gene_or_gene_product 1493 1502	IKK alpha
+T47	Gene_or_gene_product 1503 1507	beta
+T48	Complex 1518 1524	kappaB
+T49	Gene_or_gene_product 1550 1553	p65
+T50	Gene_or_gene_product 1558 1561	p50
+T51	Complex 1577 1586	NF-kappaB
+T52	Simple_chemical 1616 1626	compound C
+T53	Simple_chemical 1628 1636	SB203580
+T54	Gene_or_gene_product 1641 1648	AdipoR1
+T55	Gene_or_gene_product 1698 1709	adiponectin
+T56	Gene_or_gene_product 1720 1724	IL-6
+T57	Gene_or_gene_product 1768 1775	AdipoR1
+T58	Complex 1785 1789	AMPK
+T59	Gene_or_gene_product 1790 1793	p38
+T60	Gene_or_gene_product 1794 1806	IKKalphabeta
+T61	Complex 1811 1820	NF-kappaB

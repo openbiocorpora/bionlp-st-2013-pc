@@ -1,0 +1,15 @@
+T1	Gene_or_gene_product 19 22	pRb
+T2	Gene_or_gene_product 23 26	E2F
+T3	Gene_or_gene_product 31 34	Wnt
+T4	Gene_or_gene_product 35 47	beta-catenin
+T5	Gene_or_gene_product 58 62	E2F1
+T6	Gene_or_gene_product 71 76	axin2
+T7	Gene_or_gene_product 102 105	Wnt
+T8	Gene_or_gene_product 151 154	pRb
+T9	Gene_or_gene_product 155 158	E2F
+T10	Gene_or_gene_product 163 166	Wnt
+T11	Gene_or_gene_product 167 179	beta-catenin
+T12	Gene_or_gene_product 287 291	E2F1
+T13	Gene_or_gene_product 323 328	axin2
+T14	Gene_or_gene_product 352 357	axin2
+T15	Gene_or_gene_product 370 373	Wnt

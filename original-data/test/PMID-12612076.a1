@@ -1,0 +1,29 @@
+T1	Gene_or_gene_product 30 50	IkappaB kinase gamma
+T2	Gene_or_gene_product 52 60	IKKgamma
+T3	Complex 80 83	IKK
+T4	Complex 105 114	NF-kappaB
+T5	Complex 132 146	IkappaB kinase
+T6	Complex 148 151	IKK
+T7	Complex 205 214	NF-kappaB
+T8	Gene_or_gene_product 237 244	IkappaB
+T9	Gene_or_gene_product 279 287	IKKalpha
+T10	Gene_or_gene_product 292 299	IKKbeta
+T11	Gene_or_gene_product 341 349	IKKgamma
+T12	Gene_or_gene_product 351 355	NEMO
+T13	Complex 460 463	IKK
+T14	Gene_or_gene_product 494 502	IKKgamma
+T15	Gene_or_gene_product 544 552	IKKgamma
+T16	Gene_or_gene_product 602 610	IKKalpha
+T17	Gene_or_gene_product 614 621	IKKbeta
+T18	Complex 878 886	IKKgamma
+T19	Gene_or_gene_product 932 937	gamma
+T20	Gene_or_gene_product 941 946	alpha
+T21	Gene_or_gene_product 947 951	beta
+T22	Gene_or_gene_product 1050 1057	IKKbeta
+T23	Gene_or_gene_product 1062 1070	IKKgamma
+T24	Gene_or_gene_product 1130 1138	IKKgamma
+T25	Gene_or_gene_product 1183 1191	IKKgamma
+T26	Gene_or_gene_product 1231 1238	IKKbeta
+T27	Simple_chemical 1309 1327	lipopolysaccharide
+T28	Complex 1339 1342	IKK
+T29	Gene_or_gene_product 1396 1404	IKKgamma

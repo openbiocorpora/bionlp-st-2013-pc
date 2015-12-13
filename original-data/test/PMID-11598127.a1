@@ -1,0 +1,26 @@
+T1	Complex 18 44	anaphase-promoting complex
+T2	Gene_or_gene_product 87 93	Cdc14a
+T3	Complex 113 139	anaphase-promoting complex
+T4	Complex 141 144	APC
+T5	Complex 205 215	APC(Cdc20)
+T6	Cellular_component 225 241	sister-chromatid
+T7	Gene_or_gene_product 271 278	securin
+T8	Complex 288 297	APC(Cdh1)
+T9	Gene_or_gene_product 320 327	cyclins
+T10	Gene_or_gene_product 404 408	Cdh1
+T11	Gene_or_gene_product 410 415	hCdh1
+T12	Complex 420 433	cyclin B-Cdc2
+T13	Gene_or_gene_product 461 466	hCdh1
+T14	Complex 499 502	APC
+T15	Gene_or_gene_product 531 536	Cdc14
+T16	Gene_or_gene_product 544 550	Cdc14a
+T17	Gene_or_gene_product 552 559	hCdc14a
+T18	Gene_or_gene_product 579 584	hCdh1
+T19	Complex 599 608	APC(Cdh1)
+T20	Gene_or_gene_product 623 630	hCdc14a
+T21	Complex 663 673	APC(Cdc20)
+T22	Gene_or_gene_product 675 682	hCdc14a
+T23	Gene_or_gene_product 710 715	hCdh1
+T24	Cellular_component 733 744	centrosomes
+T25	Gene_or_gene_product 771 778	hCdc14a
+T26	Complex 809 818	APC(Cdh1)

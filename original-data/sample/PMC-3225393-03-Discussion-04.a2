@@ -1,0 +1,152 @@
+T2	Pathway 50 68	aerobic glycolysis
+E1	Pathway:T2 
+T3	Regulation 17 28	play a role
+E2	Regulation:T3 Cause:T1 Theme:E3
+T4	Regulation 36 46	regulation
+E3	Regulation:T4 Theme:E1
+E4	Regulation:T4 Theme:T5
+E5	Regulation:T3 Cause:T1 Theme:E4
+T7	Activation 137 147	stimulates
+E6	Activation:T7 Theme:T9 Cause:T6
+T8	Inactivation 151 161	suppresses
+E7	Inactivation:T8 Theme:T9 Cause:T6
+T11	Phosphorylation 239 254	phosphorylation
+E8	Phosphorylation:T11 Site:T12 Theme:T10
+T14	Regulation 214 224	associated
+E9	Regulation:T14 Cause:E8 Theme:E7
+T15	Phosphorylation 330 345	phosphorylation
+E10	Phosphorylation:T15 Theme:T17 Site:T18
+E11	Regulation:T14 Cause:E8 Theme:E6
+T16	Positive_regulation 322 329	induced
+E12	Positive_regulation:T16 Theme:E10 Cause:T13
+T19	Negative_regulation 395 405	suppressed
+E13	Negative_regulation:T19 Theme:T20 Cause:T13
+T22	Regulation 432 441	dependent
+E14	Regulation:T22 Cause:T21 Theme:E12
+E15	Regulation:T22 Cause:T21 Theme:E13
+T23	Negative_regulation 487 497	inhibition
+E16	Negative_regulation:T23 Theme:T24 Cause:E19
+T25	Phosphorylation 538 552	phosphorylated
+E17	Phosphorylation:T25 Theme:T28
+T27	Positive_regulation 538 552	phosphorylated
+E18	Positive_regulation:T27 Cause:T26 Theme:E17
+T29	Binding 518 525	binding
+E19	Binding:T29 Theme:T28 Theme2:T24
+T31	Activation 649 659	activation
+E20	Activation:T31 Theme:T30
+T32	Regulation 671 681	regulation
+E21	Regulation:T32 Theme:E22 Cause:E20
+T34	Pathway 707 714	pathway
+E22	Pathway:T34 Participant:T33
+T35	Pathway 718 728	glycolysis
+E23	Pathway:T35 
+T37	Inactivation 787 797	suppresses
+E24	Inactivation:T37 Cause:T36 Theme:T38
+T42	Binding 873 877	bind
+E25	Binding:T42 Theme:T41 Theme2:T39
+A3	Speculation E25
+T43	Binding 951 962	interaction
+E26	Binding:T43 Theme:T44 Theme2:T45
+T46	Positive_regulation 937 947	facilitate
+E27	Positive_regulation:T46 Cause:T39 Theme:E26
+T48	Phosphorylation 1003 1018	phosphorylation
+E28	Phosphorylation:T48 Theme:T47
+T53	Binding 1093 1100	binding
+E29	Binding:T53 Theme:T50 Theme2:T47
+T60	Binding 1457 1471	form complexes
+E30	Binding:T60 Theme:T55 Theme2:T57
+T58	Activation 1477 1486	activated
+E31	Activation:T58 Theme:T57
+T63	Binding 1668 1677	interacts
+E32	Binding:T63 Theme:T59 Theme2:T61
+T64	Positive_regulation 1692 1700	promotes
+E33	Positive_regulation:T64 Cause:T59 Theme:E34
+T66	Pathway 1706 1715	signaling
+E34	Pathway:T66 Participant:T62
+T68	Gene_expression 1812 1826	overexpression
+E35	Gene_expression:T68 Theme:T67
+T69	Regulation 1770 1778	mediated
+E36	Regulation:T69 Cause:T65 Theme:E78
+T70	Gene_expression 1947 1961	overexpression
+E37	Gene_expression:T70 Theme:T72
+T71	Pathway 2149 2167	aerobic glycolysis
+E38	Pathway:T71 
+T74	Regulation 2126 2134	mediated
+E39	Regulation:T74 Cause:T73 Theme:E40
+T75	Regulation 2135 2145	regulation
+E40	Regulation:T75 Theme:E38
+E41	Regulation:T75 Theme:T76
+E42	Regulation:T74 Cause:T73 Theme:E41
+T77	Binding 2289 2296	binding
+E43	Binding:T77 Theme:T79 Theme2:T78
+T81	Activation 2395 2405	activating
+E44	Activation:T81 Theme:T82 Cause:E43
+T83	Conversion 2429 2439	production
+E45	Conversion:T83 Product:T84
+T85	Positive_regulation 2419 2428	increased
+E46	Positive_regulation:T85 Theme:E45
+T86	Pathway 2484 2493	TCA cycle
+E47	Pathway:T86 
+T89	Conversion 2525 2534	synthesis
+E48	Conversion:T89 Product:T90
+T92	Positive_regulation 2382 2391	important
+E49	Positive_regulation:T92 Cause:E43 Theme:E46
+A4	Speculation E49
+E50	Conversion:T89 Product:T91
+E51	Conversion:T83 Product:T87
+E52	Positive_regulation:T85 Theme:E48
+E53	Positive_regulation:T85 Theme:E50
+E54	Positive_regulation:T85 Theme:E51
+E55	Positive_regulation:T92 Cause:E43 Theme:E52
+E56	Positive_regulation:T92 Cause:E43 Theme:E53
+E57	Positive_regulation:T92 Cause:E43 Theme:E54
+A5	Speculation E55
+A6	Speculation E56
+A7	Speculation E57
+T94	Binding 2671 2676	binds
+E58	Binding:T94 Theme:T96 Theme2:T95
+T98	Activation 2697 2704	induces
+E59	Activation:T98 Theme:T100 Cause:T95
+A8	Speculation E59
+A9	Speculation E58
+T99	Regulation 2648 2655	dictate
+E60	Regulation:T99 Theme:E58
+E61	Regulation:T99 Theme:E59
+T101	Pathway 2817 2824	pathway
+E62	Pathway:T101 Participant:T104
+T102	Conversion 2848 2860	biosynthesis
+E63	Conversion:T102 Product:T107 Theme:T106
+T105	Conversion 2869 2880	consumption
+E64	Conversion:T105 Theme:T110
+T108	Conversion 2889 2899	production
+E65	Conversion:T108 Product:T112
+T109	Regulation 2774 2781	effects
+E66	Regulation:T109 Cause:T103 Theme:E62
+A10	Speculation E66
+E67	Regulation:T109 Cause:T103 Theme:E63
+E68	Regulation:T109 Cause:T103 Theme:E64
+E69	Regulation:T109 Cause:T103 Theme:E65
+A11	Speculation E67
+A12	Speculation E68
+A13	Speculation E69
+T111	Pathway 2985 3003	aerobic glycolysis
+E70	Pathway:T111 
+T113	Positive_regulation 2974 2984	stimulates
+E71	Positive_regulation:T113 Cause:T114 Theme:E70
+T115	Positive_regulation 3034 3042	mediated
+E72	Positive_regulation:T115 Theme:E71 Cause:E73
+A14	Speculation E72
+T116	Positive_regulation 3070 3080	activation
+E73	Positive_regulation:T116 Theme:E74 Cause:T114
+T117	Pathway 3092 3099	pathway
+E74	Pathway:T117 Participant:T119
+T118	Binding 3104 3116	interactions
+E75	Binding:T118 Theme:T122 Theme2:T114
+E76	Positive_regulation:T115 Theme:E71 Cause:E75
+A15	Speculation E76
+T120	Regulation 2590 2596	affect
+E77	Regulation:T120 Theme:T93
+T121	Pathway 1779 1801	proliferative response
+E78	Pathway:T121 
+T123	Regulation 1802 1811	involving
+E79	Regulation:T123 Theme:E78 Cause:E35

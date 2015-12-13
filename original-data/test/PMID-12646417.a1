@@ -1,0 +1,24 @@
+T1	Simple_chemical 0 6	Biotin
+T2	Gene_or_gene_product 74 78	SMVT
+T3	Simple_chemical 176 182	biotin
+T4	Simple_chemical 190 193	Na+
+T5	Gene_or_gene_product 236 275	sodium-dependent multivitamin transport
+T6	Gene_or_gene_product 277 281	SMVT
+T7	Simple_chemical 286 292	biotin
+T8	Gene_or_gene_product 377 381	SMVT
+T9	Simple_chemical 466 472	biotin
+T10	Simple_chemical 619 625	biotin
+T11	Simple_chemical 743 749	biotin
+T12	Gene_or_gene_product 932 936	SMVT
+T13	Simple_chemical 1031 1037	biotin
+T14	Simple_chemical 1122 1128	biotin
+T15	Simple_chemical 1272 1278	biotin
+T16	Simple_chemical 1280 1293	desthiobiotin
+T17	Simple_chemical 1298 1314	pantothenic acid
+T18	Simple_chemical 1378 1388	[3H]biotin
+T19	Gene_or_gene_product 1434 1438	SMVT
+T20	Gene_or_gene_product 1477 1481	SMVT
+T21	Simple_chemical 1537 1547	[3H]biotin
+T22	Simple_chemical 1724 1730	biotin
+T23	Gene_or_gene_product 1859 1863	SMVT
+T24	Simple_chemical 1895 1901	biotin

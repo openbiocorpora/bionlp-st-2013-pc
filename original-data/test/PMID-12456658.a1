@@ -1,0 +1,29 @@
+T1	Cellular_component 21 28	nuclear
+T2	Gene_or_gene_product 39 44	Cdh1p
+T3	Complex 83 94	APC/C(Cdh1)
+T4	Gene_or_gene_product 97 102	Cdh1p
+T5	Complex 142 168	anaphase-promoting complex
+T6	Complex 170 175	APC/C
+T7	Gene_or_gene_product 203 212	ubiquitin
+T8	Gene_or_gene_product 243 255	cyclin Clb2p
+T9	Gene_or_gene_product 318 323	Cdh1p
+T10	Complex 408 420	Cdc28p-Clb5p
+T11	Gene_or_gene_product 440 445	Cdh1p
+T12	Cellular_component 449 456	nuclear
+T13	Cellular_component 523 532	cytoplasm
+T14	Cellular_component 573 580	Nuclear
+T15	Gene_or_gene_product 591 596	Cdh1p
+T16	Gene_or_gene_product 649 655	Cdc28p
+T17	Gene_or_gene_product 664 669	Cdh1p
+T18	Gene_or_gene_product 692 697	Pse1p
+T19	Gene_or_gene_product 715 720	Msn5p
+T20	Gene_or_gene_product 787 792	Cdh1p
+T21	Gene_or_gene_product 811 815	msn5
+T22	Gene_or_gene_product 861 866	Cdh1p
+T23	Gene_or_gene_product 910 915	Cdh1p
+T24	Cellular_component 941 948	nuclear
+T25	Gene_or_gene_product 975 980	Clb2p
+T26	Cellular_component 1120 1127	nuclear
+T27	Gene_or_gene_product 1138 1143	Cdh1p
+T28	Gene_or_gene_product 1147 1152	Msn5p
+T29	Complex 1194 1205	APC/C(Cdh1)

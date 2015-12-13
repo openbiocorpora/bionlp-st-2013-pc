@@ -1,0 +1,43 @@
+T1	Gene_or_gene_product 0 5	PIG-V
+T2	Simple_chemical 42 49	mannose
+T3	Simple_chemical 53 81	glycosylphosphatidylinositol
+T4	Simple_chemical 84 112	Glycosylphosphatidylinositol
+T5	Simple_chemical 114 117	GPI
+T6	Cellular_component 180 192	cell surface
+T7	Simple_chemical 222 225	GPI
+T8	Simple_chemical 265 271	sugars
+T9	Simple_chemical 296 316	phosphatidylinositol
+T10	Simple_chemical 323 331	mannoses
+T11	Simple_chemical 339 342	GPI
+T12	Simple_chemical 364 390	dolichol-phosphate-mannose
+T13	Simple_chemical 392 401	Dol-P-Man
+T14	Simple_chemical 473 482	Dol-P-Man
+T15	Gene_or_gene_product 493 513	mannosyltransferases
+T16	Gene_or_gene_product 515 523	GPI-MT-I
+T17	Gene_or_gene_product 525 531	-MT-II
+T18	Gene_or_gene_product 533 540	-MT-III
+T19	Gene_or_gene_product 546 552	-MT-IV
+T20	Simple_chemical 594 602	mannoses
+T21	Simple_chemical 649 652	GPI
+T22	Gene_or_gene_product 654 662	GPI-MT-I
+T23	Gene_or_gene_product 664 669	PIG-M
+T24	Gene_or_gene_product 672 682	GPI-MT-III
+T25	Gene_or_gene_product 684 689	PIG-B
+T26	Gene_or_gene_product 696 705	GPI-MT-IV
+T27	Gene_or_gene_product 707 711	SMP3
+T28	Gene_or_gene_product 743 752	GPI-MT-II
+T29	Gene_or_gene_product 809 814	PIG-V
+T30	Simple_chemical 851 858	mannose
+T31	Simple_chemical 866 869	GPI
+T32	Gene_or_gene_product 884 889	PIG-V
+T33	Cellular_component 916 937	endoplasmic reticulum
+T34	Cellular_component 939 941	ER
+T35	Cellular_component 980 993	transmembrane
+T36	Gene_or_gene_product 1091 1096	GPI18
+T37	Gene_or_gene_product 1135 1140	PIG-V
+T38	Gene_or_gene_product 1209 1214	PIG-V
+T39	Gene_or_gene_product 1221 1226	PIG-V
+T40	Cellular_component 1287 1295	ER lumen
+T41	Gene_or_gene_product 1329 1334	PIG-V
+T42	Gene_or_gene_product 1349 1368	mannosyltransferase
+T43	Simple_chemical 1372 1375	GPI

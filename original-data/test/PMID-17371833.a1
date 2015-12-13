@@ -1,0 +1,34 @@
+T1	Gene_or_gene_product 4 10	Aurora
+T2	Gene_or_gene_product 18 22	Ipl1
+T3	Cellular_component 37 48	centromeric
+T4	Complex 65 69	PP2A
+T5	Complex 81 88	cohesin
+T6	Cellular_component 204 220	sister chromatid
+T7	Cellular_component 256 271	chromosome arms
+T8	Cellular_component 295 314	centromeric regions
+T9	Gene_or_gene_product 355 363	MEI-S332
+T10	Gene_or_gene_product 364 368	Sgo1
+T11	Cellular_component 395 414	centromeric regions
+T12	Complex 436 440	PP2A
+T13	Gene_or_gene_product 488 492	Rts1
+T14	Cellular_component 494 505	Centromeric
+T15	Gene_or_gene_product 506 510	Rts1
+T16	Complex 511 515	PP2A
+T17	Complex 609 616	cohesin
+T18	Gene_or_gene_product 631 639	Aurora B
+T19	Gene_or_gene_product 676 680	Ipl1
+T20	Cellular_component 730 741	centromeric
+T21	Gene_or_gene_product 835 843	Aurora B
+T22	Gene_or_gene_product 919 923	Sgo1
+T23	Gene_or_gene_product 933 937	Ipl1
+T24	Cellular_component 941 960	centromeric regions
+T25	Gene_or_gene_product 980 984	Ipl1
+T26	Gene_or_gene_product 986 990	Rts1
+T27	Cellular_component 1013 1032	centromeric regions
+T28	Cellular_component 1059 1066	regions
+T29	Cellular_component 1107 1118	centromeric
+T30	Gene_or_gene_product 1119 1123	Ipl1
+T31	Cellular_component 1146 1157	centromeric
+T32	Gene_or_gene_product 1177 1181	Rts1
+T33	Complex 1182 1186	PP2A
+T34	Complex 1219 1226	cohesin

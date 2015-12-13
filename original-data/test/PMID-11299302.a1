@@ -1,0 +1,58 @@
+T1	Gene_or_gene_product 36 39	Tat
+T2	Simple_chemical 58 68	cyclic AMP
+T3	Simple_chemical 141 151	cyclic AMP
+T4	Simple_chemical 153 157	cAMP
+T5	Gene_or_gene_product 231 234	Tat
+T6	Gene_or_gene_product 348 351	Tat
+T7	Simple_chemical 403 407	cAMP
+T8	Simple_chemical 455 468	isoproterenol
+T9	Gene_or_gene_product 516 519	Tat
+T10	Gene_or_gene_product 607 610	Tat
+T11	Simple_chemical 656 660	cAMP
+T12	Gene_or_gene_product 742 758	adenylyl cyclase
+T13	Simple_chemical 769 778	forskolin
+T14	Gene_or_gene_product 808 811	Tat
+T15	Gene_or_gene_product 877 880	Tat
+T16	Gene_or_gene_product 927 944	phosphodiesterase
+T17	Simple_chemical 955 982	3-isobutyl-1-methyl-xantine
+T18	Gene_or_gene_product 1054 1056	Gi
+T19	Simple_chemical 1075 1090	pertussis toxin
+T20	Simple_chemical 1176 1180	cAMP
+T21	Complex 1224 1234	G proteins
+T22	Simple_chemical 1239 1257	phosphodiesterases
+T23	Gene_or_gene_product 1273 1276	Tat
+T24	Gene_or_gene_product 1292 1308	adenylyl cyclase
+T25	Cellular_component 1361 1370	membranes
+T26	Gene_or_gene_product 1385 1388	Tat
+T27	Simple_chemical 1467 1480	isoproterenol
+T28	Simple_chemical 1485 1494	forskolin
+T29	Gene_or_gene_product 1542 1563	nitric oxide synthase
+T30	Simple_chemical 1564 1590	N(G)-monometyl- L-arginine
+T31	Gene_or_gene_product 1621 1624	Tat
+T32	Simple_chemical 1635 1644	forskolin
+T33	Simple_chemical 1653 1657	cAMP
+T34	Simple_chemical 1690 1702	nitric oxide
+T35	Simple_chemical 1711 1715	PAPA
+T36	Simple_chemical 1720 1724	DETA
+T37	Simple_chemical 1747 1756	forskolin
+T38	Simple_chemical 1765 1769	cAMP
+T39	Simple_chemical 1811 1823	nitric oxide
+T40	Gene_or_gene_product 1827 1830	Tat
+T41	Gene_or_gene_product 1839 1855	adenylyl cyclase
+T42	Complex 1903 1924	nuclear factor kappaB
+T43	Simple_chemical 1937 1983	N-tosyl-( L)-phenylalanine chloromethyl ketone
+T44	Simple_chemical 2000 2004	SN50
+T45	Simple_chemical 2054 2063	forskolin
+T46	Simple_chemical 2071 2075	cAMP
+T47	Gene_or_gene_product 2092 2095	Tat
+T48	Cellular_component 2133 2140	nuclear
+T49	Gene_or_gene_product 2185 2201	adenylyl cyclase
+T50	Gene_or_gene_product 2205 2208	Tat
+T51	Simple_chemical 2274 2292	lipopolysaccharide
+T52	Simple_chemical 2385 2389	cAMP
+T53	Gene_or_gene_product 2502 2505	Tat
+T54	Gene_or_gene_product 2531 2547	adenylyl cyclase
+T55	Simple_chemical 2593 2597	cAMP
+T56	Gene_or_gene_product 2746 2749	Tat
+T57	Gene_or_gene_product 2815 2818	Tat
+T58	Simple_chemical 2830 2834	cAMP

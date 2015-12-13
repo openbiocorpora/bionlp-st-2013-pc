@@ -1,0 +1,15 @@
+T1	Gene_or_gene_product 0 4	TAK1
+T2	Simple_chemical 71 89	lipopolysaccharide
+T3	Cellular_component 213 226	intracellular
+T4	Simple_chemical 363 381	lipopolysaccharide
+T5	Gene_or_gene_product 426 429	p38
+T6	Gene_or_gene_product 431 434	JNK
+T7	Gene_or_gene_product 436 444	IKK-beta
+T8	Gene_or_gene_product 450 453	PKB
+T9	Gene_or_gene_product 454 457	Akt
+T10	Gene_or_gene_product 462 512	transforming growth factor beta-activated kinase-1
+T11	Gene_or_gene_product 514 518	TAK1
+T12	Gene_or_gene_product 539 543	TAK1
+T13	Gene_or_gene_product 612 625	interleukin-1
+T14	Gene_or_gene_product 632 636	TAK1
+T15	Cellular_component 685 698	intracellular

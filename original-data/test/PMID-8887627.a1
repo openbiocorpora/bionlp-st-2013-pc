@@ -1,0 +1,37 @@
+T1	Gene_or_gene_product 48 63	I(kappa)B(beta)
+T2	Gene_or_gene_product 110 115	c-rel
+T3	Gene_or_gene_product 160 165	c-rel
+T4	Gene_or_gene_product 182 187	c-Rel
+T5	Complex 204 213	NF-kappaB
+T6	Gene_or_gene_product 214 217	Rel
+T7	Gene_or_gene_product 363 368	c-Rel
+T8	Cellular_component 391 414	cytoplasmic compartment
+T9	Gene_or_gene_product 470 486	I(kappa)B(alpha)
+T10	Gene_or_gene_product 491 506	I(kappa)B(beta)
+T11	Gene_or_gene_product 609 625	I(kappa)B(alpha)
+T12	Gene_or_gene_product 634 649	I(kappa)B(beta)
+T13	Gene_or_gene_product 665 670	c-Rel
+T14	Complex 730 751	I(kappa)B(beta)-c-Rel
+T15	Simple_chemical 809 820	phosphatase
+T16	Complex 840 862	I(kappa)B(alpha)-c-Rel
+T17	Gene_or_gene_product 1002 1017	I(kappa)B(beta)
+T18	Gene_or_gene_product 1114 1147	I(kappa)B(beta)-associated kinase
+T19	Gene_or_gene_product 1149 1152	BAK
+T20	Gene_or_gene_product 1176 1192	casein kinase II
+T21	Gene_or_gene_product 1194 1198	CKII
+T22	Gene_or_gene_product 1253 1269	I(kappa)B(alpha)
+T23	Gene_or_gene_product 1302 1317	I(kappa)B(beta)
+T24	Gene_or_gene_product 1328 1331	BAK
+T25	Gene_or_gene_product 1335 1339	CKII
+T26	Gene_or_gene_product 1422 1427	c-Rel
+T27	Gene_or_gene_product 1526 1541	I(kappa)B(beta)
+T28	Gene_or_gene_product 1616 1620	CKII
+T29	Simple_chemical 1657 1664	Ser-313
+T30	Simple_chemical 1669 1676	Ser-315
+T31	Simple_chemical 1740 1747	Ser-313
+T32	Simple_chemical 1752 1759	Ser-315
+T33	Gene_or_gene_product 1817 1832	I(kappa)B(beta)
+T34	Gene_or_gene_product 1859 1864	c-Rel
+T35	Gene_or_gene_product 1991 2006	I(kappa)B(beta)
+T36	Gene_or_gene_product 2020 2024	CKII
+T37	Complex 2081 2102	I(kappa)B(beta)-c-Rel

@@ -1,0 +1,26 @@
+T1	Gene_or_gene_product 17 37	CREB binding protein
+T2	Gene_or_gene_product 66 70	Nrf2
+T3	Complex 75 84	NF-kappaB
+T4	Gene_or_gene_product 482 521	nuclear factor erythroid-derived-like 2
+T5	Gene_or_gene_product 523 527	Nrf2
+T6	Gene_or_gene_product 699 703	Nrf2
+T7	Simple_chemical 867 871	cAMP
+T8	Gene_or_gene_product 908 912	Nrf2
+T9	Simple_chemical 946 954	Rp-cAMPS
+T10	Simple_chemical 958 962	cAMP
+T11	Gene_or_gene_product 999 1003	Nrf2
+T12	Cellular_component 1058 1065	nuclear
+T13	Simple_chemical 1135 1143	Rp-cAMPS
+T14	Complex 1168 1177	NF-kappaB
+T15	Gene_or_gene_product 1273 1277	Nrf2
+T16	Complex 1282 1291	NF-kappaB
+T17	Gene_or_gene_product 1336 1398	cAMP responsive element-binding protein (CREB) binding protein
+T18	Gene_or_gene_product 1400 1403	CBP
+T19	Simple_chemical 1414 1422	Rp-cAMPS
+T20	Gene_or_gene_product 1430 1433	CBP
+T21	Gene_or_gene_product 1458 1462	Nrf2
+T22	Gene_or_gene_product 1656 1660	Nrf2
+T23	Complex 1665 1674	NF-kappaB
+T24	Gene_or_gene_product 1736 1739	CBP
+T25	Complex 1762 1771	NF-kappaB
+T26	Gene_or_gene_product 1783 1787	Nrf2

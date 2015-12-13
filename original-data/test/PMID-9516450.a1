@@ -1,0 +1,28 @@
+T1	Simple_chemical 65 71	sodium
+T2	Simple_chemical 82 89	vitamin
+T3	Simple_chemical 126 138	pantothenate
+T4	Simple_chemical 140 146	biotin
+T5	Simple_chemical 152 159	lipoate
+T6	Simple_chemical 197 200	Na+
+T7	Simple_chemical 282 290	vitamins
+T8	Simple_chemical 291 303	pantothenate
+T9	Simple_chemical 308 314	biotin
+T10	Simple_chemical 344 351	lipoate
+T11	Simple_chemical 520 523	Na+
+T12	Simple_chemical 534 546	pantothenate
+T13	Simple_chemical 551 557	biotin
+T14	Simple_chemical 612 624	pantothenate
+T15	Simple_chemical 626 632	biotin
+T16	Simple_chemical 638 645	lipoate
+T17	Simple_chemical 703 715	pantothenate
+T18	Simple_chemical 720 726	biotin
+T19	Simple_chemical 829 837	vitamins
+T20	Simple_chemical 880 887	lipoate
+T21	Gene_or_gene_product 985 1026	sodium-dependent multivitamin transporter
+T22	Gene_or_gene_product 1028 1032	SMVT
+T23	Gene_or_gene_product 1202 1206	SMVT
+T24	Gene_or_gene_product 1232 1265	Na+-dependent glucose transporter
+T25	Gene_or_gene_product 1308 1312	SMVT
+T26	Gene_or_gene_product 1432 1436	SMVT
+T27	Simple_chemical 1458 1461	Na+
+T28	Simple_chemical 1472 1479	vitamin

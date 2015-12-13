@@ -1,0 +1,32 @@
+T1	Gene_or_gene_product 0 4	Mip1
+T2	Gene_or_gene_product 9 14	MEKK2
+T3	Gene_or_gene_product 45 50	MEKK2
+T4	Gene_or_gene_product 81 113	Mitogen-activated protein kinase
+T5	Gene_or_gene_product 115 119	MAPK
+T6	Cellular_component 160 173	intracellular
+T7	Cellular_component 251 264	extracellular
+T8	Gene_or_gene_product 277 281	MAPK
+T9	Gene_or_gene_product 301 312	MAPK kinase
+T10	Gene_or_gene_product 347 365	MAPK kinase kinase
+T11	Gene_or_gene_product 367 372	MAP3K
+T12	Gene_or_gene_product 481 487	MAP3Ks
+T13	Gene_or_gene_product 564 568	MAPK
+T14	Gene_or_gene_product 658 663	MEKK2
+T15	Gene_or_gene_product 685 689	Mip1
+T16	Gene_or_gene_product 706 711	MEKK2
+T17	Gene_or_gene_product 797 802	MEKK2
+T18	Gene_or_gene_product 819 823	Mip1
+T19	Gene_or_gene_product 834 839	MEKK2
+T20	Gene_or_gene_product 863 868	MEKK2
+T21	Gene_or_gene_product 908 913	JNKK2
+T22	Gene_or_gene_product 915 940	c-Jun N-terminal kinase 1
+T23	Gene_or_gene_product 942 946	JNK1
+T24	Gene_or_gene_product 949 988	extracellular signal-regulated kinase 5
+T25	Gene_or_gene_product 994 998	AP-1
+T26	Gene_or_gene_product 1027 1032	MEKK2
+T27	Complex 1076 1086	Mip1-MEKK2
+T28	Gene_or_gene_product 1200 1204	Mip1
+T29	Gene_or_gene_product 1239 1244	MEKK2
+T30	Gene_or_gene_product 1254 1257	JNK
+T31	Gene_or_gene_product 1262 1266	AP-1
+T32	Gene_or_gene_product 1333 1338	MEKK2

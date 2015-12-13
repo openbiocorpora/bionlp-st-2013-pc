@@ -1,0 +1,46 @@
+T1	Gene_or_gene_product 14 50	proline-rich Akt substrate of 40 kDa
+T2	Gene_or_gene_product 52 58	PRAS40
+T3	Complex 72 111	mammalian target of rapamycin complex 1
+T4	Complex 113 119	mTORC1
+T5	Simple_chemical 152 161	rapamycin
+T6	Complex 172 218	mammalian target of rapamycin (mTOR) complex 1
+T7	Complex 220 226	mTORC1
+T8	Gene_or_gene_product 237 241	mTOR
+T9	Gene_or_gene_product 243 249	raptor
+T10	Gene_or_gene_product 251 256	mLST8
+T11	Gene_or_gene_product 262 268	PRAS40
+T12	Gene_or_gene_product 270 306	proline-rich Akt substrate of 40 kDa
+T13	Gene_or_gene_product 309 315	PRAS40
+T14	Complex 364 370	mTORC1
+T15	Complex 396 402	mTORC1
+T16	Gene_or_gene_product 418 425	insulin
+T17	Gene_or_gene_product 427 433	PRAS40
+T18	Complex 477 483	mTORC1
+T19	Simple_chemical 515 522	Ser-183
+T20	Simple_chemical 675 682	Ser-183
+T21	Complex 684 690	mTORC1
+T22	Simple_chemical 711 718	Ser-212
+T23	Simple_chemical 723 730	Ser-221
+T24	Gene_or_gene_product 734 740	PRAS40
+T25	Simple_chemical 798 801	Ala
+T26	Complex 819 825	mTORC1
+T27	Gene_or_gene_product 854 860	PRAS40
+T28	Simple_chemical 934 955	[(32)P]orthophosphate
+T29	Simple_chemical 1005 1012	Ser-221
+T30	Simple_chemical 1017 1024	Ser-183
+T31	Simple_chemical 1033 1040	Ser-212
+T32	Simple_chemical 1057 1066	rapamycin
+T33	Simple_chemical 1123 1130	Ser-221
+T34	Simple_chemical 1134 1137	Ala
+T35	Gene_or_gene_product 1167 1173	14-3-3
+T36	Simple_chemical 1208 1215	Thr-246
+T37	Gene_or_gene_product 1221 1224	Akt
+T38	Gene_or_gene_product 1225 1241	protein kinase B
+T39	Simple_chemical 1293 1300	Ser-221
+T40	Simple_chemical 1304 1307	Ala
+T41	Gene_or_gene_product 1345 1351	PRAS40
+T42	Complex 1359 1365	mTORC1
+T43	Complex 1389 1395	mTORC1
+T44	Gene_or_gene_product 1438 1444	PRAS40
+T45	Gene_or_gene_product 1475 1479	mTOR
+T46	Gene_or_gene_product 1516 1522	PRAS40

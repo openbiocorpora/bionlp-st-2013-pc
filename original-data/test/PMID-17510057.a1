@@ -1,0 +1,40 @@
+T1	Gene_or_gene_product 0 6	PRAS40
+T2	Complex 17 23	mTORC1
+T3	Gene_or_gene_product 100 129	Mammalian target of rapamycin
+T4	Gene_or_gene_product 131 135	mTOR
+T5	Complex 184 190	mTORC1
+T6	Complex 195 201	mTORC2
+T7	Gene_or_gene_product 218 225	insulin
+T8	Complex 241 247	mTORC1
+T9	Gene_or_gene_product 263 267	mTOR
+T10	Gene_or_gene_product 269 275	raptor
+T11	Gene_or_gene_product 277 314	regulatory-associated protein of mTOR
+T12	Gene_or_gene_product 321 326	mLST8
+T13	Gene_or_gene_product 360 407	eukaryotic initiation factor 4E-binding protein
+T14	Gene_or_gene_product 409 413	4EBP
+T15	Gene_or_gene_product 419 432	p70 S6 kinase
+T16	Gene_or_gene_product 516 520	mTOR
+T17	Gene_or_gene_product 543 550	insulin
+T18	Gene_or_gene_product 581 586	4EBP1
+T19	Gene_or_gene_product 598 604	raptor
+T20	Gene_or_gene_product 623 651	prolinerich Akt substrate 40
+T21	Gene_or_gene_product 653 659	PRAS40
+T22	Complex 686 692	mTORC1
+T23	Gene_or_gene_product 705 708	TOR
+T24	Gene_or_gene_product 750 756	PRAS40
+T25	Gene_or_gene_product 803 809	raptor
+T26	Gene_or_gene_product 811 818	Insulin
+T27	Gene_or_gene_product 863 869	PRAS40
+T28	Complex 879 885	mTORC1
+T29	Gene_or_gene_product 899 905	PRAS40
+T30	Complex 915 921	mTORC1
+T31	Gene_or_gene_product 991 997	PRAS40
+T32	Gene_or_gene_product 1015 1021	raptor
+T33	Gene_or_gene_product 1047 1053	PRAS40
+T34	Gene_or_gene_product 1095 1101	4E-BP1
+T35	Gene_or_gene_product 1113 1119	raptor
+T36	Gene_or_gene_product 1137 1143	PRAS40
+T37	Gene_or_gene_product 1158 1164	4E-BP1
+T38	Gene_or_gene_product 1176 1182	raptor
+T39	Gene_or_gene_product 1212 1218	PRAS40
+T40	Complex 1229 1235	mTORC1

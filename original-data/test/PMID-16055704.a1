@@ -1,0 +1,36 @@
+T1	Gene_or_gene_product 0 4	PTEN
+T2	Gene_or_gene_product 15 31	RNA Polymerase I
+T3	Complex 64 67	SL1
+T4	Gene_or_gene_product 78 82	PTEN
+T5	Gene_or_gene_product 231 241	PI3 kinase
+T6	Gene_or_gene_product 242 245	Akt
+T7	Gene_or_gene_product 338 342	PTEN
+T8	Gene_or_gene_product 391 407	RNA polymerase I
+T9	Gene_or_gene_product 409 418	RNA Pol I
+T10	Gene_or_gene_product 529 533	PTEN
+T11	Gene_or_gene_product 642 646	PTEN
+T12	Gene_or_gene_product 650 654	PTEN
+T13	Gene_or_gene_product 681 690	RNA Pol I
+T14	Gene_or_gene_product 723 727	PTEN
+T15	Gene_or_gene_product 763 767	PTEN
+T16	Gene_or_gene_product 854 857	p53
+T17	Gene_or_gene_product 911 915	PTEN
+T18	Gene_or_gene_product 954 963	RNA Pol I
+T19	Gene_or_gene_product 985 995	PI3 kinase
+T20	Gene_or_gene_product 996 999	Akt
+T21	Gene_or_gene_product 1000 1029	mammalian target of rapamycin
+T22	Gene_or_gene_product 1030 1039	S6 kinase
+T23	Gene_or_gene_product 1088 1097	S6 kinase
+T24	Gene_or_gene_product 1146 1150	PTEN
+T25	Gene_or_gene_product 1187 1196	RNA Pol I
+T26	Gene_or_gene_product 1223 1246	upstream binding factor
+T27	Gene_or_gene_product 1250 1253	SL1
+T28	Gene_or_gene_product 1273 1277	PTEN
+T29	Cellular_component 1299 1308	chromatin
+T30	Gene_or_gene_product 1353 1357	PTEN
+T31	Gene_or_gene_product 1402 1405	SL1
+T32	Gene_or_gene_product 1455 1459	PTEN
+T33	Gene_or_gene_product 1488 1491	SL1
+T34	Gene_or_gene_product 1543 1547	PTEN
+T35	Gene_or_gene_product 1558 1567	RNA Pol I
+T36	Complex 1640 1643	SL1

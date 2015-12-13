@@ -1,0 +1,2 @@
+Interleukin-1. 
+Interleukin 1 (IL1) is a primary regulator of inflammatory and immune responses. Via its type I receptor it activates specific protein kinases, including the NF kappa B inducing kinase (NIK) and three distinct mitogen-activated protein (MAP) kinase cascades. These modulate a number of transcription factors including NF kappa B, AP1 and CREB each of which regulate a plethora of immediate early genes central to the inflammatory response. Phase I clinical trials of the soluble type I receptor and IRAP indicate that these have potential anti-inflammatory effects.

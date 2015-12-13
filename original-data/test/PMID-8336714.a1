@@ -1,0 +1,33 @@
+T1	Gene_or_gene_product 20 41	protein kinase C zeta
+T2	Complex 60 70	NF-kappa B
+T3	Complex 84 106	Nuclear factor kappa B
+T4	Complex 108 118	NF-kappa B
+T5	Complex 182 192	NF-kappa B
+T6	Cellular_component 256 265	cytoplasm
+T7	Gene_or_gene_product 298 307	I kappa B
+T8	Gene_or_gene_product 341 350	I kappa B
+T9	Complex 368 378	NF-kappa B
+T10	Cellular_component 414 421	nucleus
+T11	Complex 508 518	NF-kappa B
+T12	Gene_or_gene_product 568 584	protein kinase C
+T13	Gene_or_gene_product 586 589	PKC
+T14	Simple_chemical 663 688	phorbol myristate acetate
+T15	Simple_chemical 691 694	PMA
+T16	Simple_chemical 727 740	phorbol ester
+T17	Gene_or_gene_product 751 754	PKC
+T18	Complex 775 785	NF-kappa B
+T19	Simple_chemical 808 811	PMA
+T20	Gene_or_gene_product 822 826	PKCs
+T21	Simple_chemical 944 947	PMA
+T22	Gene_or_gene_product 960 963	PKC
+T23	Gene_or_gene_product 973 981	zeta PKC
+T24	Complex 1023 1033	NF-kappa B
+T25	Gene_or_gene_product 1049 1056	ras p21
+T26	Gene_or_gene_product 1101 1109	zeta PKC
+T27	Complex 1196 1206	NF-kappa B
+T28	Cellular_component 1216 1223	nucleus
+T29	Gene_or_gene_product 1319 1327	zeta PKC
+T30	Complex 1354 1361	kappa B
+T31	Complex 1393 1426	chloramphenicol acetyltransferase
+T32	Gene_or_gene_product 1510 1518	zeta PKC
+T33	Complex 1544 1554	NF-kappa B

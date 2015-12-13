@@ -1,0 +1,29 @@
+T1	Simple_chemical 10 13	Leu
+T2	Gene_or_gene_product 84 100	protein kinase C
+T3	Gene_or_gene_product 106 111	Hsp70
+T4	Gene_or_gene_product 342 347	Hsp70
+T5	Gene_or_gene_product 364 380	protein kinase C
+T6	Gene_or_gene_product 382 385	PKC
+T7	Gene_or_gene_product 553 556	PKC
+T8	Gene_or_gene_product 586 591	Hsp70
+T9	Gene_or_gene_product 620 625	Hsp70
+T10	Simple_chemical 635 638	Leu
+T11	Simple_chemical 640 647	Leu-640
+T12	Simple_chemical 722 729	Thr-641
+T13	Gene_or_gene_product 734 744	PKC betaII
+T14	Simple_chemical 805 812	Leu-640
+T15	Simple_chemical 816 819	Gly
+T16	Gene_or_gene_product 849 854	Hsp70
+T17	Gene_or_gene_product 860 870	PKC betaII
+T18	Gene_or_gene_product 906 911	Hsp70
+T19	Gene_or_gene_product 927 931	PKCs
+T20	Gene_or_gene_product 976 979	PKC
+T21	Gene_or_gene_product 1043 1048	Hsp70
+T22	Gene_or_gene_product 1131 1134	PKC
+T23	Gene_or_gene_product 1150 1155	Hsp70
+T24	Gene_or_gene_product 1241 1244	PKC
+T25	Simple_chemical 1250 1263	phorbol ester
+T26	Gene_or_gene_product 1322 1327	Hsp70
+T27	Gene_or_gene_product 1371 1374	PKC
+T28	Gene_or_gene_product 1493 1498	Hsp70
+T29	Gene_or_gene_product 1564 1567	PKC

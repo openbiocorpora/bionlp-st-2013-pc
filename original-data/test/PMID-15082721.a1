@@ -1,0 +1,32 @@
+T1	Simple_chemical 74 90	nucleotide-sugar
+T2	Gene_or_gene_product 128 145	fringe connection
+T3	Simple_chemical 266 282	nucleotide-sugar
+T4	Gene_or_gene_product 301 306	hfrc1
+T5	Gene_or_gene_product 355 372	fringe connection
+T6	Gene_or_gene_product 397 402	sqv-7
+T7	Gene_or_gene_product 414 421	UGTrel7
+T8	Gene_or_gene_product 423 428	HFRC1
+T9	Cellular_component 454 469	Golgi apparatus
+T10	Gene_or_gene_product 540 545	hfrc1
+T11	Gene_or_gene_product 550 557	UGTrel7
+T12	Gene_or_gene_product 607 612	hfrc1
+T13	Gene_or_gene_product 675 682	UGTrel7
+T14	Gene_or_gene_product 715 720	HFRC1
+T15	Gene_or_gene_product 793 798	HFRC1
+T16	Simple_chemical 804 827	UDP-N-acetylglucosamine
+T17	Simple_chemical 829 839	UDP-GlcNAc
+T18	Simple_chemical 842 853	UDP-glucose
+T19	Simple_chemical 855 862	UDP-Glc
+T20	Simple_chemical 869 880	GDP-mannose
+T21	Simple_chemical 882 889	GDP-Man
+T22	Gene_or_gene_product 987 992	HFRC1
+T23	Simple_chemical 1005 1015	UDP-GlcNAc
+T24	Simple_chemical 1020 1027	UDP-Glc
+T25	Simple_chemical 1037 1044	GDP-Man
+T26	Gene_or_gene_product 1068 1073	hfrc1
+T27	Cellular_component 1109 1121	cell surface
+T28	Simple_chemical 1122 1137	heparan sulfate
+T29	Gene_or_gene_product 1184 1189	HFRC1
+T30	Simple_chemical 1221 1236	heparan sulfate
+T31	Simple_chemical 1264 1274	UDP-GlcNAc
+T32	Simple_chemical 1302 1317	heparan sulfate

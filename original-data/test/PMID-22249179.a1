@@ -1,0 +1,51 @@
+T1	Gene_or_gene_product 29 33	RelA
+T2	Gene_or_gene_product 34 37	p65
+T3	Complex 42 51	NF-kappaB
+T4	Gene_or_gene_product 69 94	histone acetyltransferase
+T5	Gene_or_gene_product 95 100	TIP60
+T6	Complex 116 137	nuclear factor-kappaB
+T7	Complex 139 148	NF-kappaB
+T8	Complex 308 317	NF-kappaB
+T9	Gene_or_gene_product 353 358	TIP60
+T10	Gene_or_gene_product 379 384	TIP60
+T11	Complex 404 413	NF-kappaB
+T12	Gene_or_gene_product 414 418	RelA
+T13	Gene_or_gene_product 419 422	p65
+T14	Gene_or_gene_product 520 525	TIP60
+T15	Gene_or_gene_product 537 541	RelA
+T16	Gene_or_gene_product 542 545	p65
+T17	Gene_or_gene_product 556 581	histone acetyltransferase
+T18	Gene_or_gene_product 590 595	TIP60
+T19	Gene_or_gene_product 624 628	RelA
+T20	Gene_or_gene_product 629 632	p65
+T21	Gene_or_gene_product 643 648	TIP60
+T22	Simple_chemical 671 678	Lys-310
+T23	Gene_or_gene_product 679 683	RelA
+T24	Gene_or_gene_product 684 687	p65
+T25	Gene_or_gene_product 702 711	TNF-alpha
+T26	Complex 722 731	NF-kappaB
+T27	Cellular_component 754 763	chromatin
+T28	Gene_or_gene_product 791 796	TIP60
+T29	Gene_or_gene_product 828 832	IL-6
+T30	Gene_or_gene_product 834 838	IL-8
+T31	Gene_or_gene_product 840 846	C-IAP1
+T32	Gene_or_gene_product 852 856	XIAP
+T33	Gene_or_gene_product 870 879	TNF-alpha
+T34	Gene_or_gene_product 919 930	histones H3
+T35	Gene_or_gene_product 935 937	H4
+T36	Cellular_component 939 948	Chromatin
+T37	Gene_or_gene_product 963 968	TIP60
+T38	Simple_chemical 1008 1022	acetyl-Lys-310
+T39	Gene_or_gene_product 1023 1027	RelA
+T40	Gene_or_gene_product 1028 1031	p65
+T41	Gene_or_gene_product 1103 1108	TIP60
+T42	Simple_chemical 1140 1154	acetyl-Lys-310
+T43	Gene_or_gene_product 1155 1159	RelA
+T44	Gene_or_gene_product 1160 1163	p65
+T45	Gene_or_gene_product 1246 1251	TIP60
+T46	Complex 1271 1280	NF-kappaB
+T47	Gene_or_gene_product 1322 1326	RelA
+T48	Gene_or_gene_product 1327 1330	p65
+T49	Gene_or_gene_product 1385 1389	RelA
+T50	Gene_or_gene_product 1390 1393	p65
+T51	Complex 1397 1406	NF-kappaB

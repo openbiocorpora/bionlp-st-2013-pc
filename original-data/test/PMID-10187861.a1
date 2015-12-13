@@ -1,0 +1,42 @@
+T1	Gene_or_gene_product 27 77	transforming growth factor beta-activated kinase 1
+T2	Gene_or_gene_product 83 98	IkappaB kinases
+T3	Complex 112 121	NF-kappaB
+T4	Gene_or_gene_product 143 190	mitogen-activated protein kinase kinase kinases
+T5	Complex 214 235	nuclear factor-kappaB
+T6	Complex 237 246	NF-kappaB
+T7	Gene_or_gene_product 308 358	transforming growth factor-beta-activated kinase 1
+T8	Gene_or_gene_product 360 364	TAK1
+T9	Gene_or_gene_product 383 436	mitogen-activated protein kinase kinase kinase family
+T10	Gene_or_gene_product 466 488	TAK1-binding protein 1
+T11	Gene_or_gene_product 490 494	TAB1
+T12	Complex 507 516	NF-kappaB
+T13	Gene_or_gene_product 577 581	TAK1
+T14	Complex 590 599	NF-kappaB
+T15	Gene_or_gene_product 641 667	IkappaB kinase (IKK) alpha
+T16	Gene_or_gene_product 672 679	IKKbeta
+T17	Gene_or_gene_product 690 694	TAK1
+T18	Complex 703 712	NF-kappaB
+T19	Gene_or_gene_product 725 729	TAK1
+T20	Gene_or_gene_product 740 748	IKKalpha
+T21	Gene_or_gene_product 753 760	IKKbeta
+T22	Gene_or_gene_product 780 784	TAB1
+T23	Gene_or_gene_product 786 794	IKKalpha
+T24	Gene_or_gene_product 799 806	IKKbeta
+T25	Gene_or_gene_product 838 842	TAK1
+T26	Gene_or_gene_product 861 865	TAB1
+T27	Gene_or_gene_product 867 871	TAB1
+T28	Gene_or_gene_product 880 884	TAK1
+T29	Gene_or_gene_product 941 949	IKKalpha
+T30	Gene_or_gene_product 954 961	IKKbeta
+T31	Gene_or_gene_product 974 978	TAK1
+T32	Gene_or_gene_product 992 995	IKK
+T33	Gene_or_gene_product 1037 1041	TAK1
+T34	Gene_or_gene_product 1056 1083	tumor necrosis factor-alpha
+T35	Gene_or_gene_product 1105 1109	TAK1
+T36	Gene_or_gene_product 1135 1139	TAK1
+T37	Gene_or_gene_product 1187 1214	tumor necrosis factor-alpha
+T38	Complex 1223 1232	NF-kappaB
+T39	Complex 1301 1310	NF-kappaB
+T40	Gene_or_gene_product 1330 1334	TAK1
+T41	Gene_or_gene_product 1344 1348	TAK1
+T42	Gene_or_gene_product 1383 1387	IKKs

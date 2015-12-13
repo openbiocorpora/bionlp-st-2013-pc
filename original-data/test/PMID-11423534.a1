@@ -1,0 +1,25 @@
+T1	Gene_or_gene_product 83 99	adenylyl cyclase
+T2	Simple_chemical 127 131	cAMP
+T3	Gene_or_gene_product 171 187	adenylyl cyclase
+T4	Cellular_component 206 214	membrane
+T5	Gene_or_gene_product 221 226	ACIII
+T6	Gene_or_gene_product 249 265	adenylyl cyclase
+T7	Gene_or_gene_product 267 270	sAC
+T8	Gene_or_gene_product 299 302	sAC
+T9	Cellular_component 377 385	membrane
+T10	Gene_or_gene_product 392 394	AC
+T11	Gene_or_gene_product 419 429	G proteins
+T12	Simple_chemical 464 480	bicarbonate ions
+T13	Gene_or_gene_product 640 643	sAC
+T14	Gene_or_gene_product 663 684	reverse transcriptase
+T15	Gene_or_gene_product 715 720	RNase
+T16	Gene_or_gene_product 756 759	sAC
+T17	Gene_or_gene_product 868 889	Reverse transcriptase
+T18	Gene_or_gene_product 987 992	RNase
+T19	Gene_or_gene_product 1327 1330	sAC
+T20	Simple_chemical 1352 1368	Bicarbonate ions
+T21	Gene_or_gene_product 1384 1387	sAC
+T22	Simple_chemical 1408 1412	cAMP
+T23	Gene_or_gene_product 1587 1590	sAC
+T24	Simple_chemical 1673 1684	bicarbonate
+T25	Simple_chemical 1751 1755	cAMP

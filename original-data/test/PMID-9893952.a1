@@ -1,0 +1,31 @@
+T1	Simple_chemical 18 32	6-deoxyhexoses
+T2	Simple_chemical 65 73	L-fucose
+T3	Simple_chemical 78 88	L-rhamnose
+T4	Simple_chemical 97 111	6-deoxyhexoses
+T5	Simple_chemical 151 164	carbohydrates
+T6	Simple_chemical 207 222	polysaccharides
+T7	Cellular_component 230 239	cell wall
+T8	Simple_chemical 263 271	L-fucose
+T9	Cellular_component 369 382	cell membrane
+T10	Simple_chemical 469 477	L-fucose
+T11	Simple_chemical 482 492	L-rhamnose
+T12	Simple_chemical 560 573	GDP-D-mannose
+T13	Simple_chemical 578 592	dTDP-D-glucose
+T14	Gene_or_gene_product 726 755	nucleotide-sugar dehydratases
+T15	Simple_chemical 797 811	4-keto-6-deoxy
+T16	Simple_chemical 942 947	NADPH
+T17	Simple_chemical 1029 1041	GDP-L-fucose
+T18	Simple_chemical 1045 1060	dTDP-L-rhamnose
+T19	Gene_or_gene_product 1114 1134	glycosyltransferases
+T20	Simple_chemical 1181 1189	L-fucose
+T21	Simple_chemical 1193 1203	L-rhamnose
+T22	Simple_chemical 1283 1295	GDP-L-fucose
+T23	Gene_or_gene_product 1327 1356	GDP-D-mannose 4,6 dehydratase
+T24	Gene_or_gene_product 1522 1524	FX
+T25	Gene_or_gene_product 1550 1554	WcaG
+T26	Simple_chemical 1674 1686	GDP-L-fucose
+T27	Cellular_component 1742 1754	cell surface
+T28	Simple_chemical 1950 1964	dTDP-D-glucose
+T29	Simple_chemical 2002 2012	glycosides
+T30	Simple_chemical 2053 2068	dTDP-L-rhamnose
+T31	Gene_or_gene_product 2153 2179	dTDP-D-glucose dehydratase

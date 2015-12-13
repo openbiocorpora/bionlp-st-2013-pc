@@ -1,0 +1,32 @@
+T1	Cellular_component 35 44	lysosomal
+T2	Complex 45 67	beta -hexosaminidase S
+T3	Cellular_component 76 85	lysosomal
+T4	Complex 86 106	beta-hexosaminidases
+T5	Simple_chemical 149 167	N-acetylhexosamine
+T6	Complex 304 309	Hex A
+T7	Complex 323 328	Hex B
+T8	Complex 345 350	Hex S
+T9	Complex 383 388	Hex A
+T10	Complex 393 394	B
+T11	Complex 530 535	Hex S
+T12	Simple_chemical 604 620	oligosaccharides
+T13	Complex 666 680	hexosaminidase
+T14	Complex 717 722	Hex S
+T15	Complex 966 971	Hex S
+T16	Complex 1013 1018	Hex S
+T17	Simple_chemical 1040 1056	oligosaccharides
+T18	Gene_or_gene_product 1155 1166	glycosidase
+T19	Simple_chemical 1189 1196	glycans
+T20	Simple_chemical 1239 1255	dermatan sulfate
+T21	Simple_chemical 1296 1312	oligosaccharides
+T22	Simple_chemical 1343 1351	N-glycan
+T23	Complex 1387 1392	Hex S
+T24	Simple_chemical 1414 1419	water
+T25	Simple_chemical 1534 1555	glycosphingolipid SM2
+T26	Cellular_component 1571 1579	membrane
+T27	Simple_chemical 1586 1589	SM2
+T28	Complex 1609 1614	Hex S
+T29	Gene_or_gene_product 1653 1656	GM2
+T30	Cellular_component 1683 1692	lysosomal
+T31	Simple_chemical 1693 1713	anionic phospholipid
+T32	Simple_chemical 1714 1743	bis(monoacylglycero)phosphate

@@ -1,0 +1,23 @@
+T1	Complex 0 35	Cyclic AMP-dependent protein kinase
+T2	Gene_or_gene_product 71 97	elongation factor-2 kinase
+T3	Simple_chemical 110 117	calcium
+T4	Complex 166 201	cyclic AMP-dependent protein kinase
+T5	Complex 203 206	PKA
+T6	Simple_chemical 232 239	calcium
+T7	Gene_or_gene_product 240 250	calmodulin
+T8	Gene_or_gene_product 261 306	eukaryotic elongation factor-2 (eEF-2) kinase
+T9	Simple_chemical 392 401	phosphate
+T10	Gene_or_gene_product 409 421	eEF-2 kinase
+T11	Gene_or_gene_product 433 445	eEF-2 kinase
+T12	Complex 450 453	PKA
+T13	Gene_or_gene_product 504 516	eEF-2 kinase
+T14	Complex 520 523	PKA
+T15	Simple_chemical 532 539	calcium
+T16	Simple_chemical 636 643	calcium
+T17	Simple_chemical 671 678	calcium
+T18	Complex 730 733	PKA
+T19	Gene_or_gene_product 811 823	eEF-2 kinase
+T20	Gene_or_gene_product 851 863	eEF-2 kinase
+T21	Complex 903 906	PKA
+T22	Complex 971 974	PKA
+T23	Simple_chemical 1100 1107	calcium

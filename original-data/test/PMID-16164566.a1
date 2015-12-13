@@ -1,0 +1,32 @@
+T1	Gene_or_gene_product 0 4	CsgA
+T2	Gene_or_gene_product 114 134	Toll-like receptor 2
+T3	Cellular_component 395 403	fimbriae
+T4	Gene_or_gene_product 757 765	GROalpha
+T5	Cellular_component 836 856	thin curled fimbriae
+T6	Gene_or_gene_product 872 875	csg
+T7	Gene_or_gene_product 1015 1019	IL-8
+T8	Cellular_component 1091 1111	thin curled fimbriae
+T9	Gene_or_gene_product 1120 1124	IL-8
+T10	Complex 1194 1225	Toll-like receptor (TLR) 2/CD14
+T11	Gene_or_gene_product 1260 1264	TLR5
+T12	Complex 1266 1279	TLR4/MD2/CD14
+T13	Gene_or_gene_product 1283 1288	TLR11
+T14	Cellular_component 1344 1364	thin curled fimbriae
+T15	Gene_or_gene_product 1366 1370	CsgA
+T16	Gene_or_gene_product 1376 1401	glutathione-S-transferase
+T17	Gene_or_gene_product 1403 1406	GST
+T18	Gene_or_gene_product 1417 1421	IL-8
+T19	Complex 1466 1475	TLR2/CD14
+T20	Gene_or_gene_product 1477 1489	Proteinase K
+T21	Gene_or_gene_product 1510 1514	IL-8
+T22	Gene_or_gene_product 1553 1561	GST-CsgA
+T23	Gene_or_gene_product 1597 1605	GST-CsgA
+T24	Gene_or_gene_product 1620 1624	IL-6
+T25	Gene_or_gene_product 1641 1644	GST
+T26	Gene_or_gene_product 1685 1689	TLR2
+T27	Gene_or_gene_product 1732 1736	IL-6
+T28	Gene_or_gene_product 1755 1763	GST-CsgA
+T29	Gene_or_gene_product 1768 1771	GST
+T30	Gene_or_gene_product 1792 1796	TLR2
+T31	Gene_or_gene_product 1832 1836	CsgA
+T32	Gene_or_gene_product 1869 1873	TLR2

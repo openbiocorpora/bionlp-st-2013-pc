@@ -1,0 +1,22 @@
+T1	Simple_chemical 16 39	N-acetylneuraminic acid
+T2	Gene_or_gene_product 57 119	UDP-N-acetylglucosamine 2-epimerase/N-acetylmannosamine kinase
+T3	Simple_chemical 171 194	N-acetylneuraminic acid
+T4	Simple_chemical 209 221	carbohydrate
+T5	Gene_or_gene_product 305 367	UDP-N-acetylglucosamine 2-epimerase/N-acetylmannosamine kinase
+T6	Gene_or_gene_product 433 495	UDP-N-acetylglucosamine 2-epimerase/N-acetylmannosamine kinase
+T7	Cellular_component 580 592	cell surface
+T8	Gene_or_gene_product 670 696	N-acetylmannosamine kinase
+T9	Gene_or_gene_product 775 837	UDP-N-acetylglucosamine 2-epimerase/N-acetylmannosamine kinase
+T10	Gene_or_gene_product 852 878	N-acetylmannosamine kinase
+T11	Gene_or_gene_product 915 950	UDP-N-acetylglucosamine 2-epimerase
+T12	Gene_or_gene_product 984 1010	N-acetylglucosamine kinase
+T13	Gene_or_gene_product 1062 1075	ManNAc kinase
+T14	Gene_or_gene_product 1165 1191	N-acetylmannosamine kinase
+T15	Gene_or_gene_product 1216 1242	N-acetylglucosamine kinase
+T16	Simple_chemical 1248 1275	CMP-N-acetylneuraminic acid
+T17	Cellular_component 1333 1345	cell surface
+T18	Simple_chemical 1441 1460	N-acetylmannosamine
+T19	Simple_chemical 1467 1486	N-acetylmannosamine
+T20	Simple_chemical 1555 1574	N-acetylglucosamine
+T21	Simple_chemical 1638 1657	N-acetylmannosamine
+T22	Gene_or_gene_product 1693 1719	N-acetylglucosamine kinase

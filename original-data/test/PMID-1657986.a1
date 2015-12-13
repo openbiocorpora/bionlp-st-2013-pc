@@ -1,0 +1,28 @@
+T1	Gene_or_gene_product 13 21	catalase
+T2	Cellular_component 35 47	mitochondria
+T3	Simple_chemical 66 70	heme
+T4	Gene_or_gene_product 82 90	catalase
+T5	Cellular_component 104 116	mitochondria
+T6	Cellular_component 219 231	mitochondria
+T7	Simple_chemical 271 275	H2O2
+T8	Simple_chemical 289 293	H2O2
+T9	Simple_chemical 328 337	succinate
+T10	Simple_chemical 339 348	glutamate
+T11	Simple_chemical 349 355	malate
+T12	Simple_chemical 360 376	N-ethylmaleimide
+T13	Simple_chemical 412 419	cyanide
+T14	Simple_chemical 421 438	Hydrogen peroxide
+T15	Cellular_component 456 468	mitochondria
+T16	Simple_chemical 487 493	oxygen
+T17	Cellular_component 557 570	Mitochondrial
+T18	Gene_or_gene_product 670 678	catalase
+T19	Cellular_component 683 689	matrix
+T20	Cellular_component 755 775	mitochondrial matrix
+T21	Gene_or_gene_product 883 891	catalase
+T22	Gene_or_gene_product 919 927	catalase
+T23	Cellular_component 1009 1022	mitochondrial
+T24	Simple_chemical 1023 1027	H2O2
+T25	Gene_or_gene_product 1074 1082	catalase
+T26	Cellular_component 1113 1126	mitochondrial
+T27	Cellular_component 1165 1178	mitochondrial
+T28	Simple_chemical 1187 1191	H2O2

@@ -1,0 +1,42 @@
+T16	Dissociation 851 855	loss
+E1	Dissociation:T16 Theme:T34
+*	Equiv T8 T9
+*	Equiv T10 T11
+*	Equiv T14 T15
+*	Equiv T26 T27
+*	Equiv T28 T29
+T3	Degradation 61 72	degradation
+E2	Degradation:T3 Theme:T1
+T4	Pathway 411 421	cell cycle
+E3	Pathway:T4 
+T5	Regulation 422 432	regulation
+E4	Regulation:T5 Theme:E3
+T12	Pathway 1218 1228	cell cycle
+E5	Pathway:T12 
+T13	Pathway 1474 1484	cell cycle
+E6	Pathway:T13 
+T18	Degradation 607 618	degradation
+E7	Degradation:T18 Theme:T8
+T19	Negative_regulation 745 753	lowering
+E8	Negative_regulation:T19 Theme:T10
+T22	Dissociation 795 799	loss
+E9	Dissociation:T22 Product:T17 Product2:T14
+T23	Positive_regulation 729 741	consequences
+E10	Positive_regulation:T23 Cause:E8 Theme:E9
+T30	Positive_regulation 918 926	increase
+E11	Positive_regulation:T30 Theme:T20
+E12	Positive_regulation:T30 Theme:T21
+T31	Negative_regulation 1140 1149	decreased
+E13	Negative_regulation:T31 Theme:T24
+E14	Negative_regulation:T31 Theme:T25
+T33	Positive_regulation 1321 1333	upregulation
+E15	Positive_regulation:T33 Theme:T26
+T35	Negative_regulation 1432 1447	down regulating
+E16	Negative_regulation:T35 Theme:T28
+T36	Positive_regulation 1464 1473	initiates
+E17	Positive_regulation:T36 Theme:E6 Cause:E16
+*	Equiv T6 T7
+T37	Positive_regulation 1309 1317	resulted
+E18	Positive_regulation:T37 Theme:E15
+T32	Binding 827 832	bound
+E19	Binding:T32 Theme:T17 Theme2:T14

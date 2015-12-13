@@ -1,0 +1,41 @@
+T1	Simple_chemical 0 11	Piceatannol
+T2	Simple_chemical 21 39	lipopolysaccharide
+T3	Simple_chemical 41 44	LPS
+T4	Simple_chemical 54 66	nitric oxide
+T5	Simple_chemical 68 70	NO
+T6	Complex 87 113	nuclear factor (NF)-kappaB
+T7	Complex 139 153	IkappaB kinase
+T8	Complex 155 158	IKK
+T9	Simple_chemical 176 187	piceatannol
+T10	Simple_chemical 191 209	lipopolysaccharide
+T11	Simple_chemical 211 214	LPS
+T12	Simple_chemical 224 236	nitric oxide
+T13	Simple_chemical 238 240	NO
+T14	Simple_chemical 267 278	Piceatannol
+T15	Simple_chemical 303 305	NO
+T16	Simple_chemical 320 323	LPS
+T17	Gene_or_gene_product 428 439	NO synthase
+T18	Gene_or_gene_product 441 445	iNOS
+T19	Simple_chemical 473 484	piceatannol
+T20	Simple_chemical 520 523	LPS
+T21	Complex 532 558	nuclear factor (NF)-kappaB
+T22	Simple_chemical 604 615	Piceatannol
+T23	Gene_or_gene_product 626 652	IkappaB kinase (IKK)-alpha
+T24	Gene_or_gene_product 657 661	beta
+T25	Gene_or_gene_product 696 709	IkappaB-alpha
+T26	Simple_chemical 729 732	LPS
+T27	Simple_chemical 780 791	piceatannol
+T28	Gene_or_gene_product 821 860	mitogen-activated protein (MAP) kinases
+T29	Gene_or_gene_product 871 912	extracellular signal regulated kinase 1/2
+T30	Gene_or_gene_product 914 920	Erk1/2
+T31	Gene_or_gene_product 923 926	p38
+T32	Gene_or_gene_product 931 988	stress-activated protein kinase/c-Jun NH2-terminal kinase
+T33	Gene_or_gene_product 990 998	SAPK/JNK
+T34	Simple_chemical 1001 1012	Piceatannol
+T35	Gene_or_gene_product 1046 1049	Akt
+T36	Gene_or_gene_product 1054 1059	Raf-1
+T37	Gene_or_gene_product 1105 1114	IKK-alpha
+T38	Gene_or_gene_product 1119 1123	beta
+T39	Simple_chemical 1185 1188	LPS
+T40	Simple_chemical 1197 1199	NO
+T41	Simple_chemical 1214 1225	piceatannol

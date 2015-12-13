@@ -1,0 +1,54 @@
+*	Equiv T9 T10
+*	Equiv T7 T8
+T2	Positive_regulation 321 333	upregulation
+E1	Positive_regulation:T2 Theme:T12 Cause:T31
+T3	Positive_regulation 528 539	Upregulated
+E2	Positive_regulation:T3 Theme:T13 Cause:T34
+T14	Gene_expression 14 24	expression
+E3	Gene_expression:T14 Theme:T1
+T27	Binding 29 46	complex formation
+E4	Binding:T27 Theme:T28 Theme2:T1
+T37	Positive_regulation 201 215	transactivated
+E6	Positive_regulation:T37 Cause:T9 Theme:T6
+T38	Binding 292 299	binding
+E7	Binding:T38 Theme:T11 Theme2:T29
+*	Equiv T29 T30
+T39	Activation 572 582	activation
+E8	Activation:T39 Theme:T15
+T40	Positive_regulation 629 638	induction
+E9	Positive_regulation:T40 Theme:T16
+T41	Binding 662 679	complex formation
+E10	Binding:T41 Theme:T17 Theme2:T42
+T18	Positive_regulation 639 644	leads
+E11	Positive_regulation:T18 Cause:E9 Theme:E25
+T19	Positive_regulation 783 790	promote
+E12	Positive_regulation:T19 Cause:T22 Theme:E13
+T43	Pathway 791 800	apoptosis
+E13	Pathway:T43 
+T24	Binding 925 942	complex formation
+E15	Binding:T24 Theme:T23 Theme2:T45
+T25	Positive_regulation 911 920	induction
+E16	Positive_regulation:T25 Theme:T23
+T46	Positive_regulation 899 906	induced
+E17	Positive_regulation:T46 Cause:T36 Theme:E16
+E18	Positive_regulation:T46 Cause:T36 Theme:E15
+T47	Positive_regulation 1037 1046	promoting
+E19	Positive_regulation:T47 Theme:E20 Cause:T26
+T48	Pathway 1047 1056	apoptosis
+E20	Pathway:T48 
+T49	Regulation 962 969	diverts
+E21	Regulation:T49 Theme:T26 Cause:E15
+E22	Regulation:T49 Theme:T26 Cause:E16
+T50	Pathway 517 526	apoptosis
+E23	Pathway:T50 
+T51	Pathway 614 623	apoptosis
+E24	Pathway:T51 
+T44	Pathway 106 115	apoptosis
+E14	Pathway:T44 
+T52	Positive_regulation 648 657	increased
+E25	Positive_regulation:T52 Theme:E10
+T53	Positive_regulation 0 9	Increased
+E26	Positive_regulation:T53 Theme:E3
+E27	Positive_regulation:T53 Theme:E4
+T32	Pathway 876 885	signaling
+E5	Pathway:T32 Participant:T35

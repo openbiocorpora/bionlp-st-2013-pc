@@ -1,0 +1,12 @@
+T1	Gene_or_gene_product 0 13	Interleukin-1
+T2	Gene_or_gene_product 16 29	Interleukin 1
+T3	Gene_or_gene_product 31 34	IL1
+T4	Gene_or_gene_product 105 120	type I receptor
+T5	Gene_or_gene_product 174 200	NF kappa B inducing kinase
+T6	Gene_or_gene_product 202 205	NIK
+T7	Gene_or_gene_product 226 264	mitogen-activated protein (MAP) kinase
+T8	Complex 334 344	NF kappa B
+T9	Complex 346 349	AP1
+T10	Gene_or_gene_product 354 358	CREB
+T11	Gene_or_gene_product 495 510	type I receptor
+T12	Gene_or_gene_product 515 519	IRAP

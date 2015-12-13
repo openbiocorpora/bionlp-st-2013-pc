@@ -1,0 +1,32 @@
+T1	Gene_or_gene_product 0 24	Bruton's tyrosine kinase
+T2	Gene_or_gene_product 26 29	Btk
+T3	Simple_chemical 44 52	tyrosine
+T4	Simple_chemical 63 66	LPS
+T5	Gene_or_gene_product 101 120	Toll-like receptors
+T6	Gene_or_gene_product 122 126	TLRs
+T7	Simple_chemical 211 214	LPS
+T8	Simple_chemical 257 265	tyrosine
+T9	Simple_chemical 292 295	LPS
+T10	Gene_or_gene_product 335 359	Bruton's tyrosine kinase
+T11	Simple_chemical 428 431	LPS
+T12	Gene_or_gene_product 472 475	Btk
+T13	Simple_chemical 479 482	LPS
+T14	Gene_or_gene_product 518 521	Btk
+T15	Gene_or_gene_product 536 540	TLR4
+T16	Gene_or_gene_product 563 571	p38 MAPK
+T17	Complex 626 634	NFkappaB
+T18	Gene_or_gene_product 644 647	Btk
+T19	Simple_chemical 664 667	LPS
+T20	Gene_or_gene_product 704 708	TLR4
+T21	Simple_chemical 762 765	LPS
+T22	Complex 774 782	NFkappaB
+T23	Gene_or_gene_product 795 800	MyD88
+T24	Gene_or_gene_product 802 805	Mal
+T25	Gene_or_gene_product 810 816	IRAK-1
+T26	Gene_or_gene_product 867 870	Btk
+T27	Simple_chemical 874 877	LPS
+T28	Gene_or_gene_product 966 969	Btk
+T29	Simple_chemical 980 983	LPS
+T30	Gene_or_gene_product 1059 1062	Btk
+T31	Gene_or_gene_product 1094 1097	Btk
+T32	Simple_chemical 1111 1114	LPS

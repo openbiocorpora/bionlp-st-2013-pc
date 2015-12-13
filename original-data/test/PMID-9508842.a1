@@ -1,0 +1,50 @@
+T1	Simple_chemical 24 32	butyrate
+T2	Cellular_component 64 88	colonic luminal membrane
+T3	Cellular_component 94 119	Luminal membrane vesicles
+T4	Cellular_component 121 124	LMV
+T5	Simple_chemical 244 257	[14C]butyrate
+T6	Simple_chemical 278 286	cysteine
+T7	Gene_or_gene_product 297 317	alkaline phosphatase
+T8	Gene_or_gene_product 340 346	villin
+T9	Gene_or_gene_product 348 352	NHE2
+T10	Gene_or_gene_product 357 361	NHE3
+T11	Cellular_component 387 411	colonic luminal membrane
+T12	Cellular_component 448 451	LMV
+T13	Cellular_component 504 507	LMV
+T14	Cellular_component 546 565	cellular organelles
+T15	Cellular_component 570 591	basolateral membranes
+T16	Simple_chemical 733 741	butyrate
+T17	Cellular_component 751 776	luminal membrane vesicles
+T18	Simple_chemical 829 837	Butyrate
+T19	Simple_chemical 933 938	anion
+T20	Simple_chemical 964 972	butyrate
+T21	Simple_chemical 975 986	bicarbonate
+T22	Simple_chemical 989 999	propionate
+T23	Simple_chemical 1002 1010	chloride
+T24	Simple_chemical 1193 1201	Butyrate
+T25	Simple_chemical 1257 1280	short chain fatty acids
+T26	Simple_chemical 1282 1286	SCFA
+T27	Simple_chemical 1289 1296	acetate
+T28	Simple_chemical 1298 1308	propionate
+T29	Simple_chemical 1319 1335	monocarboxylates
+T30	Simple_chemical 1337 1345	pyruvate
+T31	Simple_chemical 1350 1359	L-lactate
+T32	Simple_chemical 1362 1370	Butyrate
+T33	Simple_chemical 1403 1411	cysteine
+T34	Simple_chemical 1445 1479	p-chloromercuribenzosulphonic acid
+T35	Simple_chemical 1481 1486	pCMBS
+T36	Simple_chemical 1489 1512	p-chloromercuribenzoate
+T37	Simple_chemical 1514 1518	pCMB
+T38	Simple_chemical 1521 1534	mersalyl acid
+T39	Simple_chemical 1539 1544	HgCl2
+T40	Simple_chemical 1561 1575	stilbene anion
+T41	Simple_chemical 1597 1642	4,4'-diisothiocyanostilbene-2,2'-disulphonate
+T42	Simple_chemical 1644 1648	DIDS
+T43	Simple_chemical 1654 1692	4,4'-dinitrostilbene-2,2'-disulphonate
+T44	Simple_chemical 1694 1698	SITS
+T45	Simple_chemical 1732 1740	butyrate
+T46	Cellular_component 1762 1774	luminal pole
+T47	Simple_chemical 1864 1869	anion
+T48	Simple_chemical 1949 1954	anion
+T49	Gene_or_gene_product 1987 2026	monocarboxylate-type transport proteins
+T50	Gene_or_gene_product 2028 2032	MCT1

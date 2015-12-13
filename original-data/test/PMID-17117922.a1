@@ -1,0 +1,43 @@
+T1	Gene_or_gene_product 49 53	MSK1
+T2	Gene_or_gene_product 85 89	MSK1
+T3	Gene_or_gene_product 91 129	mitogen- and stress-activated kinase 1
+T4	Gene_or_gene_product 191 197	ERK1/2
+T5	Gene_or_gene_product 199 240	extracellular-signal-regulated kinase 1/2
+T6	Gene_or_gene_product 246 254	p38 MAPK
+T7	Gene_or_gene_product 256 288	mitogen-activated protein kinase
+T8	Gene_or_gene_product 320 324	MSK1
+T9	Gene_or_gene_product 350 354	MSK2
+T10	Gene_or_gene_product 396 400	CREB
+T11	Gene_or_gene_product 402 439	cAMP-response-element-binding protein
+T12	Gene_or_gene_product 445 449	ATF1
+T13	Gene_or_gene_product 451 484	activating transcription factor 1
+T14	Cellular_component 495 504	chromatin
+T15	Gene_or_gene_product 514 524	histone H3
+T16	Gene_or_gene_product 529 534	HMGN1
+T17	Gene_or_gene_product 536 585	high-mobility-group nucleosomal-binding protein 1
+T18	Gene_or_gene_product 651 655	MSK1
+T19	Gene_or_gene_product 743 747	MSK1
+T20	Gene_or_gene_product 758 764	ERK1/2
+T21	Gene_or_gene_product 768 772	p38a
+T22	Gene_or_gene_product 877 881	MSK1
+T23	Gene_or_gene_product 1060 1064	MSK1
+T24	Simple_chemical 1066 1072	Thr630
+T25	Simple_chemical 1074 1080	Ser647
+T26	Simple_chemical 1082 1088	Ser657
+T27	Simple_chemical 1090 1096	Ser695
+T28	Simple_chemical 1101 1107	Thr700
+T29	Simple_chemical 1129 1135	Thr700
+T30	Gene_or_gene_product 1169 1173	MSK1
+T31	Gene_or_gene_product 1213 1219	ERK1/2
+T32	Gene_or_gene_product 1224 1228	p38a
+T33	Simple_chemical 1242 1248	Thr700
+T34	Gene_or_gene_product 1292 1296	MSK1
+T35	Simple_chemical 1412 1418	Thr700
+T36	Simple_chemical 1450 1456	Thr581
+T37	Simple_chemical 1517 1523	Thr700
+T38	Simple_chemical 1528 1534	Thr581
+T39	Simple_chemical 1541 1548	alanine
+T40	Simple_chemical 1624 1637	aspartic acid
+T41	Simple_chemical 1803 1809	Thr700
+T42	Gene_or_gene_product 1853 1857	MSK1
+T43	Simple_chemical 1949 1955	Thr581

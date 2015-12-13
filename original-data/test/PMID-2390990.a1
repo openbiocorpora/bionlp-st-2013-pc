@@ -1,0 +1,12 @@
+T1	Gene_or_gene_product 40 59	elongation factor 2
+T2	Gene_or_gene_product 122 152	eukaryotic elongation factor 2
+T3	Gene_or_gene_product 154 159	eEF-2
+T4	Gene_or_gene_product 281 286	eEF-2
+T5	Cellular_component 461 469	ribosome
+T6	Simple_chemical 494 497	GTP
+T7	Simple_chemical 592 595	GTP
+T8	Complex 872 886	ribosome.eEF-2
+T9	Gene_or_gene_product 933 938	eEF-2
+T10	Cellular_component 947 955	ribosome
+T11	Cellular_component 1048 1057	ribosomal
+T12	Gene_or_gene_product 1109 1114	eEF-2

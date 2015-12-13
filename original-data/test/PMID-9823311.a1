@@ -1,0 +1,19 @@
+T1	Gene_or_gene_product 31 34	p73
+T2	Gene_or_gene_product 69 72	p53
+T3	Gene_or_gene_product 88 91	p73
+T4	Gene_or_gene_product 128 131	p53
+T5	Gene_or_gene_product 172 175	p73
+T6	Gene_or_gene_product 210 213	p21
+T7	Gene_or_gene_product 226 229	p53
+T8	Gene_or_gene_product 268 271	p53
+T9	Gene_or_gene_product 337 340	p73
+T10	Gene_or_gene_product 430 433	p73
+T11	Simple_chemical 442 454	tetracycline
+T12	Gene_or_gene_product 516 519	p73
+T13	Gene_or_gene_product 588 591	p73
+T14	Gene_or_gene_product 651 654	p53
+T15	Gene_or_gene_product 739 742	p53
+T16	Gene_or_gene_product 744 753	p73 alpha
+T17	Gene_or_gene_product 759 767	p73 beta
+T18	Gene_or_gene_product 866 869	p73
+T19	Gene_or_gene_product 908 911	p53

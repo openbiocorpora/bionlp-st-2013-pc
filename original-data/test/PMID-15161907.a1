@@ -1,0 +1,50 @@
+T1	Simple_chemical 0 16	beta-D-Glucoside
+T2	Gene_or_gene_product 28 49	tumor necrosis factor
+T3	Cellular_component 72 79	nuclear
+T4	Complex 101 107	kappaB
+T5	Simple_chemical 136 146	Mangiferin
+T6	Simple_chemical 158 168	polyphenol
+T7	Complex 342 351	NF-kappaB
+T8	Simple_chemical 416 426	mangiferin
+T9	Complex 437 446	NF-kappaB
+T10	Simple_chemical 481 491	mangiferin
+T11	Gene_or_gene_product 499 520	tumor necrosis factor
+T12	Gene_or_gene_product 522 525	TNF
+T13	Complex 535 544	NF-kappaB
+T14	Complex 560 569	NF-kappaB
+T15	Gene_or_gene_product 591 596	ICAM1
+T16	Gene_or_gene_product 601 605	COX2
+T17	Complex 653 656	IKK
+T18	Gene_or_gene_product 730 742	IkappaBalpha
+T19	Simple_chemical 757 767	mangiferin
+T20	Gene_or_gene_product 777 780	TNF
+T21	Gene_or_gene_product 789 792	p65
+T22	Cellular_component 841 848	nucleus
+T23	Complex 867 876	NF-kappaB
+T24	Simple_chemical 930 933	PMA
+T25	Simple_chemical 935 943	ceramide
+T26	Simple_chemical 949 955	SA-LPS
+T27	Simple_chemical 957 967	Mangiferin
+T28	Simple_chemical 1010 1013	NAC
+T29	Simple_chemical 1018 1022	PDTC
+T30	Gene_or_gene_product 1033 1036	TNF
+T31	Simple_chemical 1045 1073	reactive oxygen intermediate
+T32	Simple_chemical 1075 1078	ROI
+T33	Cellular_component 1098 1111	intracellular
+T34	Simple_chemical 1112 1123	glutathione
+T35	Simple_chemical 1125 1128	GSH
+T36	Complex 1159 1168	NF-kappaB
+T37	Simple_chemical 1203 1206	GSH
+T38	Simple_chemical 1208 1218	Mangiferin
+T39	Simple_chemical 1228 1239	glutathione
+T40	Simple_chemical 1342 1346	GSSG
+T41	Gene_or_gene_product 1377 1385	catalase
+T42	Simple_chemical 1400 1403	GSH
+T43	Simple_chemical 1407 1429	buthionine sulfoximine
+T44	Simple_chemical 1463 1473	mangiferin
+T45	Simple_chemical 1488 1498	mangiferin
+T46	Complex 1527 1536	NF-kappaB
+T47	Cellular_component 1554 1567	intracellular
+T48	Simple_chemical 1568 1571	GSH
+T49	Simple_chemical 1656 1666	Mangiferin
+T50	Complex 1695 1704	NF-kappaB

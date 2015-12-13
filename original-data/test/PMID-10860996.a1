@@ -1,0 +1,16 @@
+T1	Gene_or_gene_product 0 5	GLUT8
+T2	Simple_chemical 11 18	glucose
+T3	Gene_or_gene_product 47 54	insulin
+T4	Simple_chemical 66 73	glucose
+T5	Gene_or_gene_product 147 154	insulin
+T6	Simple_chemical 166 173	glucose
+T7	Gene_or_gene_product 219 226	insulin
+T8	Gene_or_gene_product 250 255	GLUT4
+T9	Gene_or_gene_product 332 336	GLUT
+T10	Gene_or_gene_product 424 429	GLUTs
+T11	Gene_or_gene_product 431 438	Insulin
+T12	Cellular_component 463 476	intracellular
+T13	Simple_chemical 539 546	glucose
+T14	Gene_or_gene_product 855 862	insulin
+T15	Simple_chemical 873 880	glucose
+T16	Gene_or_gene_product 909 914	GLUT4

@@ -1,0 +1,27 @@
+T1	Gene_or_gene_product 0 6	Apaf-1
+T2	Gene_or_gene_product 24 29	E2F-1
+T3	Gene_or_gene_product 50 55	E2F-1
+T4	Gene_or_gene_product 264 269	E2F-1
+T5	Gene_or_gene_product 307 316	caspase-9
+T6	Gene_or_gene_product 369 378	caspase-9
+T7	Gene_or_gene_product 411 416	E2F-1
+T8	Gene_or_gene_product 418 423	E2F-1
+T9	Gene_or_gene_product 451 457	Apaf-1
+T10	Cellular_component 470 479	cytosolic
+T11	Gene_or_gene_product 496 508	cytochrome c
+T12	Gene_or_gene_product 510 516	Apaf-1
+T13	Gene_or_gene_product 565 570	E2F-1
+T14	Gene_or_gene_product 588 594	Apaf-1
+T15	Gene_or_gene_product 622 627	E2F-1
+T16	Gene_or_gene_product 696 702	Apaf-1
+T17	Gene_or_gene_product 746 749	E2F
+T18	Cellular_component 753 762	chromatin
+T19	Gene_or_gene_product 803 808	E2F-1
+T20	Gene_or_gene_product 818 824	Apaf-1
+T21	Gene_or_gene_product 839 844	E2F-1
+T22	Gene_or_gene_product 877 883	Apaf-1
+T23	Gene_or_gene_product 923 928	E2F-1
+T24	Gene_or_gene_product 1008 1014	Apaf-1
+T25	Gene_or_gene_product 1054 1063	caspase-9
+T26	Cellular_component 1072 1085	mitochondrial
+T27	Gene_or_gene_product 1125 1132	caspase

@@ -1,0 +1,17 @@
+T1	Gene_or_gene_product 16 57	phosphatidylinositol-4-phosphate 5-kinase
+T2	Simple_chemical 84 89	lipid
+T3	Simple_chemical 100 137	Phosphatidylinositol 4,5-bisphosphate
+T4	Simple_chemical 139 152	PtdIns(4,5)P2
+T5	Simple_chemical 192 208	phosphoinositide
+T6	Simple_chemical 371 384	PtdIns(4,5)P2
+T7	Simple_chemical 411 422	PtdIns(4)P-
+T8	Gene_or_gene_product 426 445	PtdIns(4)P 5-kinase
+T9	Gene_or_gene_product 447 452	PIP5K
+T10	Gene_or_gene_product 495 500	PIP5K
+T11	Gene_or_gene_product 531 536	PIP5K
+T12	Gene_or_gene_product 628 633	PIP5K
+T13	Gene_or_gene_product 670 675	PIP5K
+T14	Gene_or_gene_product 701 715	PtdIns kinases
+T15	Gene_or_gene_product 749 754	PIP5K
+T16	Gene_or_gene_product 810 815	Fab1p
+T17	Gene_or_gene_product 820 825	Mss4p

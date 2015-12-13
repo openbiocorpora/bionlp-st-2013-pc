@@ -1,0 +1,44 @@
+T1	Gene_or_gene_product 8 24	Na+/I- symporter
+T2	Gene_or_gene_product 86 102	Na+/I- symporter
+T3	Gene_or_gene_product 104 107	NIS
+T4	Gene_or_gene_product 244 247	NIS
+T5	Simple_chemical 290 293	Na+
+T6	Simple_chemical 305 308	Na+
+T7	Simple_chemical 311 314	Li+
+T8	Simple_chemical 317 319	H+
+T9	Simple_chemical 358 361	Na+
+T10	Simple_chemical 366 368	I-
+T11	Simple_chemical 438 441	Na+
+T12	Simple_chemical 442 447	anion
+T13	Gene_or_gene_product 469 472	NIS
+T14	Simple_chemical 519 525	anions
+T15	Simple_chemical 527 529	I-
+T16	Simple_chemical 531 536	ClO3-
+T17	Simple_chemical 538 542	SCN-
+T18	Simple_chemical 544 549	SeCN-
+T19	Simple_chemical 551 555	NO3-
+T20	Simple_chemical 557 560	Br-
+T21	Simple_chemical 562 566	BF4-
+T22	Simple_chemical 568 572	IO4-
+T23	Simple_chemical 574 579	BrO3-
+T24	Simple_chemical 585 596	perchlorate
+T25	Simple_chemical 598 603	ClO4-
+T26	Simple_chemical 644 649	anion
+T27	Gene_or_gene_product 661 664	NIS
+T28	Simple_chemical 677 680	Na+
+T29	Simple_chemical 778 781	Na+
+T30	Gene_or_gene_product 877 880	NIS
+T31	Simple_chemical 1239 1245	[Na+]o
+T32	Simple_chemical 1295 1301	[Na+]o
+T33	Gene_or_gene_product 1315 1318	NIS
+T34	Cellular_component 1417 1425	membrane
+T35	Gene_or_gene_product 1463 1466	NIS
+T36	Simple_chemical 1488 1491	Na+
+T37	Simple_chemical 1526 1529	Na+
+T38	Simple_chemical 1530 1532	I-
+T39	Cellular_component 1578 1593	plasma membrane
+T40	Gene_or_gene_product 1666 1669	NIS
+T41	Cellular_component 1741 1774	plasma membrane protoplasmic face
+T42	Cellular_component 1775 1788	intramembrane
+T43	Simple_chemical 1916 1919	Na+
+T44	Gene_or_gene_product 1923 1926	NIS

@@ -1,0 +1,41 @@
+T1	Gene_or_gene_product 19 42	p90 ribosomal S6 kinase
+T2	Gene_or_gene_product 44 47	RSK
+T3	Gene_or_gene_product 59 96	extracellular signal-regulated kinase
+T4	Gene_or_gene_product 109 112	RSK
+T5	Gene_or_gene_product 143 146	Ras
+T6	Gene_or_gene_product 147 184	extracellular signal-regulated kinase
+T7	Gene_or_gene_product 186 189	ERK
+T8	Gene_or_gene_product 268 292	p90 ribosomal S6 kinases
+T9	Gene_or_gene_product 294 298	RSKs
+T10	Simple_chemical 321 327	serine
+T11	Simple_chemical 328 337	threonine
+T12	Gene_or_gene_product 378 381	ERK
+T13	Gene_or_gene_product 401 404	RSK
+T14	Gene_or_gene_product 419 422	ERK
+T15	Gene_or_gene_product 502 505	RSK
+T16	Gene_or_gene_product 591 595	RSK1
+T17	Gene_or_gene_product 600 606	ERK1/2
+T18	Gene_or_gene_product 752 756	RSK1
+T19	Simple_chemical 757 767	serine 749
+T20	Gene_or_gene_product 836 839	ERK
+T21	Gene_or_gene_product 872 876	RSK1
+T22	Simple_chemical 900 910	serine 749
+T23	Gene_or_gene_product 964 968	RSK1
+T24	Gene_or_gene_product 995 1001	ERK1/2
+T25	Gene_or_gene_product 1035 1039	RSK1
+T26	Gene_or_gene_product 1153 1157	RSK1
+T27	Gene_or_gene_product 1221 1227	ERK1/2
+T28	Gene_or_gene_product 1259 1262	RSK
+T29	Gene_or_gene_product 1286 1290	RSK1
+T30	Gene_or_gene_product 1295 1299	RSK2
+T31	Gene_or_gene_product 1324 1330	ERK1/2
+T32	Gene_or_gene_product 1370 1374	RSK3
+T33	Gene_or_gene_product 1406 1412	ERK1/2
+T34	Gene_or_gene_product 1414 1417	RSK
+T35	Gene_or_gene_product 1448 1452	RSK3
+T36	Gene_or_gene_product 1485 1489	RSK1
+T37	Gene_or_gene_product 1494 1498	RSK2
+T38	Gene_or_gene_product 1526 1529	ERK
+T39	Gene_or_gene_product 1568 1572	RSK3
+T40	Gene_or_gene_product 1648 1651	ERK
+T41	Gene_or_gene_product 1732 1735	RSK

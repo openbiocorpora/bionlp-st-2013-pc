@@ -1,0 +1,31 @@
+T1	Gene_or_gene_product 0 5	Cdc28
+T2	Gene_or_gene_product 34 38	Cdc5
+T3	Gene_or_gene_product 39 50	Polo kinase
+T4	Gene_or_gene_product 53 64	Polo kinase
+T5	Gene_or_gene_product 210 221	Polo kinase
+T6	Gene_or_gene_product 301 312	Polo kinase
+T7	Gene_or_gene_product 369 373	Cdk1
+T8	Gene_or_gene_product 446 457	Polo kinase
+T9	Gene_or_gene_product 476 480	Cdk1
+T10	Gene_or_gene_product 516 520	Cdk1
+T11	Gene_or_gene_product 582 586	Cdk1
+T12	Gene_or_gene_product 622 633	Polo kinase
+T13	Gene_or_gene_product 665 669	Cdk1
+T14	Gene_or_gene_product 674 685	Polo kinase
+T15	Gene_or_gene_product 705 710	Cdc28
+T16	Gene_or_gene_product 715 719	Cdc5
+T17	Gene_or_gene_product 749 754	Cdc28
+T18	Gene_or_gene_product 779 783	Cdc5
+T19	Gene_or_gene_product 824 829	Cdc28
+T20	Gene_or_gene_product 858 869	cyclin Clb2
+T21	Gene_or_gene_product 905 909	Cdc5
+T22	Gene_or_gene_product 929 934	Cdc28
+T23	Simple_chemical 975 988	threonine 242
+T24	Gene_or_gene_product 1023 1027	Cdc5
+T25	Gene_or_gene_product 1044 1048	Cdc5
+T26	Gene_or_gene_product 1119 1124	Cdc28
+T27	Gene_or_gene_product 1170 1174	Cdc5
+T28	Simple_chemical 1227 1240	threonine 242
+T29	Gene_or_gene_product 1295 1300	Cdc28
+T30	Gene_or_gene_product 1311 1315	Cdc5
+T31	Simple_chemical 1339 1352	threonine 242

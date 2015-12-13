@@ -1,0 +1,19 @@
+T1	Gene_or_gene_product 43 47	p130
+T2	Cellular_component 63 72	chromatin
+T3	Gene_or_gene_product 85 88	E2F
+T4	Gene_or_gene_product 331 335	p130
+T5	Gene_or_gene_product 355 357	Rb
+T6	Gene_or_gene_product 388 391	E2F
+T7	Gene_or_gene_product 468 472	E2F4
+T8	Complex 487 496	p130-E2F4
+T9	Cellular_component 518 527	chromatin
+T10	Gene_or_gene_product 538 543	HDAC1
+T11	Gene_or_gene_product 548 555	Suv39H1
+T12	Gene_or_gene_product 665 669	p130
+T13	Complex 708 730	p130-E2F4-Suv39H1-HDAC
+T14	Gene_or_gene_product 766 776	H3 histone
+T15	Gene_or_gene_product 901 905	E2F4
+T16	Gene_or_gene_product 909 913	p130
+T17	Complex 942 951	E2F4-p130
+T18	Cellular_component 957 966	chromatin
+T19	Complex 1066 1088	E2F4-p130-HDAC/Suv39H1

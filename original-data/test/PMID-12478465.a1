@@ -1,0 +1,17 @@
+T1	Gene_or_gene_product 0 25	Cyclin-dependent kinase-1
+T2	Gene_or_gene_product 89 114	cyclin-dependent kinase 1
+T3	Gene_or_gene_product 116 120	Cdk1
+T4	Gene_or_gene_product 139 143	Cdc2
+T5	Gene_or_gene_product 148 157	p34(Cdc2)
+T6	Gene_or_gene_product 175 184	cyclin B1
+T7	Gene_or_gene_product 232 236	Cdk1
+T8	Gene_or_gene_product 407 411	Cdk1
+T9	Simple_chemical 568 578	paclitaxel
+T10	Gene_or_gene_product 632 637	ErbB2
+T11	Gene_or_gene_product 711 715	Cdk1
+T12	Gene_or_gene_product 735 739	Cdk1
+T13	Gene_or_gene_product 802 805	p53
+T14	Cellular_component 816 829	mitochondrial
+T15	Gene_or_gene_product 868 872	Cdk1
+T16	Gene_or_gene_product 999 1003	Cdk1
+T17	Gene_or_gene_product 1129 1133	Cdk1

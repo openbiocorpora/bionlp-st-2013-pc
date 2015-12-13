@@ -1,0 +1,19 @@
+T1	Simple_chemical 0 22	5-Aza-2'-deoxycytidine
+T2	Gene_or_gene_product 57 60	p53
+T3	Gene_or_gene_product 90 93	p53
+T4	Gene_or_gene_product 132 135	p53
+T5	Gene_or_gene_product 182 186	Noxa
+T6	Gene_or_gene_product 196 200	PUMA
+T7	Gene_or_gene_product 221 224	p53
+T8	Gene_or_gene_product 302 305	p53
+T9	Gene_or_gene_product 334 337	p53
+T10	Gene_or_gene_product 354 358	Noxa
+T11	Gene_or_gene_product 394 415	DNA methyltransferase
+T12	Simple_chemical 426 448	5-Aza-2'-deoxycytidine
+T13	Simple_chemical 450 459	5-aza-CdR
+T14	Gene_or_gene_product 475 478	p53
+T15	Simple_chemical 536 545	5-aza-CdR
+T16	Gene_or_gene_product 575 579	Noxa
+T17	Simple_chemical 602 611	5-aza-CdR
+T18	Gene_or_gene_product 671 674	p53
+T19	Gene_or_gene_product 803 806	p53

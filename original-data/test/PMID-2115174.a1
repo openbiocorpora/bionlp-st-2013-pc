@@ -1,0 +1,38 @@
+T1	Gene_or_gene_product 18 52	calcium-activated neutral protease
+T2	Gene_or_gene_product 79 104	human interleukin 1 alpha
+T3	Gene_or_gene_product 143 177	calcium-activated neutral protease
+T4	Gene_or_gene_product 179 183	CANP
+T5	Gene_or_gene_product 187 194	calpain
+T6	Gene_or_gene_product 196 208	EC 3.4.22.17
+T7	Simple_chemical 213 220	calcium
+T8	Gene_or_gene_product 274 299	human interleukin 1 alpha
+T9	Gene_or_gene_product 301 311	IL-1 alpha
+T10	Gene_or_gene_product 325 335	IL-1 alpha
+T11	Simple_chemical 337 344	Calcium
+T12	Simple_chemical 355 364	ionomycin
+T13	Gene_or_gene_product 404 414	IL-1 alpha
+T14	Gene_or_gene_product 441 451	IL-1 alpha
+T15	Simple_chemical 464 482	lipopolysaccharide
+T16	Simple_chemical 484 487	LPS
+T17	Gene_or_gene_product 623 633	IL-1 alpha
+T18	Gene_or_gene_product 638 643	-beta
+T19	Gene_or_gene_product 679 689	IL-1 alpha
+T20	Simple_chemical 718 722	EGTA
+T21	Simple_chemical 732 739	calcium
+T22	Gene_or_gene_product 780 790	IL-1 alpha
+T23	Simple_chemical 832 835	LPS
+T24	Simple_chemical 960 964	E-64
+T25	Simple_chemical 968 976	cysteine
+T26	Simple_chemical 1001 1010	leupeptin
+T27	Simple_chemical 1014 1020	serine
+T28	Simple_chemical 1025 1033	cysteine
+T29	Gene_or_gene_product 1125 1159	calcium-activated neutral protease
+T30	Gene_or_gene_product 1161 1165	CANP
+T31	Gene_or_gene_product 1273 1277	CANP
+T32	Gene_or_gene_product 1414 1424	IL-1 alpha
+T33	Gene_or_gene_product 1439 1443	CANP
+T34	Gene_or_gene_product 1478 1488	IL-1 alpha
+T35	Gene_or_gene_product 1564 1574	IL-1 alpha
+T36	Simple_chemical 1621 1628	calcium
+T37	Gene_or_gene_product 1669 1679	IL-1 alpha
+T38	Gene_or_gene_product 1707 1711	CANP

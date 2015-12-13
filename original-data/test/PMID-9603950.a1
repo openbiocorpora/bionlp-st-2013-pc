@@ -1,0 +1,41 @@
+T1	Gene_or_gene_product 15 57	UDP-N-acetylglucosamine pyrophosphorylases
+T2	Gene_or_gene_product 196 237	UDP-N-acetylglucosamine pyrophosphorylase
+T3	Gene_or_gene_product 246 250	UAP1
+T4	Gene_or_gene_product 252 293	UDP-N-acetylglucosamine pyrophosphorylase
+T5	Gene_or_gene_product 334 375	UDP-N-acetylglucosamine pyrophosphorylase
+T6	Gene_or_gene_product 566 570	UAP1
+T7	Gene_or_gene_product 613 617	AGX1
+T8	Gene_or_gene_product 656 660	UAP1
+T9	Gene_or_gene_product 662 668	ScUAP1
+T10	Gene_or_gene_product 727 733	ScUAP1
+T11	Gene_or_gene_product 778 782	UAP1
+T12	Gene_or_gene_product 784 790	CaUAP1
+T13	Gene_or_gene_product 795 801	HsUAP1
+T14	Gene_or_gene_product 815 821	ScUAP1
+T15	Gene_or_gene_product 873 880	ScUap1p
+T16	Gene_or_gene_product 882 889	CaUap1p
+T17	Gene_or_gene_product 895 902	HsUap1p
+T18	Gene_or_gene_product 913 954	UDP-N-acetylglucosamine pyrophosphorylase
+T19	Gene_or_gene_product 986 991	Uap1p
+T20	Simple_chemical 1001 1032	N-acetylglucosamine-1-phosphate
+T21	Gene_or_gene_product 1069 1074	Agm1p
+T22	Simple_chemical 1088 1111	UDP-N-acetylglucosamine
+T23	Simple_chemical 1117 1148	N-acetylglucosamine-6-phosphate
+T24	Gene_or_gene_product 1185 1189	UAP1
+T25	Gene_or_gene_product 1222 1250	UDP-GlcNAc pyrophosphorylase
+T26	Gene_or_gene_product 1339 1367	UDP-sugar pyrophosphorylases
+T27	Simple_chemical 1403 1409	Gly112
+T28	Simple_chemical 1411 1417	Gly114
+T29	Simple_chemical 1419 1425	Thr115
+T30	Simple_chemical 1427 1433	Arg116
+T31	Simple_chemical 1435 1441	Pro122
+T32	Simple_chemical 1447 1453	Lys123
+T33	Gene_or_gene_product 1457 1464	ScUap1p
+T34	Gene_or_gene_product 1489 1517	UDP-sugar pyrophosphorylases
+T35	Simple_chemical 1561 1568	alanine
+T36	Simple_chemical 1586 1592	Gly112
+T37	Simple_chemical 1594 1600	Arg116
+T38	Simple_chemical 1605 1611	Lys123
+T39	Simple_chemical 1662 1668	Gly112
+T40	Simple_chemical 1670 1676	Arg116
+T41	Simple_chemical 1681 1687	Lys123

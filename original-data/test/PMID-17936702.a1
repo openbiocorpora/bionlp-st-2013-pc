@@ -1,0 +1,28 @@
+T1	Gene_or_gene_product 0 4	S6K1
+T2	Cellular_component 29 42	mitochondrial
+T3	Complex 43 55	URI/PP1gamma
+T4	Gene_or_gene_product 118 122	S6K1
+T5	Gene_or_gene_product 144 155	S6 kinase 1
+T6	Gene_or_gene_product 157 161	S6K1
+T7	Cellular_component 267 279	mitochondria
+T8	Gene_or_gene_product 366 369	BAD
+T9	Gene_or_gene_product 415 418	URI
+T10	Cellular_component 432 445	mitochondrial
+T11	Gene_or_gene_product 459 463	S6K1
+T12	Simple_chemical 494 503	rapamycin
+T13	Gene_or_gene_product 519 522	URI
+T14	Gene_or_gene_product 551 581	protein phosphatase (PP)1gamma
+T15	Cellular_component 585 597	mitochondria
+T16	Complex 701 713	URI/PP1gamma
+T17	Gene_or_gene_product 732 736	S6K1
+T18	Gene_or_gene_product 765 768	URI
+T19	Simple_chemical 772 782	serine 371
+T20	Gene_or_gene_product 801 809	PP1gamma
+T21	Gene_or_gene_product 861 865	S6K1
+T22	Gene_or_gene_product 879 882	BAD
+T23	Gene_or_gene_product 971 974	URI
+T24	Gene_or_gene_product 979 987	PP1gamma
+T25	Gene_or_gene_product 1017 1021	S6K1
+T26	Cellular_component 1032 1045	mitochondrial
+T27	Gene_or_gene_product 1094 1098	S6K1
+T28	Cellular_component 1141 1154	mitochondrial

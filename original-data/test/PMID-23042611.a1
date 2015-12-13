@@ -1,0 +1,29 @@
+T1	Gene_or_gene_product 0 8	Visfatin
+T2	Gene_or_gene_product 17 46	stromal cell-derived factor-1
+T3	Gene_or_gene_product 61 75	beta1 integrin
+T4	Gene_or_gene_product 287 295	Visfatin
+T5	Gene_or_gene_product 381 410	stromal cell-derived factor-1
+T6	Gene_or_gene_product 412 417	SDF-1
+T7	Gene_or_gene_product 506 514	visfatin
+T8	Gene_or_gene_product 668 676	visfatin
+T9	Gene_or_gene_product 693 698	SDF-1
+T10	Gene_or_gene_product 749 757	visfatin
+T11	Gene_or_gene_product 824 829	SDF-1
+T12	Gene_or_gene_product 963 966	ERK
+T13	Gene_or_gene_product 971 974	p38
+T14	Gene_or_gene_product 975 1007	mitogen-activated protein kinase
+T15	Gene_or_gene_product 1009 1013	MAPK
+T16	Gene_or_gene_product 1041 1049	visfatin
+T17	Gene_or_gene_product 1058 1063	SDF-1
+T18	Gene_or_gene_product 1133 1143	luciferase
+T19	Gene_or_gene_product 1174 1182	visfatin
+T20	Complex 1193 1202	NF-kappaB
+T21	Complex 1208 1212	AP-1
+T22	Complex 1266 1275	NF-kappaB
+T23	Complex 1280 1284	AP-1
+T24	Gene_or_gene_product 1308 1316	visfatin
+T25	Gene_or_gene_product 1356 1361	SDF-1
+T26	Gene_or_gene_product 1386 1394	visfatin
+T27	Gene_or_gene_product 1418 1423	SDF-1
+T28	Gene_or_gene_product 1451 1465	beta1 integrin
+T29	Gene_or_gene_product 1562 1570	visfatin

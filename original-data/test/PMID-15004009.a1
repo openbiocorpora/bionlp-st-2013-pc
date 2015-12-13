@@ -1,0 +1,27 @@
+T1	Gene_or_gene_product 0 4	mTOR
+T2	Gene_or_gene_product 54 60	TIF-IA
+T3	Cellular_component 144 153	ribosomal
+T4	Gene_or_gene_product 167 183	RNA polymerase I
+T5	Gene_or_gene_product 185 190	Pol I
+T6	Gene_or_gene_product 256 285	mammalian target of rapamycin
+T7	Gene_or_gene_product 287 291	mTOR
+T8	Gene_or_gene_product 303 308	Pol I
+T9	Gene_or_gene_product 353 359	TIF-IA
+T10	Gene_or_gene_product 448 452	mTOR
+T11	Simple_chemical 466 475	rapamycin
+T12	Gene_or_gene_product 488 494	TIF-IA
+T13	Simple_chemical 561 570	rapamycin
+T14	Gene_or_gene_product 607 613	TIF-IA
+T15	Cellular_component 623 632	cytoplasm
+T16	Simple_chemical 634 643	Rapamycin
+T17	Gene_or_gene_product 669 675	TIF-IA
+T18	Simple_chemical 712 717	Se 44
+T19	Simple_chemical 719 722	S44
+T20	Simple_chemical 752 758	Se 199
+T21	Simple_chemical 760 764	S199
+T22	Gene_or_gene_product 806 812	TIF-IA
+T23	Simple_chemical 872 875	S44
+T24	Simple_chemical 890 894	S199
+T25	Gene_or_gene_product 907 913	TIF-IA
+T26	Gene_or_gene_product 952 956	mTOR
+T27	Gene_or_gene_product 1025 1029	mTOR

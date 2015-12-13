@@ -1,0 +1,18 @@
+T1	Gene_or_gene_product 34 52	protein kinase PKR
+T2	Gene_or_gene_product 156 174	Protein kinase PKR
+T3	Gene_or_gene_product 238 274	translation initiation factor 2alpha
+T4	Gene_or_gene_product 339 342	PKR
+T5	Gene_or_gene_product 458 461	PKR
+T6	Simple_chemical 565 572	alanine
+T7	Gene_or_gene_product 720 723	PKR
+T8	Simple_chemical 842 848	Ala-67
+T9	Simple_chemical 852 855	Glu
+T10	Gene_or_gene_product 1077 1080	PKR
+T11	Gene_or_gene_product 1110 1113	PKR
+T12	Simple_chemical 1171 1178	Thr-446
+T13	Simple_chemical 1183 1190	Thr-451
+T14	Simple_chemical 1321 1328	Thr-451
+T15	Simple_chemical 1345 1352	Thr-451
+T16	Gene_or_gene_product 1500 1503	PKR
+T17	Gene_or_gene_product 1600 1616	eIF2alpha kinase
+T18	Gene_or_gene_product 1629 1632	PKR

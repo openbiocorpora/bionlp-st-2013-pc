@@ -1,0 +1,27 @@
+T1	Gene_or_gene_product 15 19	TLR3
+T2	Simple_chemical 20 28	tyrosine
+T3	Gene_or_gene_product 49 59	PI3 kinase
+T4	Gene_or_gene_product 182 202	Toll-like receptor 3
+T5	Gene_or_gene_product 204 208	TLR3
+T6	Gene_or_gene_product 264 268	TLR3
+T7	Gene_or_gene_product 314 319	IRF-3
+T8	Simple_chemical 327 330	Ser
+T9	Simple_chemical 331 334	Thr
+T10	Cellular_component 388 395	nuclear
+T11	Simple_chemical 441 444	Ser
+T12	Simple_chemical 445 448	Thr
+T13	Gene_or_gene_product 456 461	TBK-1
+T14	Gene_or_gene_product 479 483	TLR3
+T15	Gene_or_gene_product 527 532	IRF-3
+T16	Simple_chemical 602 610	tyrosine
+T17	Gene_or_gene_product 623 627	TLR3
+T18	Gene_or_gene_product 716 721	TBK-1
+T19	Gene_or_gene_product 759 769	PI3 kinase
+T20	Gene_or_gene_product 797 800	Akt
+T21	Gene_or_gene_product 852 857	IRF-3
+T22	Gene_or_gene_product 864 874	PI3 kinase
+T23	Gene_or_gene_product 895 899	TLR3
+T24	Gene_or_gene_product 928 933	IRF-3
+T25	Gene_or_gene_product 1051 1055	PI3K
+T26	Gene_or_gene_product 1056 1059	Akt
+T27	Gene_or_gene_product 1095 1099	TLR3

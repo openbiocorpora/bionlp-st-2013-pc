@@ -1,0 +1,29 @@
+T1	Complex 18 32	IkappaB kinase
+T2	Gene_or_gene_product 44 49	TRAF6
+T3	Gene_or_gene_product 69 78	ubiquitin
+T4	Gene_or_gene_product 119 132	polyubiquitin
+T5	Gene_or_gene_product 141 146	TRAF6
+T6	Complex 177 186	NF-kappaB
+T7	Complex 210 224	IkappaB kinase
+T8	Complex 226 229	IKK
+T9	Gene_or_gene_product 333 338	TRAF6
+T10	Complex 342 345	IKK
+T11	Gene_or_gene_product 440 449	ubiquitin
+T12	Gene_or_gene_product 469 474	Ubc13
+T13	Gene_or_gene_product 483 486	Ubc
+T14	Gene_or_gene_product 500 505	Uev1A
+T15	Gene_or_gene_product 520 525	TRAF6
+T16	Gene_or_gene_product 574 579	Ubc13
+T17	Gene_or_gene_product 580 585	Uev1A
+T18	Gene_or_gene_product 622 635	polyubiquitin
+T19	Simple_chemical 658 667	lysine-63
+T20	Simple_chemical 669 672	K63
+T21	Gene_or_gene_product 677 686	ubiquitin
+T22	Gene_or_gene_product 705 718	polyubiquitin
+T23	Cellular_component 762 772	proteasome
+T24	Complex 801 804	IKK
+T25	Gene_or_gene_product 808 813	TRAF6
+T26	Gene_or_gene_product 866 875	ubiquitin
+T27	Complex 886 889	IKK
+T28	Simple_chemical 927 930	K63
+T29	Gene_or_gene_product 938 951	polyubiquitin

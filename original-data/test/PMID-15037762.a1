@@ -1,0 +1,23 @@
+T1	Gene_or_gene_product 57 65	cyclin B
+T2	Gene_or_gene_product 72 105	cyclin-dependent protein kinase 1
+T3	Gene_or_gene_product 163 167	Wee1
+T4	Gene_or_gene_product 247 251	Swe1
+T5	Gene_or_gene_product 253 257	Wee1
+T6	Gene_or_gene_product 290 296	septin
+T7	Cellular_component 297 303	collar
+T8	Cellular_component 311 319	bud neck
+T9	Gene_or_gene_product 328 332	Swe1
+T10	Gene_or_gene_product 380 384	Swe1
+T11	Cellular_component 405 409	neck
+T12	Gene_or_gene_product 441 450	ubiquitin
+T13	Gene_or_gene_product 473 477	Hsl1
+T14	Gene_or_gene_product 486 490	Nim1
+T15	Gene_or_gene_product 526 530	Wee1
+T16	Gene_or_gene_product 558 562	Swe1
+T17	Cellular_component 583 587	neck
+T18	Gene_or_gene_product 619 623	Swe1
+T19	Cellular_component 691 695	neck
+T20	Gene_or_gene_product 697 705	Cla4/PAK
+T21	Gene_or_gene_product 710 719	Cdc5/Polo
+T22	Gene_or_gene_product 789 793	Swe1
+T23	Cellular_component 830 848	cellular structure

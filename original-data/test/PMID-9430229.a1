@@ -1,0 +1,28 @@
+T1	Gene_or_gene_product 0 5	MyD88
+T2	Gene_or_gene_product 32 36	IRAK
+T3	Complex 44 57	IL-1 receptor
+T4	Gene_or_gene_product 68 72	IL-1
+T5	Cellular_component 160 173	transmembrane
+T6	Complex 271 280	NF-kappaB
+T7	Gene_or_gene_product 300 305	MyD88
+T8	Complex 379 392	IL-1 receptor
+T9	Gene_or_gene_product 411 415	IL-1
+T10	Gene_or_gene_product 429 434	MyD88
+T11	Gene_or_gene_product 449 453	IRAK
+T12	Gene_or_gene_product 455 486	IL-1 receptor-associated kinase
+T13	Gene_or_gene_product 601 605	IRAK
+T14	Gene_or_gene_product 647 652	MyD88
+T15	Complex 705 714	NF-kappaB
+T16	Gene_or_gene_product 734 739	MyD88
+T17	Complex 759 772	IL-1 receptor
+T18	Complex 784 793	NF-kappaB
+T19	Gene_or_gene_product 816 820	IL-1
+T20	Gene_or_gene_product 833 836	TNF
+T21	Gene_or_gene_product 844 849	MyD88
+T22	Gene_or_gene_product 873 877	IL-1
+T23	Gene_or_gene_product 891 896	TRADD
+T24	Gene_or_gene_product 901 905	Tube
+T25	Gene_or_gene_product 912 915	TNF
+T26	Gene_or_gene_product 920 924	Toll
+T27	Simple_chemical 962 968	serine
+T28	Simple_chemical 969 978	threonine

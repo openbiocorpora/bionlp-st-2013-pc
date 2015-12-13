@@ -1,0 +1,28 @@
+T1	Simple_chemical 23 40	flavonoid fisetin
+T2	Simple_chemical 44 62	lipopolysaccharide
+T3	Simple_chemical 421 433	nitric oxide
+T4	Simple_chemical 435 437	NO
+T5	Simple_chemical 675 684	flavonoid
+T6	Simple_chemical 745 752	fisetin
+T7	Gene_or_gene_product 791 824	tumor necrosis factor (TNF)-alpha
+T8	Simple_chemical 826 828	NO
+T9	Simple_chemical 834 855	prostaglandin (PG) E2
+T10	Simple_chemical 859 877	lipopolysaccharide
+T11	Simple_chemical 879 882	LPS
+T12	Simple_chemical 947 954	Fisetin
+T13	Gene_or_gene_product 993 1002	TNF-alpha
+T14	Gene_or_gene_product 1004 1027	interleukin (IL)-1 beta
+T15	Gene_or_gene_product 1029 1043	cyclooxygenase
+T16	Gene_or_gene_product 1045 1050	COX-2
+T17	Gene_or_gene_product 1066 1087	nitric oxide synthase
+T18	Gene_or_gene_product 1089 1093	iNOS
+T19	Simple_chemical 1128 1135	Fisetin
+T20	Gene_or_gene_product 1161 1170	I kappa B
+T21	Cellular_component 1184 1191	nuclear
+T22	Complex 1209 1219	NF-kappa B
+T23	Gene_or_gene_product 1244 1280	p38 mitogen-activated protein kinase
+T24	Gene_or_gene_product 1282 1287	MAPKs
+T25	Simple_chemical 1296 1299	LPS
+T26	Simple_chemical 1346 1353	fisetin
+T27	Simple_chemical 1378 1381	LPS
+T28	Simple_chemical 1486 1493	fisetin

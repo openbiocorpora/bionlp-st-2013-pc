@@ -1,0 +1,52 @@
+T1	Cellular_component 0 7	Nuclear
+T2	Gene_or_gene_product 18 25	S6K1 II
+T3	Complex 42 60	protein kinase CK2
+T4	Simple_chemical 80 86	Ser-17
+T5	Cellular_component 89 98	Ribosomal
+T6	Gene_or_gene_product 99 109	S6 kinases
+T7	Gene_or_gene_product 111 115	S6Ks
+T8	Gene_or_gene_product 209 238	phosphatidylinositol 3-kinase
+T9	Gene_or_gene_product 243 272	mammalian target of rapamycin
+T10	Gene_or_gene_product 309 312	S6K
+T11	Gene_or_gene_product 369 373	S6Ks
+T12	Gene_or_gene_product 397 401	S6K1
+T13	Gene_or_gene_product 406 408	-2
+T14	Cellular_component 420 431	cytoplasmic
+T15	Cellular_component 436 443	nuclear
+T16	Gene_or_gene_product 463 470	S6K1 II
+T17	Gene_or_gene_product 475 481	S6K1 I
+T18	Cellular_component 497 504	Nuclear
+T19	Cellular_component 505 516	cytoplasmic
+T20	Complex 639 657	protein kinase CK2
+T21	Complex 659 662	CK2
+T22	Gene_or_gene_product 710 717	S6K1 II
+T23	Gene_or_gene_product 743 750	S6K1 II
+T24	Gene_or_gene_product 755 762	CK2beta
+T25	Gene_or_gene_product 958 965	S6K1 II
+T26	Complex 970 973	CK2
+T27	Gene_or_gene_product 1065 1072	S6K1 II
+T28	Complex 1092 1095	CK2
+T29	Complex 1121 1124	CK2
+T30	Simple_chemical 1167 1173	Ser-17
+T31	Gene_or_gene_product 1177 1184	S6K1 II
+T32	Simple_chemical 1260 1266	Ser-17
+T33	Complex 1324 1327	CK2
+T34	Gene_or_gene_product 1438 1445	S6K1 II
+T35	Gene_or_gene_product 1447 1451	S17E
+T36	Cellular_component 1465 1476	cytoplasmic
+T37	Cellular_component 1545 1552	nuclear
+T38	Simple_chemical 1570 1582	leptomycin B
+T39	Gene_or_gene_product 1601 1605	S17E
+T40	Cellular_component 1632 1639	nucleus
+T41	Gene_or_gene_product 1662 1669	S6K1 II
+T42	Cellular_component 1709 1716	nuclear
+T43	Gene_or_gene_product 1731 1735	S17E
+T44	Cellular_component 1837 1844	nuclear
+T45	Gene_or_gene_product 1855 1859	S6K1
+T46	Gene_or_gene_product 1877 1881	CRM1
+T47	Gene_or_gene_product 1968 1975	S6K1 II
+T48	Complex 1980 1983	CK2
+T49	Gene_or_gene_product 2028 2035	S6K1 II
+T50	Cellular_component 2036 2043	nuclear
+T51	Complex 2054 2057	CK2
+T52	Simple_chemical 2086 2092	Ser-17

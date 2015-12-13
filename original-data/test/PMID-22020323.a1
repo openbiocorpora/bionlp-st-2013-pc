@@ -1,0 +1,39 @@
+T1	Gene_or_gene_product 15 18	JNK
+T2	Complex 23 32	NF-kappaB
+T3	Simple_chemical 45 63	lipopolysaccharide
+T4	Simple_chemical 65 68	LPS
+T5	Gene_or_gene_product 78 82	BAG3
+T6	Simple_chemical 121 139	Lipopolysaccharide
+T7	Simple_chemical 141 144	LPS
+T8	Cellular_component 152 166	outer-membrane
+T9	Simple_chemical 167 177	glycolipid
+T10	Gene_or_gene_product 321 350	Bcl-2-associated athanogene 3
+T11	Gene_or_gene_product 352 356	BAG3
+T12	Gene_or_gene_product 605 609	BAG3
+T13	Gene_or_gene_product 724 728	BAG3
+T14	Simple_chemical 818 821	LPS
+T15	Gene_or_gene_product 850 854	BAG3
+T16	Simple_chemical 893 906	Actinomycin D
+T17	Simple_chemical 930 933	LPS
+T18	Gene_or_gene_product 942 946	BAG3
+T19	Simple_chemical 972 975	LPS
+T20	Gene_or_gene_product 1011 1015	BAG3
+T21	Simple_chemical 1054 1057	LPS
+T22	Simple_chemical 1103 1106	LPS
+T23	Gene_or_gene_product 1115 1119	BAG3
+T24	Gene_or_gene_product 1146 1149	JNK
+T25	Complex 1153 1162	NF-kappaB
+T26	Gene_or_gene_product 1191 1194	JNK
+T27	Complex 1199 1208	NF-kappaB
+T28	Gene_or_gene_product 1234 1238	BAG3
+T29	Simple_chemical 1252 1255	LPS
+T30	Gene_or_gene_product 1302 1306	BAG3
+T31	Cellular_component 1352 1372	extracellular matrix
+T32	Simple_chemical 1384 1387	LPS
+T33	Gene_or_gene_product 1420 1424	BAG3
+T34	Simple_chemical 1439 1442	LPS
+T35	Gene_or_gene_product 1447 1450	JNK
+T36	Complex 1455 1464	NF-kappaB
+T37	Cellular_component 1515 1535	extracellular matrix
+T38	Gene_or_gene_product 1565 1569	BAG3
+T39	Simple_chemical 1610 1613	LPS

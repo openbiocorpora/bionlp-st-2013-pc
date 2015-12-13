@@ -1,0 +1,14 @@
+T1	Complex 19 31	cyclin B-Cdk
+T2	Gene_or_gene_product 76 81	Cdc14
+T3	Cellular_component 91 100	nucleolus
+T4	Gene_or_gene_product 137 142	Cdc14
+T5	Cellular_component 165 174	nucleolus
+T6	Gene_or_gene_product 236 240	Net1
+T7	Gene_or_gene_product 272 277	Cdc14
+T8	Gene_or_gene_product 346 351	Cdc14
+T9	Gene_or_gene_product 432 436	Net1
+T10	Gene_or_gene_product 440 463	cyclin-dependent kinase
+T11	Gene_or_gene_product 465 468	Cdk
+T12	Gene_or_gene_product 485 494	cyclin B1
+T13	Gene_or_gene_product 498 507	cyclin B2
+T14	Gene_or_gene_product 700 703	Cdk

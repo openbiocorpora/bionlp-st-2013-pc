@@ -1,0 +1,33 @@
+T1	Gene_or_gene_product 39 64	c-Jun NH2-terminal kinase
+T2	Gene_or_gene_product 69 72	p38
+T3	Gene_or_gene_product 173 204	stress-activated protein kinase
+T4	Gene_or_gene_product 226 251	c-Jun NH2-terminal kinase
+T5	Gene_or_gene_product 253 256	JNK
+T6	Gene_or_gene_product 262 272	p38 kinase
+T7	Gene_or_gene_product 643 646	JNK
+T8	Gene_or_gene_product 651 654	p38
+T9	Gene_or_gene_product 671 679	p38alpha
+T10	Gene_or_gene_product 684 692	p38gamma
+T11	Gene_or_gene_product 764 767	p38
+T12	Gene_or_gene_product 769 774	alpha
+T13	Gene_or_gene_product 779 784	gamma
+T14	Gene_or_gene_product 817 820	JNK
+T15	Gene_or_gene_product 825 828	p38
+T16	Gene_or_gene_product 830 871	mitogen-activated protein kinase kinase 4
+T17	Gene_or_gene_product 873 877	MKK4
+T18	Gene_or_gene_product 883 924	mitogen-activated protein kinase kinase 6
+T19	Gene_or_gene_product 926 930	MKK6
+T20	Gene_or_gene_product 981 984	JNK
+T21	Gene_or_gene_product 1126 1134	p38gamma
+T22	Gene_or_gene_product 1301 1309	p38alpha
+T23	Gene_or_gene_product 1384 1388	MKK4
+T24	Gene_or_gene_product 1393 1397	MKK6
+T25	Gene_or_gene_product 1479 1482	JNK
+T26	Gene_or_gene_product 1496 1504	p38gamma
+T27	Gene_or_gene_product 1564 1567	JNK
+T28	Gene_or_gene_product 1569 1577	p38alpha
+T29	Gene_or_gene_product 1582 1590	p38gamma
+T30	Gene_or_gene_product 1676 1679	JNK
+T31	Gene_or_gene_product 1684 1687	p38
+T32	Cellular_component 1688 1701	intracellular
+T33	Gene_or_gene_product 1835 1838	p38

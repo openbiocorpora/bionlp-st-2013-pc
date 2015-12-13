@@ -1,0 +1,27 @@
+T1	Gene_or_gene_product 0 6	C-TAK1
+T2	Gene_or_gene_product 17 20	Ras
+T3	Gene_or_gene_product 54 58	MAPK
+T4	Gene_or_gene_product 69 73	KSR1
+T5	Gene_or_gene_product 76 100	Kinase suppressor of Ras
+T6	Gene_or_gene_product 102 105	KSR
+T7	Gene_or_gene_product 139 142	Ras
+T8	Gene_or_gene_product 180 183	MEK
+T9	Gene_or_gene_product 188 192	MAPK
+T10	Gene_or_gene_product 212 216	KSR1
+T11	Cellular_component 239 248	cytoplasm
+T12	Cellular_component 256 268	cell surface
+T13	Gene_or_gene_product 346 372	Cdc25C-associated kinase 1
+T14	Gene_or_gene_product 374 380	C-TAK1
+T15	Gene_or_gene_product 383 389	C-TAK1
+T16	Gene_or_gene_product 431 435	KSR1
+T17	Simple_chemical 455 465	serine 392
+T18	Gene_or_gene_product 476 482	14-3-3
+T19	Cellular_component 495 506	cytoplasmic
+T20	Gene_or_gene_product 524 528	KSR1
+T21	Simple_chemical 615 619	S392
+T22	Gene_or_gene_product 645 649	KSR1
+T23	Gene_or_gene_product 687 690	Ras
+T24	Gene_or_gene_product 695 700	Raf-1
+T25	Cellular_component 708 723	plasma membrane
+T26	Gene_or_gene_product 807 810	MEK
+T27	Gene_or_gene_product 815 819	MAPK

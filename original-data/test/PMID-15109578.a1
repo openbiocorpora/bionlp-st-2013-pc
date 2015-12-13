@@ -1,0 +1,22 @@
+T1	Gene_or_gene_product 18 41	thiamine triphosphatase
+T2	Simple_chemical 104 125	Thiamine triphosphate
+T3	Simple_chemical 127 131	ThTP
+T4	Simple_chemical 187 196	phosphate
+T5	Gene_or_gene_product 311 334	thiamine triphosphatase
+T6	Gene_or_gene_product 336 343	ThTPase
+T7	Gene_or_gene_product 345 356	EC 3.6.1.28
+T8	Gene_or_gene_product 589 596	ThTPase
+T9	Gene_or_gene_product 598 606	hThTPase
+T10	Gene_or_gene_product 796 804	hThTPase
+T11	Simple_chemical 831 835	Mg2+
+T12	Simple_chemical 872 876	Ca2+
+T13	Simple_chemical 918 922	Mg2+
+T14	Simple_chemical 929 932	ATP
+T15	Simple_chemical 1004 1008	ThTP
+T16	Gene_or_gene_product 1067 1074	ThTPase
+T17	Simple_chemical 1079 1083	ThTP
+T18	Simple_chemical 1144 1148	Zn2+
+T19	Simple_chemical 1282 1286	Mg2+
+T20	Simple_chemical 1322 1326	Zn2+
+T21	Simple_chemical 1386 1395	reagent K
+T22	Simple_chemical 1400 1420	diethylpyrocarbonate

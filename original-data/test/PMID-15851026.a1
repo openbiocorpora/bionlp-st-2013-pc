@@ -1,0 +1,25 @@
+T1	Gene_or_gene_product 47 51	TSC2
+T2	Gene_or_gene_product 55 58	Erk
+T3	Gene_or_gene_product 188 192	TSC1
+T4	Gene_or_gene_product 196 200	TSC2
+T5	Gene_or_gene_product 295 332	extracellular signal-regulated kinase
+T6	Gene_or_gene_product 334 337	Erk
+T7	Gene_or_gene_product 387 391	TSC1
+T8	Gene_or_gene_product 395 399	TSC2
+T9	Gene_or_gene_product 424 427	Erk
+T10	Gene_or_gene_product 514 518	TSC2
+T11	Gene_or_gene_product 520 523	Erk
+T12	Complex 559 568	TSC1-TSC2
+T13	Gene_or_gene_product 603 607	TSC2
+T14	Gene_or_gene_product 627 631	mTOR
+T15	Gene_or_gene_product 723 726	Erk
+T16	Gene_or_gene_product 747 751	TSC2
+T17	Gene_or_gene_product 762 766	TSC2
+T18	Gene_or_gene_product 788 791	Erk
+T19	Gene_or_gene_product 867 871	TSC2
+T20	Gene_or_gene_product 914 917	Ras
+T21	Gene_or_gene_product 918 922	MAPK
+T22	Complex 947 958	TSC complex
+T23	Gene_or_gene_product 976 979	Erk
+T24	Gene_or_gene_product 993 997	mTOR
+T25	Gene_or_gene_product 1090 1094	TSC2

@@ -1,0 +1,16 @@
+T1	Complex 38 54	p34cdc2/cyclin B
+T2	Gene_or_gene_product 81 86	CDC25
+T3	Complex 158 174	p34cdc2/cyclin B
+T4	Gene_or_gene_product 243 250	p34cdc2
+T5	Simple_chemical 262 270	tyrosine
+T6	Simple_chemical 272 281	threonine
+T7	Simple_chemical 294 300	serine
+T8	Gene_or_gene_product 342 349	p34cdc2
+T9	Gene_or_gene_product 417 422	cdc25
+T10	Complex 582 598	p34cdc2/cyclin B
+T11	Gene_or_gene_product 741 746	cdc25
+T12	Gene_or_gene_product 754 763	p54CDC25H
+T13	Gene_or_gene_product 774 781	p34cdc2
+T14	Gene_or_gene_product 814 824	H1 histone
+T15	Gene_or_gene_product 882 887	cdc25
+T16	Complex 925 941	p34cdc2-cyclin B

@@ -1,0 +1,22 @@
+T1	Gene_or_gene_product 22 41	Toll-like receptors
+T2	Gene_or_gene_product 119 138	heat shock proteins
+T3	Gene_or_gene_product 140 143	hsp
+T4	Gene_or_gene_product 419 437	Toll-like receptor
+T5	Gene_or_gene_product 439 442	TLR
+T6	Simple_chemical 496 514	lipopolysaccharide
+T7	Simple_chemical 516 519	LPS
+T8	Gene_or_gene_product 525 529	TLR4
+T9	Gene_or_gene_product 563 567	TLR2
+T10	Gene_or_gene_product 642 645	hsp
+T11	Simple_chemical 683 686	LPS
+T12	Simple_chemical 691 694	LPS
+T13	Gene_or_gene_product 817 820	TLR
+T14	Gene_or_gene_product 832 835	hsp
+T15	Gene_or_gene_product 875 878	hsp
+T16	Simple_chemical 887 890	LPS
+T17	Simple_chemical 951 954	LPS
+T18	Simple_chemical 1006 1009	LPS
+T19	Gene_or_gene_product 1065 1069	TLR2
+T20	Gene_or_gene_product 1074 1078	TLR4
+T21	Gene_or_gene_product 1291 1295	TLRs
+T22	Gene_or_gene_product 1444 1447	TLR

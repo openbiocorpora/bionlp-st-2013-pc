@@ -1,0 +1,16 @@
+T1	Gene_or_gene_product 11 14	ATM
+T2	Gene_or_gene_product 47 51	Chk2
+T3	Gene_or_gene_product 225 229	Chk2
+T4	Gene_or_gene_product 285 290	Rad53
+T5	Gene_or_gene_product 321 325	Cds1
+T6	Gene_or_gene_product 399 403	Chk2
+T7	Gene_or_gene_product 537 566	ataxia telangiectasia mutated
+T8	Gene_or_gene_product 568 571	ATM
+T9	Gene_or_gene_product 601 605	Chk2
+T10	Gene_or_gene_product 621 627	Cdc25C
+T11	Simple_chemical 631 641	serine-216
+T12	Gene_or_gene_product 697 703	Cdc25C
+T13	Gene_or_gene_product 764 768	Chk1
+T14	Gene_or_gene_product 847 851	Chk1
+T15	Gene_or_gene_product 856 860	Chk2
+T16	Gene_or_gene_product 879 885	Cdc25C

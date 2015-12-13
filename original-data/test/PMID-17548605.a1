@@ -1,0 +1,53 @@
+T1	Simple_chemical 6 13	alcohol
+T2	Complex 70 84	IkappaB kinase
+T3	Gene_or_gene_product 98 101	p65
+T4	Simple_chemical 145 152	alcohol
+T5	Simple_chemical 295 302	alcohol
+T6	Complex 319 328	NF-kappaB
+T7	Gene_or_gene_product 347 359	IkappaBalpha
+T8	Gene_or_gene_product 478 482	CD14
+T9	Simple_chemical 500 507	alcohol
+T10	Complex 534 543	NF-kappaB
+T11	Gene_or_gene_product 588 591	p65
+T12	Gene_or_gene_product 616 619	p65
+T13	Gene_or_gene_product 624 636	IkappaBalpha
+T14	Simple_chemical 657 664	alcohol
+T15	Complex 692 714	NF-kappaB-IkappaBalpha
+T16	Cellular_component 732 741	cytoplasm
+T17	Gene_or_gene_product 762 765	p65
+T18	Simple_chemical 769 777	Ser(536)
+T19	Gene_or_gene_product 793 817	IkappaB kinase (IKK)beta
+T20	Complex 838 847	NF-kappaB
+T21	Simple_chemical 897 904	alcohol
+T22	Simple_chemical 925 928	LPS
+T23	Gene_or_gene_product 937 945	IKKalpha
+T24	Gene_or_gene_product 950 957	IKKbeta
+T25	Gene_or_gene_product 1009 1012	p65
+T26	Simple_chemical 1016 1024	Ser(536)
+T27	Cellular_component 1039 1046	nuclear
+T28	Gene_or_gene_product 1061 1069	IKKalpha
+T29	Simple_chemical 1086 1093	alcohol
+T30	Complex 1143 1152	NF-kappaB
+T31	Cellular_component 1183 1190	nuclear
+T32	Gene_or_gene_product 1191 1194	p65
+T33	Simple_chemical 1198 1206	Ser(276)
+T34	Simple_chemical 1229 1236	alcohol
+T35	Complex 1259 1275	protein kinase A
+T36	Gene_or_gene_product 1280 1326	mitogen- and stress-activated protein kinase-1
+T37	Gene_or_gene_product 1356 1368	IkappaBalpha
+T38	Simple_chemical 1397 1404	alcohol
+T39	Gene_or_gene_product 1443 1450	IKKbeta
+T40	Gene_or_gene_product 1476 1488	IkappaBalpha
+T41	Simple_chemical 1496 1503	alcohol
+T42	Gene_or_gene_product 1517 1524	IKKbeta
+T43	Simple_chemical 1538 1545	Alcohol
+T44	Gene_or_gene_product 1569 1581	IkappaBalpha
+T45	Cellular_component 1603 1617	26S proteasome
+T46	Cellular_component 1638 1648	proteasome
+T47	Gene_or_gene_product 1661 1673	IkappaBalpha
+T48	Simple_chemical 1732 1739	alcohol
+T49	Gene_or_gene_product 1759 1771	IkappaBalpha
+T50	Complex 1784 1793	NF-kappaB
+T51	Gene_or_gene_product 1845 1848	p65
+T52	Gene_or_gene_product 1905 1912	IKKbeta
+T53	Simple_chemical 1937 1944	alcohol

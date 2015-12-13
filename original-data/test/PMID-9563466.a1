@@ -1,0 +1,72 @@
+T1	Gene_or_gene_product 0 3	p53
+T2	Gene_or_gene_product 49 63	death receptor
+T3	Gene_or_gene_product 64 70	KILLER
+T4	Gene_or_gene_product 71 74	DR5
+T5	Gene_or_gene_product 127 154	tumor necrosis factor alpha
+T6	Gene_or_gene_product 161 175	death receptor
+T7	Gene_or_gene_product 177 179	DR
+T8	Gene_or_gene_product 181 187	KILLER
+T9	Gene_or_gene_product 188 191	DR5
+T10	Simple_chemical 231 242	doxorubicin
+T11	Gene_or_gene_product 309 312	p53
+T12	Gene_or_gene_product 316 319	p53
+T13	Gene_or_gene_product 336 342	KILLER
+T14	Gene_or_gene_product 343 346	DR5
+T15	Gene_or_gene_product 362 364	DR
+T16	Cellular_component 376 388	cell surface
+T17	Gene_or_gene_product 426 429	DR4
+T18	Gene_or_gene_product 439 441	DR
+T19	Gene_or_gene_product 449 485	tumor necrosis factor (TNF) receptor
+T20	Gene_or_gene_product 499 502	DR4
+T21	Gene_or_gene_product 507 513	KILLER
+T22	Gene_or_gene_product 514 517	DR5
+T23	Gene_or_gene_product 562 567	TRAIL
+T24	Gene_or_gene_product 583 590	caspase
+T25	Gene_or_gene_product 620 624	TRID
+T26	Gene_or_gene_product 640 648	TRAIL-R3
+T27	Cellular_component 700 711	cytoplasmic
+T28	Gene_or_gene_product 743 749	KILLER
+T29	Gene_or_gene_product 750 753	DR5
+T30	Gene_or_gene_product 758 761	DR4
+T31	Gene_or_gene_product 777 782	TRAIL
+T32	Gene_or_gene_product 823 832	DR KILLER
+T33	Gene_or_gene_product 833 836	DR5
+T34	Gene_or_gene_product 860 863	p53
+T35	Gene_or_gene_product 974 977	p53
+T36	Gene_or_gene_product 1027 1033	KILLER
+T37	Gene_or_gene_product 1034 1037	DR5
+T38	Gene_or_gene_product 1048 1051	p53
+T39	Simple_chemical 1077 1100	methyl methanesulfonate
+T40	Gene_or_gene_product 1115 1121	KILLER
+T41	Gene_or_gene_product 1122 1125	DR5
+T42	Gene_or_gene_product 1138 1141	p53
+T43	Gene_or_gene_product 1199 1202	p53
+T44	Gene_or_gene_product 1220 1226	KILLER
+T45	Gene_or_gene_product 1227 1230	DR5
+T46	Gene_or_gene_product 1274 1283	TNF-alpha
+T47	Gene_or_gene_product 1341 1347	KILLER
+T48	Gene_or_gene_product 1348 1351	DR5
+T49	Gene_or_gene_product 1402 1405	p53
+T50	Gene_or_gene_product 1414 1423	TNF-alpha
+T51	Gene_or_gene_product 1442 1448	KILLER
+T52	Gene_or_gene_product 1449 1452	DR5
+T53	Gene_or_gene_product 1489 1498	TNF-alpha
+T54	Gene_or_gene_product 1513 1519	KILLER
+T55	Gene_or_gene_product 1520 1523	DRS
+T56	Gene_or_gene_product 1590 1596	KILLER
+T57	Gene_or_gene_product 1597 1600	DR5
+T58	Gene_or_gene_product 1683 1692	TNF-alpha
+T59	Gene_or_gene_product 1694 1697	p53
+T60	Gene_or_gene_product 1781 1787	KILLER
+T61	Gene_or_gene_product 1788 1791	DR5
+T62	Gene_or_gene_product 1811 1817	KILLER
+T63	Gene_or_gene_product 1818 1821	DR5
+T64	Gene_or_gene_product 1848 1851	DR4
+T65	Gene_or_gene_product 1853 1857	TRID
+T66	Gene_or_gene_product 1873 1878	TRAIL
+T67	Gene_or_gene_product 1910 1919	TNF-alpha
+T68	Gene_or_gene_product 1936 1939	p53
+T69	Gene_or_gene_product 1978 1984	KILLER
+T70	Gene_or_gene_product 1985 1988	DR5
+T71	Gene_or_gene_product 2030 2033	p53
+T72	Gene_or_gene_product 2105 2108	p53

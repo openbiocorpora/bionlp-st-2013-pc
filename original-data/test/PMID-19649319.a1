@@ -1,0 +1,23 @@
+T1	Gene_or_gene_product 30 33	p53
+T2	Complex 51 54	ECS
+T3	Gene_or_gene_product 75 78	p53
+T4	Gene_or_gene_product 260 263	p53
+T5	Gene_or_gene_product 297 301	MDM2
+T6	Gene_or_gene_product 377 380	p53
+T7	Gene_or_gene_product 388 397	ubiquitin
+T8	Gene_or_gene_product 432 436	MDM2
+T9	Gene_or_gene_product 442 447	BZLF1
+T10	Complex 506 509	ECS
+T11	Complex 511 546	Elongin B/C-Cul2/5-SOCS-box protein
+T12	Gene_or_gene_product 548 557	ubiquitin
+T13	Gene_or_gene_product 583 586	p53
+T14	Gene_or_gene_product 649 652	p53
+T15	Gene_or_gene_product 749 754	BZLF1
+T16	Gene_or_gene_product 773 778	BZLF1
+T17	Complex 798 801	ECS
+T18	Gene_or_gene_product 863 866	p53
+T19	Gene_or_gene_product 933 936	p53
+T20	Gene_or_gene_product 1091 1094	p53
+T21	Gene_or_gene_product 1198 1203	BZLF1
+T22	Complex 1223 1226	ECS
+T23	Gene_or_gene_product 1259 1262	p53

@@ -1,0 +1,19 @@
+T1	Cellular_component 12 29	nucleocytoplasmic
+T2	Complex 43 53	NF kappa B
+T3	Cellular_component 96 113	nucleocytoplasmic
+T4	Complex 149 159	NF kappa B
+T5	Cellular_component 216 233	nucleocytoplasmic
+T6	Simple_chemical 295 307	leptomycin B
+T7	Simple_chemical 309 312	LMB
+T8	Gene_or_gene_product 331 335	CRM1
+T9	Cellular_component 346 353	nuclear
+T10	Simple_chemical 401 404	LMB
+T11	Complex 414 424	NF kappa B
+T12	Cellular_component 473 480	nuclear
+T13	Complex 497 507	NF kappa B
+T14	Gene_or_gene_product 519 534	I kappa B alpha
+T15	Simple_chemical 595 598	LMB
+T16	Cellular_component 612 629	nucleocytoplasmic
+T17	Gene_or_gene_product 643 658	I kappa B alpha
+T18	Complex 712 722	NF kappa B
+T19	Cellular_component 790 807	nucleocytoplasmic

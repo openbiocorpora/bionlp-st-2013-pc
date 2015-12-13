@@ -1,0 +1,63 @@
+T1	Gene_or_gene_product 0 6	PRAS40
+T2	Gene_or_gene_product 11 20	PRR5-like
+T3	Gene_or_gene_product 37 41	mTOR
+T4	Gene_or_gene_product 80 83	TOR
+T5	Gene_or_gene_product 85 104	Target of Rapamycin
+T6	Gene_or_gene_product 184 187	TOR
+T7	Complex 273 286	TOR complex 1
+T8	Complex 288 293	TORC1
+T9	Complex 299 312	TOR complex 2
+T10	Complex 314 319	TORC2
+T11	Gene_or_gene_product 477 490	mammalian TOR
+T12	Gene_or_gene_product 492 496	mTOR
+T13	Gene_or_gene_product 548 574	Proline-rich Akt substrate
+T14	Gene_or_gene_product 576 582	PRAS40
+T15	Gene_or_gene_product 613 619	Q6MZQ0
+T16	Gene_or_gene_product 620 628	FLJ14213
+T17	Gene_or_gene_product 629 637	CAE45978
+T18	Gene_or_gene_product 645 649	mTOR
+T19	Gene_or_gene_product 668 674	PRAS40
+T20	Complex 681 687	mTORC1
+T21	Gene_or_gene_product 692 698	Raptor
+T22	Gene_or_gene_product 710 714	mTOR
+T23	Gene_or_gene_product 742 748	PRAS40
+T24	Complex 758 764	mTORC1
+T25	Complex 789 795	mTORC1
+T26	Gene_or_gene_product 819 841	eIF-4E binding protein
+T27	Gene_or_gene_product 843 848	4E-BP
+T28	Gene_or_gene_product 854 860	PRAS40
+T29	Gene_or_gene_product 889 895	PRAS40
+T30	Gene_or_gene_product 962 970	TNFalpha
+T31	Simple_chemical 975 988	cycloheximide
+T32	Simple_chemical 990 999	Rapamycin
+T33	Gene_or_gene_product 1044 1050	PRAS40
+T34	Gene_or_gene_product 1068 1074	PRAS40
+T35	Complex 1136 1142	mTORC1
+T36	Gene_or_gene_product 1144 1150	Q6MZQ0
+T37	Gene_or_gene_product 1178 1200	proline rich protein 5
+T38	Gene_or_gene_product 1202 1206	PRR5
+T39	Gene_or_gene_product 1232 1241	PRR5-Like
+T40	Gene_or_gene_product 1243 1248	PRR5L
+T41	Gene_or_gene_product 1251 1256	PRR5L
+T42	Complex 1279 1285	mTORC2
+T43	Gene_or_gene_product 1291 1297	Rictor
+T44	Gene_or_gene_product 1305 1309	SIN1
+T45	Complex 1324 1330	mTORC2
+T46	Gene_or_gene_product 1340 1345	PRR5L
+T47	Complex 1366 1372	mTORC2
+T48	Complex 1424 1430	mTORC2
+T49	Gene_or_gene_product 1450 1478	tuberous sclerosis complex 1
+T50	Gene_or_gene_product 1480 1484	TSC1
+T51	Gene_or_gene_product 1490 1494	TSC2
+T52	Gene_or_gene_product 1515 1519	mTOR
+T53	Gene_or_gene_product 1523 1527	TSC1
+T54	Gene_or_gene_product 1528 1529	2
+T55	Gene_or_gene_product 1568 1573	PRR5L
+T56	Gene_or_gene_product 1604 1609	PRR5L
+T57	Complex 1647 1653	mTORC2
+T58	Complex 1695 1701	mTORC2
+T59	Gene_or_gene_product 1714 1719	PRR5L
+T60	Gene_or_gene_product 1747 1751	mTOR
+T61	Gene_or_gene_product 1774 1780	PRAS40
+T62	Gene_or_gene_product 1785 1790	PRR5L
+T63	Gene_or_gene_product 1801 1805	mTOR
